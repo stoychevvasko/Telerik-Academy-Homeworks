@@ -1,0 +1,187 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Last name</title>
+</head>
+<body>
+    <!-- I did some styling the depricated way but more is ndeeded. For proper styling I'll use CSS once we've covered it. -->
+
+    <form class="lastNameForm" method="post" action="problem01.html">
+        <table border="1" bordercolor="080808" cellspacing="0" cellpadding="5px">
+            <colgroup>
+                <col style="width:300px" />
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="lastName">Last Name</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" id="lastName" value="Nakov" autofocus="autofocus"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="firstName">First Name</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" id="firstName" value="Svetlin" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="address">Address</label>
+                        </strong>
+                    </td>
+                    <td colspan="4">
+                        <!-- different indentation messes up the pre-fill of the text box -->
+                        <textarea id="address" rows="3" cols="50">
+17 Hristo Botev Str.
+floor 3., apt. 12
+                        </textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="city">City</label>
+                        </strong>
+                    </td>
+                    <td>
+                        <input type="text" id="city" value="Kaspichan" />
+                    </td>
+                    <td>
+                        <strong>
+                            <label for="state">State</label>
+                        </strong>
+                    </td>
+                    <td>
+                        <input type="text" id="state" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="zipCode">Zip/Postal Code</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" id="zipCode" value="9325" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="country">Country</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        <select name="country" id="country">
+                            <option value="Bulgaria" selected="selected">Bulgaria</option>
+                            <option value="USA">USA</option>
+                            <option value="UK">UK</option>
+                            <option value="other">other</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="phone">Phone (country code, area code, number)</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        (+
+                        <input type="tel" id="phone" value="359" />
+                        )
+                        <input type="tel" value="88" />
+                        <input type="tel" value="8334343" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="email">E-mail</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="email" id="email" required="true" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" value="nakov@kaspichan.org" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="birthMonth">Birth date</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+
+                        <label for="birthMonth">Month</label>
+
+                        <input type="text" id="birthMonth" value="06" />
+
+                        <label for="birthDate">Day</label>
+
+                        <input type="text" id="birthDate" value="14" />
+
+                        <label for="birthYear">Year (4 digit)</label>
+
+                        <input type="text" id="birthYear" value="1980" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="gender">Gender</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        <select name="gender" id="gender">
+                            <option value="male" selected="selected">Male</option>
+                            <option value="female">Female</option>
+                            <option value="other">Unspecified</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="startingDate1">Starting date</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="radio" name="startingDate" id="startingDate1" value="Spring 2006" />
+                        <label for="startingDate1">Spring 2006</label>
+                        <input type="radio" name="startingDate" id="startingDate2" value="Summer 2006" />
+                        <label for="startingDate2">Summer 2006</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>
+                            <label for="comments">Comments/Questions</label>
+                        </strong>
+                    </td>
+                    <td colspan="3">
+                        <textarea id="comments" rows="4" cols="50">
+Please send me mor information
+about the lodging.
+                        </textarea>
+                    </td>
+                </tr>
+                <tr bgcolor="PowderBlue">
+                    <td colspan="4" align="center">
+                        <input type="submit" value="Submit" />
+                        <input type="button" value="Clear Form" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

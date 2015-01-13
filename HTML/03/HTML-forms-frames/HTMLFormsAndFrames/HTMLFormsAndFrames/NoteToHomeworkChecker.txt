@@ -1,0 +1,16 @@
+﻿Hello and thanks for checking my homework, friend!
+
+
+I've validated it using the W3C validator tool. My errors are mostly the use of
+depricated HTML styling with advice to use CSS which is fair enough. We'll cover that 
+material in due time.
+
+I've got a problem with the table error messages though - it keeps telling me of inconsistent
+number of column/row elements and this happens whenever there is a table with merged cells.
+
+Do you have any advice for me on how to resolve those errors and still fulfill homework requirements?
+
+Thanks for spending some time reading this =) Your help is much appreciated =)
+
+
+Cheers!

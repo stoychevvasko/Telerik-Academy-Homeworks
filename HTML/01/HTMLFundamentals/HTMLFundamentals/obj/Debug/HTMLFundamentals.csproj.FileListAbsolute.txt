@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\HTML\01\HTMLFundamentals\HTMLFundamentals\bin\HTMLFundamentals.dll.config
+C:\Users\Vase\Desktop\homeworks\HTML\01\HTMLFundamentals\HTMLFundamentals\bin\HTMLFundamentals.dll
+C:\Users\Vase\Desktop\homeworks\HTML\01\HTMLFundamentals\HTMLFundamentals\bin\HTMLFundamentals.pdb
+C:\Users\Vase\Desktop\homeworks\HTML\01\HTMLFundamentals\HTMLFundamentals\obj\Debug\HTMLFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\HTML\01\HTMLFundamentals\HTMLFundamentals\obj\Debug\HTMLFundamentals.dll
+C:\Users\Vase\Desktop\homeworks\HTML\01\HTMLFundamentals\HTMLFundamentals\obj\Debug\HTMLFundamentals.pdb

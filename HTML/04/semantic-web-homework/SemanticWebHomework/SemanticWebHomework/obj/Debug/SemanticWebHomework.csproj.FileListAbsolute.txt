@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\HTML\04\semantic-web-homework\SemanticWebHomework\SemanticWebHomework\bin\SemanticWebHomework.dll.config
+C:\Users\Vase\Desktop\homeworks\HTML\04\semantic-web-homework\SemanticWebHomework\SemanticWebHomework\bin\SemanticWebHomework.dll
+C:\Users\Vase\Desktop\homeworks\HTML\04\semantic-web-homework\SemanticWebHomework\SemanticWebHomework\bin\SemanticWebHomework.pdb
+C:\Users\Vase\Desktop\homeworks\HTML\04\semantic-web-homework\SemanticWebHomework\SemanticWebHomework\obj\Debug\SemanticWebHomework.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\HTML\04\semantic-web-homework\SemanticWebHomework\SemanticWebHomework\obj\Debug\SemanticWebHomework.dll
+C:\Users\Vase\Desktop\homeworks\HTML\04\semantic-web-homework\SemanticWebHomework\SemanticWebHomework\obj\Debug\SemanticWebHomework.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\HTML\03\HTML-forms-frames\HTMLFormsAndFrames\HTMLFormsAndFrames\bin\HTMLFormsAndFrames.dll.config
+C:\Users\Vase\Desktop\homeworks\HTML\03\HTML-forms-frames\HTMLFormsAndFrames\HTMLFormsAndFrames\bin\HTMLFormsAndFrames.dll
+C:\Users\Vase\Desktop\homeworks\HTML\03\HTML-forms-frames\HTMLFormsAndFrames\HTMLFormsAndFrames\bin\HTMLFormsAndFrames.pdb
+C:\Users\Vase\Desktop\homeworks\HTML\03\HTML-forms-frames\HTMLFormsAndFrames\HTMLFormsAndFrames\obj\Debug\HTMLFormsAndFrames.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\HTML\03\HTML-forms-frames\HTMLFormsAndFrames\HTMLFormsAndFrames\obj\Debug\HTMLFormsAndFrames.dll
+C:\Users\Vase\Desktop\homeworks\HTML\03\HTML-forms-frames\HTMLFormsAndFrames\HTMLFormsAndFrames\obj\Debug\HTMLFormsAndFrames.pdb

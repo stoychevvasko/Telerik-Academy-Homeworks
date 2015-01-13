@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<!-- The W3C HTML5 validator dubs the use of the type attribute as obsolete and advises the use
+     of CSS instead, but I have used type since we haven't covered CSS yet and this attribute was
+     part of the PowerPoint presentation anyway. I realize it's a bad practice for real projects,
+     but this is just a homework. -->
+<head>
+    <title>Nested items example</title>
+</head>
+<body>
+    <div>
+        Preceeding text
+        <ol type="I">
+            <li>
+                <div>
+                    List item 1
+                </div>
+                <ol type="a">
+                    <li>
+                        Nested item 1.1
+                    </li>
+                    <li>
+                        Nested item 1.2
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <div>
+                    List item 2
+                </div>
+                <ol type="1">
+                    <li>
+                        Nested item 2.1
+                    </li>
+                    <li>
+                        <div>
+                            Nested item 2.2
+                        </div>
+                        <ul type="circle">
+                            <li>
+                                Nested item 2.2.1
+                            </li>
+                            <li>
+                                <div>
+                                    Nested item 2.2.2
+                                    <ul type="square">
+                                        <li>Nested item 2.2.2.1</li>
+                                        <li>Nested item 2.2.2.2</li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                Nested item 2.2.3
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Nested item 2.3
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <div>
+                    List item 3
+                    <ul type="disc">
+                        <li>
+                            Nested item 3.1
+                        </li>
+                        <li>
+                            Nested item 3.1
+                        </li>
+                        <li>
+                            Nested item 3.1
+                        </li>
+                    </ul>
+                </div>                
+            </li>
+        </ol>
+    </div>
+</body>
+</html>

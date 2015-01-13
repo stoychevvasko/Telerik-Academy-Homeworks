@@ -1,0 +1,12 @@
+C:\Users\Vase\Desktop\homeworks\HTML\02\HTMLTables\HTMLTables\bin\HTMLTables.dll.config
+C:\Users\Vase\Desktop\homeworks\HTML\02\HTMLTables\HTMLTables\bin\HTMLTables.dll
+C:\Users\Vase\Desktop\homeworks\HTML\02\HTMLTables\HTMLTables\bin\HTMLTables.pdb
+C:\Users\Vase\Desktop\homeworks\HTML\02\HTMLTables\HTMLTables\obj\Debug\HTMLTables.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\HTML\02\HTMLTables\HTMLTables\obj\Debug\HTMLTables.dll
+C:\Users\Vase\Desktop\homeworks\HTML\02\HTMLTables\HTMLTables\obj\Debug\HTMLTables.pdb
+F:\VASKO\homeworks\HTML\02\HTMLTables\HTMLTables\bin\HTMLTables.dll.config
+F:\VASKO\homeworks\HTML\02\HTMLTables\HTMLTables\bin\HTMLTables.dll
+F:\VASKO\homeworks\HTML\02\HTMLTables\HTMLTables\bin\HTMLTables.pdb
+F:\VASKO\homeworks\HTML\02\HTMLTables\HTMLTables\obj\Debug\HTMLTables.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\HTML\02\HTMLTables\HTMLTables\obj\Debug\HTMLTables.dll
+F:\VASKO\homeworks\HTML\02\HTMLTables\HTMLTables\obj\Debug\HTMLTables.pdb
