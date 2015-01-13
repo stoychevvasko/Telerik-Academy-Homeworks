@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\17. DatePlusTimeBg\bin\Debug\_17.DatePlusTimeBg.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\17. DatePlusTimeBg\bin\Debug\_17.DatePlusTimeBg.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\17. DatePlusTimeBg\bin\Debug\_17.DatePlusTimeBg.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\17. DatePlusTimeBg\obj\Debug\17. DatePlusTimeBg.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\17. DatePlusTimeBg\obj\Debug\_17.DatePlusTimeBg.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\17. DatePlusTimeBg\obj\Debug\_17.DatePlusTimeBg.pdb

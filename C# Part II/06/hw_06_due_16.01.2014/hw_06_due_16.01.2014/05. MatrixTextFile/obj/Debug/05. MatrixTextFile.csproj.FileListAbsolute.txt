@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\05. MatrixTextFile\bin\Debug\_05.MatrixTextFile.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\05. MatrixTextFile\bin\Debug\_05.MatrixTextFile.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\05. MatrixTextFile\bin\Debug\_05.MatrixTextFile.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\05. MatrixTextFile\obj\Debug\05. MatrixTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\05. MatrixTextFile\obj\Debug\_05.MatrixTextFile.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\05. MatrixTextFile\obj\Debug\_05.MatrixTextFile.pdb

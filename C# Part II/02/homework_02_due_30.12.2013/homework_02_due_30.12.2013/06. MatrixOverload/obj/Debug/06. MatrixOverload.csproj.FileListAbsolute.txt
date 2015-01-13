@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\06. MatrixOverload\bin\Debug\_06.MatrixOverload.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\06. MatrixOverload\bin\Debug\_06.MatrixOverload.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\06. MatrixOverload\bin\Debug\_06.MatrixOverload.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\06. MatrixOverload\obj\Debug\_06.MatrixOverload.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\06. MatrixOverload\obj\Debug\_06.MatrixOverload.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\13. MergeSort\bin\Debug\_13.MergeSort.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\13. MergeSort\bin\Debug\_13.MergeSort.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\13. MergeSort\bin\Debug\_13.MergeSort.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\13. MergeSort\obj\Debug\_13.MergeSort.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\13. MergeSort\obj\Debug\_13.MergeSort.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\13. MergeSort\obj\Debug\13. MergeSort.csprojResolveAssemblyReference.cache

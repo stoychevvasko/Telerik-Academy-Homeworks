@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\01. ArrayInitializationIndexX5\bin\Debug\_01.ArrayInitializationIndexX5.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\01. ArrayInitializationIndexX5\bin\Debug\_01.ArrayInitializationIndexX5.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\01. ArrayInitializationIndexX5\bin\Debug\_01.ArrayInitializationIndexX5.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\01. ArrayInitializationIndexX5\obj\Debug\01. ArrayInitializationIndexX5.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\01. ArrayInitializationIndexX5\obj\Debug\_01.ArrayInitializationIndexX5.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\01. ArrayInitializationIndexX5\obj\Debug\_01.ArrayInitializationIndexX5.pdb

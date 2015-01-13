@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\02. MaxSum3x3\bin\Debug\_02.MaxSum3x3.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\02. MaxSum3x3\bin\Debug\_02.MaxSum3x3.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\02. MaxSum3x3\bin\Debug\_02.MaxSum3x3.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\02. MaxSum3x3\obj\Debug\02. MaxSum3x3.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\02. MaxSum3x3\obj\Debug\_02.MaxSum3x3.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\02. MaxSum3x3\obj\Debug\_02.MaxSum3x3.pdb

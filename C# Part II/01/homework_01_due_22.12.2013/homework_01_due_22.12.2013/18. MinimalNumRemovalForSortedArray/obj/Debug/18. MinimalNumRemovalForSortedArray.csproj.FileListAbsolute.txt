@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\18. MinimalNumRemovalForSortedArray\bin\Debug\_18.MinimalNumRemovalForSortedArray.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\18. MinimalNumRemovalForSortedArray\bin\Debug\_18.MinimalNumRemovalForSortedArray.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\18. MinimalNumRemovalForSortedArray\bin\Debug\_18.MinimalNumRemovalForSortedArray.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\18. MinimalNumRemovalForSortedArray\obj\Debug\_18.MinimalNumRemovalForSortedArray.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\18. MinimalNumRemovalForSortedArray\obj\Debug\_18.MinimalNumRemovalForSortedArray.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\18. MinimalNumRemovalForSortedArray\obj\Debug\18. MinimalNumRemovalForSortedArray.csprojResolveAssemblyReference.cache

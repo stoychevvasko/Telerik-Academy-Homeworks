@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\03. LastDigitInWords\bin\Debug\_03.LastDigitInWords.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\03. LastDigitInWords\bin\Debug\_03.LastDigitInWords.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\03. LastDigitInWords\bin\Debug\_03.LastDigitInWords.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\03. LastDigitInWords\obj\Debug\_03.LastDigitInWords.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\03. LastDigitInWords\obj\Debug\_03.LastDigitInWords.pdb

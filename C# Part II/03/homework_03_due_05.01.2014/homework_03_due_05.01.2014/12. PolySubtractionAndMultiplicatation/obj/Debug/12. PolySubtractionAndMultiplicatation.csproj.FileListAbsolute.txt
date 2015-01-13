@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\12. PolySubtractionAndMultiplicatation\bin\Debug\_12.PolySubtractionAndMultiplicatation.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\12. PolySubtractionAndMultiplicatation\bin\Debug\_12.PolySubtractionAndMultiplicatation.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\12. PolySubtractionAndMultiplicatation\bin\Debug\_12.PolySubtractionAndMultiplicatation.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\12. PolySubtractionAndMultiplicatation\obj\Debug\12. PolySubtractionAndMultiplicatation.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\12. PolySubtractionAndMultiplicatation\obj\Debug\_12.PolySubtractionAndMultiplicatation.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\12. PolySubtractionAndMultiplicatation\obj\Debug\_12.PolySubtractionAndMultiplicatation.pdb

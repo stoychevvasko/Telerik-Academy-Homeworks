@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\04. ArrayOfNIntsFindLargestBelowK\bin\Debug\_04.ArrayOfNIntsFindLargestBelowK.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\04. ArrayOfNIntsFindLargestBelowK\bin\Debug\_04.ArrayOfNIntsFindLargestBelowK.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\04. ArrayOfNIntsFindLargestBelowK\bin\Debug\_04.ArrayOfNIntsFindLargestBelowK.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\04. ArrayOfNIntsFindLargestBelowK\obj\Debug\_04.ArrayOfNIntsFindLargestBelowK.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\04. ArrayOfNIntsFindLargestBelowK\obj\Debug\_04.ArrayOfNIntsFindLargestBelowK.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\04. ArrayOfNIntsFindLargestBelowK\obj\Debug\04. ArrayOfNIntsFindLargestBelowK.csprojResolveAssemblyReference.cache

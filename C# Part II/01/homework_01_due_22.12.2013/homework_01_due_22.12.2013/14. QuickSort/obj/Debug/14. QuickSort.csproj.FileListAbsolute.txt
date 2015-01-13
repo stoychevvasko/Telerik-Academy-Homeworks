@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\14. QuickSort\bin\Debug\_14.QuickSort.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\14. QuickSort\bin\Debug\_14.QuickSort.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\14. QuickSort\bin\Debug\_14.QuickSort.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\14. QuickSort\obj\Debug\_14.QuickSort.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\14. QuickSort\obj\Debug\_14.QuickSort.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\14. QuickSort\obj\Debug\14. QuickSort.csprojResolveAssemblyReference.cache

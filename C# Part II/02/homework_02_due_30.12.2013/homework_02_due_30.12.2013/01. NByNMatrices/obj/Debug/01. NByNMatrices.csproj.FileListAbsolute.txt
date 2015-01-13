@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\01. NByNMatrices\bin\Debug\_01.NByNMatrices.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\01. NByNMatrices\bin\Debug\_01.NByNMatrices.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\01. NByNMatrices\bin\Debug\_01.NByNMatrices.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\01. NByNMatrices\obj\Debug\01. NByNMatrices.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\01. NByNMatrices\obj\Debug\_01.NByNMatrices.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\01. NByNMatrices\obj\Debug\_01.NByNMatrices.pdb

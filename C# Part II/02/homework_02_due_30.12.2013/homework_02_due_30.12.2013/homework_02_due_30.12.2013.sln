@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. NByNMatrices", "01. NByNMatrices\01. NByNMatrices.csproj", "{2A4EAD34-2A40-4D33-A476-CF1E145DD2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MaxSum3x3", "02. MaxSum3x3\02. MaxSum3x3.csproj", "{0836FB86-24CE-46DF-A5C0-48979607CB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MaxSequencesInMatrix", "03. MaxSequencesInMatrix\03. MaxSequencesInMatrix.csproj", "{99F7725E-66A9-4518-BFE8-EF952FA14FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. ArrayOfNIntsFindLargestBelowK", "04. ArrayOfNIntsFindLargestBelowK\04. ArrayOfNIntsFindLargestBelowK.csproj", "{363CF199-72DB-45CD-A8B2-AC6D989B691E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SortStringArrayByLength", "05. SortStringArrayByLength\05. SortStringArrayByLength.csproj", "{85D3F4CE-0A3E-4069-9A2D-B6BB875B1AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. MatrixOverload", "06. MatrixOverload\06. MatrixOverload.csproj", "{251AB0EF-F70A-4ABE-936F-957729F4955B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. MaxAreaOfEqualNeighboursInMatrix", "07. MaxAreaOfEqualNeighboursInMatrix\07. MaxAreaOfEqualNeighboursInMatrix.csproj", "{63FBC5F0-80AF-4BA4-BF2D-DC03C8324127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4EAD34-2A40-4D33-A476-CF1E145DD2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4EAD34-2A40-4D33-A476-CF1E145DD2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4EAD34-2A40-4D33-A476-CF1E145DD2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4EAD34-2A40-4D33-A476-CF1E145DD2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0836FB86-24CE-46DF-A5C0-48979607CB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0836FB86-24CE-46DF-A5C0-48979607CB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0836FB86-24CE-46DF-A5C0-48979607CB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0836FB86-24CE-46DF-A5C0-48979607CB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F7725E-66A9-4518-BFE8-EF952FA14FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F7725E-66A9-4518-BFE8-EF952FA14FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F7725E-66A9-4518-BFE8-EF952FA14FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F7725E-66A9-4518-BFE8-EF952FA14FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363CF199-72DB-45CD-A8B2-AC6D989B691E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363CF199-72DB-45CD-A8B2-AC6D989B691E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363CF199-72DB-45CD-A8B2-AC6D989B691E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363CF199-72DB-45CD-A8B2-AC6D989B691E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D3F4CE-0A3E-4069-9A2D-B6BB875B1AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D3F4CE-0A3E-4069-9A2D-B6BB875B1AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D3F4CE-0A3E-4069-9A2D-B6BB875B1AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D3F4CE-0A3E-4069-9A2D-B6BB875B1AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251AB0EF-F70A-4ABE-936F-957729F4955B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251AB0EF-F70A-4ABE-936F-957729F4955B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251AB0EF-F70A-4ABE-936F-957729F4955B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251AB0EF-F70A-4ABE-936F-957729F4955B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FBC5F0-80AF-4BA4-BF2D-DC03C8324127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FBC5F0-80AF-4BA4-BF2D-DC03C8324127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FBC5F0-80AF-4BA4-BF2D-DC03C8324127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FBC5F0-80AF-4BA4-BF2D-DC03C8324127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

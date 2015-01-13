@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\07. StartRewriteFinish\bin\Debug\_07.StartRewriteFinish.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\07. StartRewriteFinish\bin\Debug\_07.StartRewriteFinish.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\07. StartRewriteFinish\bin\Debug\_07.StartRewriteFinish.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\07. StartRewriteFinish\obj\Debug\07. StartRewriteFinish.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\07. StartRewriteFinish\obj\Debug\_07.StartRewriteFinish.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\07. StartRewriteFinish\obj\Debug\_07.StartRewriteFinish.pdb

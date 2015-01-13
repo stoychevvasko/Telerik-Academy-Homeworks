@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\04. TriangleSurface\bin\Debug\_04.TriangleSurface.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\04. TriangleSurface\bin\Debug\_04.TriangleSurface.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\04. TriangleSurface\bin\Debug\_04.TriangleSurface.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\04. TriangleSurface\obj\Debug\_04.TriangleSurface.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\04. TriangleSurface\obj\Debug\_04.TriangleSurface.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\04. TriangleSurface\obj\Debug\04. TriangleSurface.csprojResolveAssemblyReference.cache

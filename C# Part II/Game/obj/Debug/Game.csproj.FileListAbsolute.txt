@@ -1,0 +1,30 @@
+C:\Users\Vase\Desktop\New folder\offline\Game\bin\Debug\Game.exe.config
+C:\Users\Vase\Desktop\New folder\offline\Game\bin\Debug\Game.exe
+C:\Users\Vase\Desktop\New folder\offline\Game\bin\Debug\Game.pdb
+C:\Users\Vase\Desktop\New folder\offline\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\New folder\offline\Game\obj\Debug\Game.exe
+C:\Users\Vase\Desktop\New folder\offline\Game\obj\Debug\Game.pdb
+C:\Users\Vase\Desktop\offline\Game\bin\Debug\Game.exe.config
+C:\Users\Vase\Desktop\offline\Game\obj\Debug\Game.exe
+C:\Users\Vase\Desktop\offline\Game\obj\Debug\Game.pdb
+C:\Users\Vase\Desktop\offline\Game\bin\Debug\Game.exe
+C:\Users\Vase\Desktop\offline\Game\bin\Debug\Game.pdb
+C:\Users\Vase\Desktop\offline\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\Group_project_2\offline\Game\bin\Debug\Game.exe.config
+F:\VASKO\homeworks\Group_project_2\offline\Game\obj\Debug\Game.exe
+F:\VASKO\homeworks\Group_project_2\offline\Game\obj\Debug\Game.pdb
+F:\VASKO\homeworks\Group_project_2\offline\Game\bin\Debug\Game.exe
+F:\VASKO\homeworks\Group_project_2\offline\Game\bin\Debug\Game.pdb
+F:\VASKO\homeworks\Group_project_2\offline\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\GroupProject2\offline\Game\bin\Debug\Game.exe.config
+C:\Users\Vase\Desktop\GroupProject2\offline\Game\obj\Debug\Game.exe
+C:\Users\Vase\Desktop\GroupProject2\offline\Game\obj\Debug\Game.pdb
+C:\Users\Vase\Desktop\GroupProject2\offline\Game\bin\Debug\Game.exe
+C:\Users\Vase\Desktop\GroupProject2\offline\Game\bin\Debug\Game.pdb
+C:\Users\Vase\Desktop\GroupProject2\offline\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\offline (2)\offline\Game\bin\Debug\Game.exe.config
+C:\Users\Tanya\Desktop\offline (2)\offline\Game\obj\Debug\Game.exe
+C:\Users\Tanya\Desktop\offline (2)\offline\Game\obj\Debug\Game.pdb
+C:\Users\Tanya\Desktop\offline (2)\offline\Game\bin\Debug\Game.exe
+C:\Users\Tanya\Desktop\offline (2)\offline\Game\bin\Debug\Game.pdb
+C:\Users\Tanya\Desktop\offline (2)\offline\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache

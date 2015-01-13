@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\09. WordMasker\bin\Debug\_09.WordMasker.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\09. WordMasker\bin\Debug\_09.WordMasker.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\09. WordMasker\bin\Debug\_09.WordMasker.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\09. WordMasker\obj\Debug\_09.WordMasker.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\09. WordMasker\obj\Debug\_09.WordMasker.pdb

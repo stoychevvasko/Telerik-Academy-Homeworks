@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\02. StringReverser\bin\Debug\_02.StringReverser.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\02. StringReverser\bin\Debug\_02.StringReverser.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\02. StringReverser\bin\Debug\_02.StringReverser.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\02. StringReverser\obj\Debug\_02.StringReverser.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\02. StringReverser\obj\Debug\_02.StringReverser.pdb

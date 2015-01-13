@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\07. MaxAreaOfEqualNeighboursInMatrix\bin\Debug\_07.MaxAreaOfEqualNeighboursInMatrix.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\07. MaxAreaOfEqualNeighboursInMatrix\bin\Debug\_07.MaxAreaOfEqualNeighboursInMatrix.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\07. MaxAreaOfEqualNeighboursInMatrix\bin\Debug\_07.MaxAreaOfEqualNeighboursInMatrix.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\07. MaxAreaOfEqualNeighboursInMatrix\obj\Debug\_07.MaxAreaOfEqualNeighboursInMatrix.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\07. MaxAreaOfEqualNeighboursInMatrix\obj\Debug\_07.MaxAreaOfEqualNeighboursInMatrix.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\07. MaxAreaOfEqualNeighboursInMatrix\obj\Debug\07. MaxAreaOfEqualNeighboursInMatrix.csprojResolveAssemblyReference.cache

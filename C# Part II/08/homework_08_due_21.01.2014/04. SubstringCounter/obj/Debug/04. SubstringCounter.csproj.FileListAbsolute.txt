@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\04. SubstringCounter\bin\Debug\_04.SubstringCounter.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\04. SubstringCounter\bin\Debug\_04.SubstringCounter.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\04. SubstringCounter\bin\Debug\_04.SubstringCounter.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\04. SubstringCounter\obj\Debug\04. SubstringCounter.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\04. SubstringCounter\obj\Debug\_04.SubstringCounter.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\04. SubstringCounter\obj\Debug\_04.SubstringCounter.pdb

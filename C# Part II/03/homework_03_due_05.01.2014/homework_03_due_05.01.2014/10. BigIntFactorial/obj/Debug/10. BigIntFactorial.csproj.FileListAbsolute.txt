@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\10. BigIntFactorial\bin\Debug\_10.BigIntFactorial.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\10. BigIntFactorial\bin\Debug\_10.BigIntFactorial.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\10. BigIntFactorial\bin\Debug\_10.BigIntFactorial.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\10. BigIntFactorial\obj\Debug\_10.BigIntFactorial.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\10. BigIntFactorial\obj\Debug\_10.BigIntFactorial.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\10. BigIntFactorial\obj\Debug\10. BigIntFactorial.csprojResolveAssemblyReference.cache

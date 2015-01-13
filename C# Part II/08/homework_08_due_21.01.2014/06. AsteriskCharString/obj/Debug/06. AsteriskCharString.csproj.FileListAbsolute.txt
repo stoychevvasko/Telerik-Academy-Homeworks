@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\06. AsteriskCharString\bin\Debug\_06.AsteriskCharString.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\06. AsteriskCharString\bin\Debug\_06.AsteriskCharString.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\06. AsteriskCharString\bin\Debug\_06.AsteriskCharString.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\06. AsteriskCharString\obj\Debug\06. AsteriskCharString.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\06. AsteriskCharString\obj\Debug\_06.AsteriskCharString.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\06. AsteriskCharString\obj\Debug\_06.AsteriskCharString.pdb

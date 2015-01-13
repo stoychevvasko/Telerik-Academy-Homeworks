@@ -1,0 +1,12 @@
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\bin\Debug\_01.PrintOddLinesFromFile.exe.config
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\obj\Debug\01. PrintOddLinesFromFile.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\bin\Debug\_01.PrintOddLinesFromFile.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\bin\Debug\_01.PrintOddLinesFromFile.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\obj\Debug\_01.PrintOddLinesFromFile.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\obj\Debug\_01.PrintOddLinesFromFile.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\bin\Debug\_01.PrintOddLinesFromFile.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\obj\Debug\_01.PrintOddLinesFromFile.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\obj\Debug\_01.PrintOddLinesFromFile.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\bin\Debug\_01.PrintOddLinesFromFile.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\bin\Debug\_01.PrintOddLinesFromFile.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\01. PrintOddLinesFromFile\obj\Debug\01. PrintOddLinesFromFile.csprojResolveAssemblyReference.cache

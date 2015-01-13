@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\11. BinarySearch\bin\Debug\_11.BinarySearch.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\11. BinarySearch\bin\Debug\_11.BinarySearch.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb

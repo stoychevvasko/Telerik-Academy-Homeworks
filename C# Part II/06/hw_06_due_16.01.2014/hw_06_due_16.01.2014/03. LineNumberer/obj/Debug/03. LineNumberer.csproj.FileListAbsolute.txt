@@ -1,0 +1,12 @@
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\bin\Debug\_03.LineNumberer.exe.config
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\bin\Debug\_03.LineNumberer.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\bin\Debug\_03.LineNumberer.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\obj\Debug\_03.LineNumberer.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\obj\Debug\_03.LineNumberer.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\obj\Debug\03. LineNumberer.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\bin\Debug\_03.LineNumberer.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\obj\Debug\_03.LineNumberer.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\obj\Debug\_03.LineNumberer.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\bin\Debug\_03.LineNumberer.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\bin\Debug\_03.LineNumberer.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\03. LineNumberer\obj\Debug\03. LineNumberer.csprojResolveAssemblyReference.cache

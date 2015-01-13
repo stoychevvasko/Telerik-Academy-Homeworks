@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\03. WeekdayToday\bin\Debug\_03.WeekdayToday.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\03. WeekdayToday\bin\Debug\_03.WeekdayToday.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\03. WeekdayToday\bin\Debug\_03.WeekdayToday.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\03. WeekdayToday\obj\Debug\_03.WeekdayToday.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\03. WeekdayToday\obj\Debug\_03.WeekdayToday.pdb

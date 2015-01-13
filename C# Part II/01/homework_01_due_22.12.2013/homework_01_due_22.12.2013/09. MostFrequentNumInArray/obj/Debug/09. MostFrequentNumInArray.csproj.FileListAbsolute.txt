@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\09. MostFrequentNumInArray\bin\Debug\_09.MostFrequentNumInArray.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\09. MostFrequentNumInArray\bin\Debug\_09.MostFrequentNumInArray.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\09. MostFrequentNumInArray\bin\Debug\_09.MostFrequentNumInArray.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\09. MostFrequentNumInArray\obj\Debug\_09.MostFrequentNumInArray.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\09. MostFrequentNumInArray\obj\Debug\_09.MostFrequentNumInArray.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\09. MostFrequentNumInArray\obj\Debug\09. MostFrequentNumInArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\bin\Debug\_02.MergeTextFiles.exe.config
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\bin\Debug\_02.MergeTextFiles.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\bin\Debug\_02.MergeTextFiles.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\obj\Debug\_02.MergeTextFiles.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\obj\Debug\_02.MergeTextFiles.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\obj\Debug\02. MergeTextFiles.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\bin\Debug\_02.MergeTextFiles.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\obj\Debug\_02.MergeTextFiles.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\obj\Debug\_02.MergeTextFiles.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\bin\Debug\_02.MergeTextFiles.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\bin\Debug\_02.MergeTextFiles.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\02. MergeTextFiles\obj\Debug\02. MergeTextFiles.csprojResolveAssemblyReference.cache

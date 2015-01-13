@@ -1,0 +1,18 @@
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04\bin\Debug\04.exe.config
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04\bin\Debug\04.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04\bin\Debug\04.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04\obj\Debug\04. TextComparer.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04\obj\Debug\04.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04\obj\Debug\04.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\bin\Debug\04.exe.config
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\obj\Debug\04.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\obj\Debug\04.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\bin\Debug\04.exe
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\bin\Debug\04.pdb
+F:\VASKO\homeworks\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\obj\Debug\04. TextComparer.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\bin\Debug\04.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\obj\Debug\04.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\obj\Debug\04.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\bin\Debug\04.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\bin\Debug\04.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\04. TextComparer\obj\Debug\04. TextComparer.csprojResolveAssemblyReference.cache

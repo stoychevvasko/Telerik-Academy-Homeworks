@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\07. EncoderDecoder\bin\Debug\_07.EncoderDecoder.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\07. EncoderDecoder\bin\Debug\_07.EncoderDecoder.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\07. EncoderDecoder\bin\Debug\_07.EncoderDecoder.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\07. EncoderDecoder\obj\Debug\_07.EncoderDecoder.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\07. EncoderDecoder\obj\Debug\_07.EncoderDecoder.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\07. EncoderDecoder\obj\Debug\07. EncoderDecoder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\02. BinToDec\bin\Debug\_02.BinToDec.exe.config
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\02. BinToDec\bin\Debug\_02.BinToDec.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\02. BinToDec\bin\Debug\_02.BinToDec.pdb
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\02. BinToDec\obj\Debug\02. BinToDec.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\02. BinToDec\obj\Debug\_02.BinToDec.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\02. BinToDec\obj\Debug\_02.BinToDec.pdb

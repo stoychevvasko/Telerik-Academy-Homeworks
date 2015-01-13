@@ -1,0 +1,18 @@
+01 A long time ago, in a galaxy far, far away....
+02 
+03 It is a period of civil war. Rebel
+04 spaceships, striking from a hidden
+05 base, have won their first victory
+06 against the evil Galactic Empire.
+07 
+08 During the battle, Rebel spies managed
+09 to steal secret plans to the Empire's
+10 ultimate weapon, the Death Star, an
+11 armored space station with enough
+12 power to destroy an entire planet.
+13 
+14 Pursued by the Empire's sinister agents,
+15 Princess Leia races home aboard her
+16 starship, custodian of the stolen plans
+17 that can save her people and restore
+18 freedom to the galaxy...

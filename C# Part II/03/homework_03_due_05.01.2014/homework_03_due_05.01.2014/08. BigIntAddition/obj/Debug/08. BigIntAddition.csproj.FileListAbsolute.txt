@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\08. BigIntAddition\bin\Debug\_08.BigIntAddition.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\08. BigIntAddition\bin\Debug\_08.BigIntAddition.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\08. BigIntAddition\bin\Debug\_08.BigIntAddition.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\08. BigIntAddition\obj\Debug\_08.BigIntAddition.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\08. BigIntAddition\obj\Debug\_08.BigIntAddition.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\08. BigIntAddition\obj\Debug\08. BigIntAddition.csprojResolveAssemblyReference.cache

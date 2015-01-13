@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\14. MethodsWithVariableNumOfParameters\bin\Debug\_14.MethodsWithVariableNumOfParameters.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\14. MethodsWithVariableNumOfParameters\bin\Debug\_14.MethodsWithVariableNumOfParameters.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\14. MethodsWithVariableNumOfParameters\bin\Debug\_14.MethodsWithVariableNumOfParameters.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\14. MethodsWithVariableNumOfParameters\obj\Debug\14. MethodsWithVariableNumOfParameters.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\14. MethodsWithVariableNumOfParameters\obj\Debug\_14.MethodsWithVariableNumOfParameters.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\14. MethodsWithVariableNumOfParameters\obj\Debug\_14.MethodsWithVariableNumOfParameters.pdb

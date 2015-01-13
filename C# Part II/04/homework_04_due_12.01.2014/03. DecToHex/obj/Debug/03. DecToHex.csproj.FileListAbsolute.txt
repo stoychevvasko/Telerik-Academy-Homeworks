@@ -1,0 +1,8 @@
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\03. DecToHex\bin\Debug\_03.DecToHex.exe.config
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\03. DecToHex\bin\Debug\_03.DecToHex.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\03. DecToHex\bin\Debug\_03.DecToHex.pdb
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\03. DecToHex\obj\Debug\_03.DecToHex.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\03. DecToHex\obj\Debug\_03.DecToHex.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\03. DecToHex\bin\Debug\_03.DecToHex.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\03. DecToHex\obj\Debug\_03.DecToHex.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\03. DecToHex\obj\Debug\_03.DecToHex.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\04. MaxSeqOfEqualElements\bin\Debug\_04.MaxSeqOfEqualElements.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\04. MaxSeqOfEqualElements\bin\Debug\_04.MaxSeqOfEqualElements.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\04. MaxSeqOfEqualElements\bin\Debug\_04.MaxSeqOfEqualElements.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\04. MaxSeqOfEqualElements\obj\Debug\_04.MaxSeqOfEqualElements.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\04. MaxSeqOfEqualElements\obj\Debug\_04.MaxSeqOfEqualElements.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\04. MaxSeqOfEqualElements\obj\Debug\04. MaxSeqOfEqualElements.csprojResolveAssemblyReference.cache

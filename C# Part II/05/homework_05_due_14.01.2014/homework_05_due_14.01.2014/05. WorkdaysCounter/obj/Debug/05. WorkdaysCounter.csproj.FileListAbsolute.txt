@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\05. WorkdaysCounter\bin\Debug\_05.WorkdaysCounter.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\05. WorkdaysCounter\bin\Debug\_05.WorkdaysCounter.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\05. WorkdaysCounter\bin\Debug\_05.WorkdaysCounter.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\05. WorkdaysCounter\obj\Debug\_05.WorkdaysCounter.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\05. WorkdaysCounter\obj\Debug\_05.WorkdaysCounter.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\05. WorkdaysCounter\obj\Debug\05. WorkdaysCounter.csprojResolveAssemblyReference.cache

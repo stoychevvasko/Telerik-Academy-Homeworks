@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\11. NumberPrinter\bin\Debug\_11.NumberPrinter.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\11. NumberPrinter\bin\Debug\_11.NumberPrinter.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\11. NumberPrinter\bin\Debug\_11.NumberPrinter.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\11. NumberPrinter\obj\Debug\11. NumberPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\11. NumberPrinter\obj\Debug\_11.NumberPrinter.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\11. NumberPrinter\obj\Debug\_11.NumberPrinter.pdb

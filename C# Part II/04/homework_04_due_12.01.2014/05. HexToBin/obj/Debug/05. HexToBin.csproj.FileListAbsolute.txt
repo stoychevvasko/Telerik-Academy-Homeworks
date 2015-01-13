@@ -1,0 +1,6 @@
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\05. HexToBin\bin\Debug\_05.HexToBin.exe.config
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\05. HexToBin\bin\Debug\_05.HexToBin.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\05. HexToBin\bin\Debug\_05.HexToBin.pdb
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\05. HexToBin\obj\Debug\05. HexToBin.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\05. HexToBin\obj\Debug\_05.HexToBin.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\05. HexToBin\obj\Debug\_05.HexToBin.pdb

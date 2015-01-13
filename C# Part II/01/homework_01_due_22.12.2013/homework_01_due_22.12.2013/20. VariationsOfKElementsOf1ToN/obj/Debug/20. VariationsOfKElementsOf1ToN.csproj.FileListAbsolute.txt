@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\20. VariationsOfKElementsOf1ToN\bin\Debug\_20.VariationsOfKElementsOf1ToN.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\20. VariationsOfKElementsOf1ToN\bin\Debug\_20.VariationsOfKElementsOf1ToN.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\20. VariationsOfKElementsOf1ToN\bin\Debug\_20.VariationsOfKElementsOf1ToN.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\20. VariationsOfKElementsOf1ToN\obj\Debug\_20.VariationsOfKElementsOf1ToN.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\20. VariationsOfKElementsOf1ToN\obj\Debug\_20.VariationsOfKElementsOf1ToN.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\20. VariationsOfKElementsOf1ToN\obj\Debug\20. VariationsOfKElementsOf1ToN.csprojResolveAssemblyReference.cache

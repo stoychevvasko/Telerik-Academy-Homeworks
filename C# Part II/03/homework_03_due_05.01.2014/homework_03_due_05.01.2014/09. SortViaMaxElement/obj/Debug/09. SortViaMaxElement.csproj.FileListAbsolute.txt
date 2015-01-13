@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\09. SortViaMaxElement\bin\Debug\_09.SortViaMaxElement.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\09. SortViaMaxElement\bin\Debug\_09.SortViaMaxElement.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\09. SortViaMaxElement\bin\Debug\_09.SortViaMaxElement.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\09. SortViaMaxElement\obj\Debug\09. SortViaMaxElement.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\09. SortViaMaxElement\obj\Debug\_09.SortViaMaxElement.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\09. SortViaMaxElement\obj\Debug\_09.SortViaMaxElement.pdb

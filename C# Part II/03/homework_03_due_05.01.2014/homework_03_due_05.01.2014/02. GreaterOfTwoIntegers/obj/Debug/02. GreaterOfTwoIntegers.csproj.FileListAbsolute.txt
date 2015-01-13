@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\02. GreaterOfTwoIntegers\bin\Debug\_02.GreaterOfTwoIntegers.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\02. GreaterOfTwoIntegers\bin\Debug\_02.GreaterOfTwoIntegers.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\02. GreaterOfTwoIntegers\bin\Debug\_02.GreaterOfTwoIntegers.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\02. GreaterOfTwoIntegers\obj\Debug\_02.GreaterOfTwoIntegers.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\02. GreaterOfTwoIntegers\obj\Debug\_02.GreaterOfTwoIntegers.pdb

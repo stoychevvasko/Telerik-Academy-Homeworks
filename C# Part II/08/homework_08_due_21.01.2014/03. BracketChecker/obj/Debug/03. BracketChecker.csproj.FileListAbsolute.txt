@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\03. BracketChecker\bin\Debug\_03.BracketChecker.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\03. BracketChecker\bin\Debug\_03.BracketChecker.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\03. BracketChecker\bin\Debug\_03.BracketChecker.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\03. BracketChecker\obj\Debug\_03.BracketChecker.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\03. BracketChecker\obj\Debug\_03.BracketChecker.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\03. MaxSequencesInMatrix\bin\Debug\_03.MaxSequencesInMatrix.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\03. MaxSequencesInMatrix\bin\Debug\_03.MaxSequencesInMatrix.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\03. MaxSequencesInMatrix\bin\Debug\_03.MaxSequencesInMatrix.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\03. MaxSequencesInMatrix\obj\Debug\_03.MaxSequencesInMatrix.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\03. MaxSequencesInMatrix\obj\Debug\_03.MaxSequencesInMatrix.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\03. MaxSequencesInMatrix\obj\Debug\03. MaxSequencesInMatrix.csprojResolveAssemblyReference.cache

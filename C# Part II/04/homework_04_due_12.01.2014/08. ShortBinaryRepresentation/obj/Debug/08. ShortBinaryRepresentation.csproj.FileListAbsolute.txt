@@ -1,0 +1,8 @@
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\08. ShortBinaryRepresentation\bin\Debug\_08.ShortBinaryRepresentation.exe.config
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\08. ShortBinaryRepresentation\bin\Debug\_08.ShortBinaryRepresentation.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\08. ShortBinaryRepresentation\bin\Debug\_08.ShortBinaryRepresentation.pdb
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\08. ShortBinaryRepresentation\obj\Debug\_08.ShortBinaryRepresentation.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\08. ShortBinaryRepresentation\obj\Debug\_08.ShortBinaryRepresentation.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\08. ShortBinaryRepresentation\bin\Debug\_08.ShortBinaryRepresentation.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\08. ShortBinaryRepresentation\obj\Debug\_08.ShortBinaryRepresentation.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\08. ShortBinaryRepresentation\obj\Debug\_08.ShortBinaryRepresentation.pdb

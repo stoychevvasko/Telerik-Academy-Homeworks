@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\12. AlphabetArrayIndexPrint\bin\Debug\_12.AlphabetArrayIndexPrint.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\12. AlphabetArrayIndexPrint\bin\Debug\_12.AlphabetArrayIndexPrint.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\12. AlphabetArrayIndexPrint\bin\Debug\_12.AlphabetArrayIndexPrint.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\12. AlphabetArrayIndexPrint\obj\Debug\_12.AlphabetArrayIndexPrint.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\12. AlphabetArrayIndexPrint\obj\Debug\_12.AlphabetArrayIndexPrint.pdb

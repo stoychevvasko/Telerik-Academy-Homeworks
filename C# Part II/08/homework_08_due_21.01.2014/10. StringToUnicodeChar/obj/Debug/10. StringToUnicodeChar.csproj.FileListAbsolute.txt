@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\10. StringToUnicodeChar\bin\Debug\_10.StringToUnicodeChar.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\10. StringToUnicodeChar\bin\Debug\_10.StringToUnicodeChar.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\10. StringToUnicodeChar\bin\Debug\_10.StringToUnicodeChar.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\10. StringToUnicodeChar\obj\Debug\_10.StringToUnicodeChar.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\10. StringToUnicodeChar\obj\Debug\_10.StringToUnicodeChar.pdb

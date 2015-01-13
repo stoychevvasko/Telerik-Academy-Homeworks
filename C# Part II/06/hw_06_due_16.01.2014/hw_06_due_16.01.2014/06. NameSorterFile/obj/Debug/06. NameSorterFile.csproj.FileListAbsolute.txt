@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\06. NameSorterFile\bin\Debug\_06.NameSorterFile.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\06. NameSorterFile\bin\Debug\_06.NameSorterFile.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\06. NameSorterFile\bin\Debug\_06.NameSorterFile.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\06. NameSorterFile\obj\Debug\_06.NameSorterFile.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\06\hw_06_due_16.01.2014\hw_06_due_16.01.2014\06. NameSorterFile\obj\Debug\_06.NameSorterFile.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\03. FileReaderExceptions\bin\Debug\_03.FileReaderExceptions.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\03. FileReaderExceptions\bin\Debug\_03.FileReaderExceptions.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\03. FileReaderExceptions\bin\Debug\_03.FileReaderExceptions.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\03. FileReaderExceptions\obj\Debug\_03.FileReaderExceptions.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\03. FileReaderExceptions\obj\Debug\_03.FileReaderExceptions.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\03. FileReaderExceptions\obj\Debug\03. FileReaderExceptions.csprojResolveAssemblyReference.cache

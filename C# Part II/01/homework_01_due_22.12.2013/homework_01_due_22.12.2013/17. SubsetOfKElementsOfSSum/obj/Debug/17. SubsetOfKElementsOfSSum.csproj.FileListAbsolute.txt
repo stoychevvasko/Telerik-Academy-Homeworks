@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\17. SubsetOfKElementsOfSSum\bin\Debug\_17.SubsetOfKElementsOfSSum.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\17. SubsetOfKElementsOfSSum\bin\Debug\_17.SubsetOfKElementsOfSSum.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\17. SubsetOfKElementsOfSSum\bin\Debug\_17.SubsetOfKElementsOfSSum.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\17. SubsetOfKElementsOfSSum\obj\Debug\_17.SubsetOfKElementsOfSSum.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\17. SubsetOfKElementsOfSSum\obj\Debug\_17.SubsetOfKElementsOfSSum.pdb

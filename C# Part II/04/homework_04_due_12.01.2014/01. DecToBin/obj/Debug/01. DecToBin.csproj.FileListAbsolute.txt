@@ -1,0 +1,9 @@
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\01. DecToBin\bin\Debug\_01.DecToBin.exe.config
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\01. DecToBin\bin\Debug\_01.DecToBin.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\01. DecToBin\bin\Debug\_01.DecToBin.pdb
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\01. DecToBin\obj\Debug\01. DecToBin.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\01. DecToBin\obj\Debug\_01.DecToBin.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\01. DecToBin\obj\Debug\_01.DecToBin.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\01. DecToBin\bin\Debug\_01.DecToBin.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\01. DecToBin\obj\Debug\_01.DecToBin.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\01. DecToBin\obj\Debug\_01.DecToBin.pdb

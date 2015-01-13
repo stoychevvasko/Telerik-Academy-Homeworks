@@ -1,0 +1,12 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\13. WordReverserInSentence\bin\Debug\_13.WordReverserInSentence.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\13. WordReverserInSentence\bin\Debug\_13.WordReverserInSentence.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\13. WordReverserInSentence\bin\Debug\_13.WordReverserInSentence.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\13. WordReverserInSentence\obj\Debug\13. WordReverserInSentence.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\13. WordReverserInSentence\obj\Debug\_13.WordReverserInSentence.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\13. WordReverserInSentence\obj\Debug\_13.WordReverserInSentence.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\13. WordReverserInSentence\bin\Debug\_13.WordReverserInSentence.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\13. WordReverserInSentence\obj\Debug\_13.WordReverserInSentence.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\13. WordReverserInSentence\obj\Debug\_13.WordReverserInSentence.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\13. WordReverserInSentence\bin\Debug\_13.WordReverserInSentence.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\13. WordReverserInSentence\bin\Debug\_13.WordReverserInSentence.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\13. WordReverserInSentence\obj\Debug\13. WordReverserInSentence.csprojResolveAssemblyReference.cache

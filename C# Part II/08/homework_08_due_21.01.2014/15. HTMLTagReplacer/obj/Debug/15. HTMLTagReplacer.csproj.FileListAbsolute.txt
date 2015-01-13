@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\15. HTMLTagReplacer\bin\Debug\_15.HTMLTagReplacer.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\15. HTMLTagReplacer\bin\Debug\_15.HTMLTagReplacer.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\15. HTMLTagReplacer\bin\Debug\_15.HTMLTagReplacer.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\15. HTMLTagReplacer\obj\Debug\_15.HTMLTagReplacer.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\15. HTMLTagReplacer\obj\Debug\_15.HTMLTagReplacer.pdb

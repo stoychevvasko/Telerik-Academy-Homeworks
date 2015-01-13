@@ -1,0 +1,9 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\01. DescribeStrings\bin\Debug\_01.DescribeStrings.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\01. DescribeStrings\bin\Debug\_01.DescribeStrings.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\01. DescribeStrings\bin\Debug\_01.DescribeStrings.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\01. DescribeStrings\obj\Debug\01. DescribeStrings.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\01. DescribeStrings\obj\Debug\_01.DescribeStrings.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\01. DescribeStrings\obj\Debug\_01.DescribeStrings.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\01. DescribeStrings\bin\Debug\_01.DescribeStrings.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\01. DescribeStrings\obj\Debug\_01.DescribeStrings.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\01. DescribeStrings\obj\Debug\_01.DescribeStrings.pdb

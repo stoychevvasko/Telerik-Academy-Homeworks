@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\15. GenericMethods\bin\Debug\_15.GenericMethods.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\15. GenericMethods\bin\Debug\_15.GenericMethods.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\15. GenericMethods\bin\Debug\_15.GenericMethods.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\15. GenericMethods\obj\Debug\_15.GenericMethods.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\15. GenericMethods\obj\Debug\_15.GenericMethods.pdb

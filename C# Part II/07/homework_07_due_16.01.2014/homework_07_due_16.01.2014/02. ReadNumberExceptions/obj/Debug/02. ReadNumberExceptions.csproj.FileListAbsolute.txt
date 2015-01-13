@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. ReadNumberExceptions\bin\Debug\_02.ReadNumberExceptions.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. ReadNumberExceptions\bin\Debug\_02.ReadNumberExceptions.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. ReadNumberExceptions\bin\Debug\_02.ReadNumberExceptions.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. ReadNumberExceptions\obj\Debug\02. ReadNumberExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. ReadNumberExceptions\obj\Debug\_02.ReadNumberExceptions.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. ReadNumberExceptions\obj\Debug\_02.ReadNumberExceptions.pdb

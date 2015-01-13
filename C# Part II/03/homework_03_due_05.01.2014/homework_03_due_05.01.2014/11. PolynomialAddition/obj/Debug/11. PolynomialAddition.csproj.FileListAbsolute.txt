@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\11. PolynomialAddition\bin\Debug\_11.PolynomialAddition.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\11. PolynomialAddition\bin\Debug\_11.PolynomialAddition.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\11. PolynomialAddition\bin\Debug\_11.PolynomialAddition.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\11. PolynomialAddition\obj\Debug\11. PolynomialAddition.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\11. PolynomialAddition\obj\Debug\_11.PolynomialAddition.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\03\homework_03_due_05.01.2014\homework_03_due_05.01.2014\11. PolynomialAddition\obj\Debug\_11.PolynomialAddition.pdb

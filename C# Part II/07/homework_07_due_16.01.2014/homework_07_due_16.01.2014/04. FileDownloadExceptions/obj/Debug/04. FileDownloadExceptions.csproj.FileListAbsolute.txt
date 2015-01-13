@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\04. FileDownloadExceptions\bin\Debug\_04.FileDownloadExceptions.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\04. FileDownloadExceptions\bin\Debug\_04.FileDownloadExceptions.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\04. FileDownloadExceptions\bin\Debug\_04.FileDownloadExceptions.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\04. FileDownloadExceptions\obj\Debug\_04.FileDownloadExceptions.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\04. FileDownloadExceptions\obj\Debug\_04.FileDownloadExceptions.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\04. FileDownloadExceptions\obj\Debug\04. FileDownloadExceptions.csprojResolveAssemblyReference.cache

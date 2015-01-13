@@ -1,0 +1,8 @@
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\06. BinToHex\bin\Debug\_06.BinToHex.exe.config
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\06. BinToHex\bin\Debug\_06.BinToHex.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\06. BinToHex\bin\Debug\_06.BinToHex.pdb
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\06. BinToHex\obj\Debug\_06.BinToHex.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\06. BinToHex\obj\Debug\_06.BinToHex.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\06. BinToHex\bin\Debug\_06.BinToHex.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\06. BinToHex\obj\Debug\_06.BinToHex.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\06. BinToHex\obj\Debug\_06.BinToHex.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\05. UpcaseTag\bin\Debug\_05.UpcaseTag.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\05. UpcaseTag\bin\Debug\_05.UpcaseTag.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\05. UpcaseTag\bin\Debug\_05.UpcaseTag.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\05. UpcaseTag\obj\Debug\_05.UpcaseTag.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\08\homework_08_due_21.01.2014\homework_08_due_21.01.2014\05. UpcaseTag\obj\Debug\_05.UpcaseTag.pdb

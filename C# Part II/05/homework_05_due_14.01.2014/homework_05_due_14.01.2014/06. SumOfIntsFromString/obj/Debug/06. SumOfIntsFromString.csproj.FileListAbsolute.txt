@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\06. SumOfIntsFromString\bin\Debug\_06.SumOfIntsFromString.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\06. SumOfIntsFromString\bin\Debug\_06.SumOfIntsFromString.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\06. SumOfIntsFromString\bin\Debug\_06.SumOfIntsFromString.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\06. SumOfIntsFromString\obj\Debug\_06.SumOfIntsFromString.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\06. SumOfIntsFromString\obj\Debug\_06.SumOfIntsFromString.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\06. SumOfIntsFromString\obj\Debug\06. SumOfIntsFromString.csprojResolveAssemblyReference.cache

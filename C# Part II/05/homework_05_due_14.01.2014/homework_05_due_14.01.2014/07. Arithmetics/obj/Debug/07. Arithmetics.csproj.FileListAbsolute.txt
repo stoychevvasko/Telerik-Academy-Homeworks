@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\07. Arithmetics\bin\Debug\_07.Arithmetics.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\07. Arithmetics\bin\Debug\_07.Arithmetics.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\07. Arithmetics\bin\Debug\_07.Arithmetics.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\07. Arithmetics\obj\Debug\_07.Arithmetics.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\05\homework_05_due_14.01.2014\homework_05_due_14.01.2014\07. Arithmetics\obj\Debug\_07.Arithmetics.pdb

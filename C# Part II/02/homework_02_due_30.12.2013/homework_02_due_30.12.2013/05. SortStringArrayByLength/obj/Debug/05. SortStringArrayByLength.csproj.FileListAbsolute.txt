@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\05. SortStringArrayByLength\bin\Debug\_05.SortStringArrayByLength.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\05. SortStringArrayByLength\bin\Debug\_05.SortStringArrayByLength.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\05. SortStringArrayByLength\bin\Debug\_05.SortStringArrayByLength.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\05. SortStringArrayByLength\obj\Debug\_05.SortStringArrayByLength.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\05. SortStringArrayByLength\obj\Debug\_05.SortStringArrayByLength.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\02\homework_02_due_30.12.2013\homework_02_due_30.12.2013\05. SortStringArrayByLength\obj\Debug\05. SortStringArrayByLength.csprojResolveAssemblyReference.cache

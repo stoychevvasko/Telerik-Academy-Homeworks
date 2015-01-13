@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\05. MaxSeqOfIncreasingElements\bin\Debug\_05.MaxSeqOfIncreasingElements.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\05. MaxSeqOfIncreasingElements\bin\Debug\_05.MaxSeqOfIncreasingElements.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\05. MaxSeqOfIncreasingElements\bin\Debug\_05.MaxSeqOfIncreasingElements.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\05. MaxSeqOfIncreasingElements\obj\Debug\05. MaxSeqOfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\05. MaxSeqOfIncreasingElements\obj\Debug\_05.MaxSeqOfIncreasingElements.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\05. MaxSeqOfIncreasingElements\obj\Debug\_05.MaxSeqOfIncreasingElements.pdb

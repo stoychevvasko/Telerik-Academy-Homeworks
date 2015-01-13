@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\06. MaxSumOfKElementsInArray\bin\Debug\_06.MaxSumOfKElementsInArray.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\06. MaxSumOfKElementsInArray\bin\Debug\_06.MaxSumOfKElementsInArray.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\06. MaxSumOfKElementsInArray\bin\Debug\_06.MaxSumOfKElementsInArray.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\06. MaxSumOfKElementsInArray\obj\Debug\_06.MaxSumOfKElementsInArray.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\06. MaxSumOfKElementsInArray\obj\Debug\_06.MaxSumOfKElementsInArray.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\01\homework_01_due_22.12.2013\homework_01_due_22.12.2013\06. MaxSumOfKElementsInArray\obj\Debug\06. MaxSumOfKElementsInArray.csprojResolveAssemblyReference.cache

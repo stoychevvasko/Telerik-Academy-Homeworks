@@ -1,0 +1,12 @@
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\bin\Debug\_07.BaseSToBaseDConversion.exe.config
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\bin\Debug\_07.BaseSToBaseDConversion.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\bin\Debug\_07.BaseSToBaseDConversion.pdb
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\obj\Debug\07. BaseSToBaseDConversion.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\obj\Debug\_07.BaseSToBaseDConversion.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\obj\Debug\_07.BaseSToBaseDConversion.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\bin\Debug\_07.BaseSToBaseDConversion.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\obj\Debug\_07.BaseSToBaseDConversion.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\obj\Debug\_07.BaseSToBaseDConversion.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\bin\Debug\_07.BaseSToBaseDConversion.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\bin\Debug\_07.BaseSToBaseDConversion.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\07. BaseSToBaseDConversion\obj\Debug\07. BaseSToBaseDConversion.csprojResolveAssemblyReference.cache

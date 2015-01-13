@@ -1,0 +1,12 @@
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\bin\Debug\_09.FloatBinaryRepresentation.exe.config
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\obj\Debug\09. FloatBinaryRepresentation.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\bin\Debug\_09.FloatBinaryRepresentation.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\bin\Debug\_09.FloatBinaryRepresentation.pdb
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\obj\Debug\_09.FloatBinaryRepresentation.exe
+F:\VASKO\homeworks\homework_04_due_12.01.2014\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\obj\Debug\_09.FloatBinaryRepresentation.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\bin\Debug\_09.FloatBinaryRepresentation.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\obj\Debug\_09.FloatBinaryRepresentation.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\obj\Debug\_09.FloatBinaryRepresentation.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\bin\Debug\_09.FloatBinaryRepresentation.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\bin\Debug\_09.FloatBinaryRepresentation.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\04\homework_04_due_12.01.2014\09. FloatBinaryRepresentation\obj\Debug\09. FloatBinaryRepresentation.csprojResolveAssemblyReference.cache

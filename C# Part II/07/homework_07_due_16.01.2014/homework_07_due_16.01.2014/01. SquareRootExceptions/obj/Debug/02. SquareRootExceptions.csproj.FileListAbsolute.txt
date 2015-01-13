@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. SquareRootExceptions\bin\Debug\_02.SquareRootExceptions.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. SquareRootExceptions\bin\Debug\_02.SquareRootExceptions.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. SquareRootExceptions\bin\Debug\_02.SquareRootExceptions.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. SquareRootExceptions\obj\Debug\02. SquareRootExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. SquareRootExceptions\obj\Debug\_02.SquareRootExceptions.exe
+C:\Users\Vase\Desktop\homeworks\C# Part II\07\homework_07_due_16.01.2014\homework_07_due_16.01.2014\02. SquareRootExceptions\obj\Debug\_02.SquareRootExceptions.pdb
