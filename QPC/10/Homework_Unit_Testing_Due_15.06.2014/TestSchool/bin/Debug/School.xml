@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>School</name>
+    </assembly>
+    <members>
+        <member name="T:School.Course">
+            <summary>Represents a course of study at school.</summary>
+        </member>
+        <member name="F:School.Course.DefaultName">
+            <summary>Holds a default name value for the course class./// </summary>
+        </member>
+        <member name="F:School.Course.name">
+            <summary>Holds the course name.</summary>
+        </member>
+        <member name="F:School.Course.students">
+            <summary>Holds students in a course.</summary>
+        </member>
+        <member name="M:School.Course.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:School.Course"/> class.</summary>
+        </member>
+        <member name="M:School.Course.#ctor(System.String)">
+            <summary>Initializes a new instance of the <see cref="T:School.Course"/> class.</summary>
+            <param name="name">course name</param>
+        </member>
+        <member name="M:School.Course.AddStudent(School.Student)">
+            <summary>Tries to add a student to a course.</summary>
+            <param name="student">student object instance</param>
+        </member>
+        <member name="M:School.Course.RemoveStudent(School.Student)">
+            <summary>Tries to remove a student from a course.</summary>
+            <param name="student">student object instance</param>
+        </member>
+        <member name="P:School.Course.Name">
+            <summary>Gets or sets the name of a course.</summary>        
+        </member>
+        <member name="T:School.Program">
+            <summary>Contains the Main() method.</summary>
+        </member>
+        <member name="M:School.Program.Main">
+            <summary>Main program logic.</summary>
+        </member>
+        <member name="T:School.School">
+            <summary>Represents a school.</summary>
+        </member>
+        <member name="F:School.School.DefaultName">
+            <summary>Holds a default name value for the school class./// </summary>
+        </member>
+        <member name="F:School.School.name">
+            <summary>Holds the school name.</summary>
+        </member>
+        <member name="F:School.School.courses">
+            <summary>Holds all courses currently available at a school.</summary>
+        </member>
+        <member name="M:School.School.#ctor(System.String)">
+            <summary>Initializes a new instance of the <see cref="T:School.School"/> class.</summary>
+            <param name="name">school name parameter</param>
+        </member>
+        <member name="M:School.School.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:School.School"/> class.</summary>
+        </member>
+        <member name="M:School.School.AddCourse(School.Course)">
+            <summary>Tries to add a course to a school.</summary>
+            <param name="course">course object instance</param>
+        </member>
+        <member name="M:School.School.RemoveCourse(School.Course)">
+            <summary>Tries to remove a course from a school.</summary>
+            <param name="course">course object instance</param>
+        </member>
+        <member name="P:School.School.Name">
+            <summary>Gets or sets the name of a school.</summary>        
+        </member>
+        <member name="T:School.Student">
+            <summary>Represents a student.</summary>
+        </member>
+        <member name="F:School.Student.DefaultName">
+            <summary>Holds a default name value for the student class./// </summary>
+        </member>
+        <member name="F:School.Student.currentUniqueID">
+            <summary>Holds the current uniqueID number for new students.</summary>
+        </member>
+        <member name="F:School.Student.name">
+            <summary>Contains the name of a student.</summary>
+        </member>
+        <member name="F:School.Student.uniqueID">
+            <summary>Holds the unique number of the student.</summary>
+        </member>
+        <member name="M:School.Student.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:School.Student"/> class.</summary>
+        </member>
+        <member name="M:School.Student.#ctor(System.String)">
+            <summary>Initializes a new instance of the <see cref="T:School.Student"/> class.</summary>
+            <param name="name">student name</param>
+        </member>
+        <member name="P:School.Student.Name">
+            <summary>Gets or sets the value of the name of a student.</summary>
+        </member>
+        <member name="P:School.Student.UniqueID">
+            <summary>Gets the unique ID number of a student.</summary>
+        </member>
+    </members>
+</doc>

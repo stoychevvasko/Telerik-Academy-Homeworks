@@ -1,0 +1,7 @@
+C:\Users\Vase\Desktop\homeworks\QPC\10\Homework_Unit_Testing_Due_15.06.2014\School\bin\Debug\School.exe.config
+C:\Users\Vase\Desktop\homeworks\QPC\10\Homework_Unit_Testing_Due_15.06.2014\School\bin\Debug\School.exe
+C:\Users\Vase\Desktop\homeworks\QPC\10\Homework_Unit_Testing_Due_15.06.2014\School\bin\Debug\School.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\10\Homework_Unit_Testing_Due_15.06.2014\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\10\Homework_Unit_Testing_Due_15.06.2014\School\obj\Debug\School.exe
+C:\Users\Vase\Desktop\homeworks\QPC\10\Homework_Unit_Testing_Due_15.06.2014\School\obj\Debug\School.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\10\Homework_Unit_Testing_Due_15.06.2014\School\bin\Debug\School.XML

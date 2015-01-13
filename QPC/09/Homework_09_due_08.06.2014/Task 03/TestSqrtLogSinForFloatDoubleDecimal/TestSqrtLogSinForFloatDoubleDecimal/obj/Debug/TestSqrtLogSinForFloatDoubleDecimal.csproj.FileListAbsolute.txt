@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\QPC\09\Task 03\TestSqrtLogSinForFloatDoubleDecimal\TestSqrtLogSinForFloatDoubleDecimal\bin\Debug\TestSqrtLogSinForFloatDoubleDecimal.exe.config
+C:\Users\Vase\Desktop\homeworks\QPC\09\Task 03\TestSqrtLogSinForFloatDoubleDecimal\TestSqrtLogSinForFloatDoubleDecimal\bin\Debug\TestSqrtLogSinForFloatDoubleDecimal.exe
+C:\Users\Vase\Desktop\homeworks\QPC\09\Task 03\TestSqrtLogSinForFloatDoubleDecimal\TestSqrtLogSinForFloatDoubleDecimal\bin\Debug\TestSqrtLogSinForFloatDoubleDecimal.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\09\Task 03\TestSqrtLogSinForFloatDoubleDecimal\TestSqrtLogSinForFloatDoubleDecimal\obj\Debug\TestSqrtLogSinForFloatDoubleDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\09\Task 03\TestSqrtLogSinForFloatDoubleDecimal\TestSqrtLogSinForFloatDoubleDecimal\obj\Debug\TestSqrtLogSinForFloatDoubleDecimal.exe
+C:\Users\Vase\Desktop\homeworks\QPC\09\Task 03\TestSqrtLogSinForFloatDoubleDecimal\TestSqrtLogSinForFloatDoubleDecimal\obj\Debug\TestSqrtLogSinForFloatDoubleDecimal.pdb

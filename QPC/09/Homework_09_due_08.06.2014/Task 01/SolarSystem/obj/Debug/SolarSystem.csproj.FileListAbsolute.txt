@@ -1,0 +1,12 @@
+C:\Users\Vase\Desktop\homeworks\QPC\09\bin\Debug\SolarSystem.exe
+C:\Users\Vase\Desktop\homeworks\QPC\09\bin\Debug\SolarSystem.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\MainWindow.g.cs
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\App.g.cs
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\MainWindow.baml
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\SolarSystem.g.resources
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\SolarSystem.exe
+C:\Users\Vase\Desktop\homeworks\QPC\09\obj\Debug\SolarSystem.pdb
