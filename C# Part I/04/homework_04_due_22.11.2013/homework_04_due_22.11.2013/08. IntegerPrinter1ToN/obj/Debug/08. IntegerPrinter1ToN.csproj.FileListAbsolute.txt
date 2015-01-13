@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\08. IntegerPrinter1ToN\bin\Debug\_08.IntegerPrinter1ToN.exe.config
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\08. IntegerPrinter1ToN\bin\Debug\_08.IntegerPrinter1ToN.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\08. IntegerPrinter1ToN\bin\Debug\_08.IntegerPrinter1ToN.pdb
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\08. IntegerPrinter1ToN\obj\Debug\_08.IntegerPrinter1ToN.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\08. IntegerPrinter1ToN\obj\Debug\_08.IntegerPrinter1ToN.pdb

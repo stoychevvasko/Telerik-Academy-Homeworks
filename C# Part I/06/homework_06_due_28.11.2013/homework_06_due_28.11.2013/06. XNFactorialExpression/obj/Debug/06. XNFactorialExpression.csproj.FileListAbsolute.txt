@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\06. XNFactorialExpression\bin\Debug\_06.XNFactorialExpression.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\06. XNFactorialExpression\bin\Debug\_06.XNFactorialExpression.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\06. XNFactorialExpression\bin\Debug\_06.XNFactorialExpression.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\06. XNFactorialExpression\obj\Debug\06. XNFactorialExpression.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\06. XNFactorialExpression\obj\Debug\_06.XNFactorialExpression.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\06. XNFactorialExpression\obj\Debug\_06.XNFactorialExpression.pdb

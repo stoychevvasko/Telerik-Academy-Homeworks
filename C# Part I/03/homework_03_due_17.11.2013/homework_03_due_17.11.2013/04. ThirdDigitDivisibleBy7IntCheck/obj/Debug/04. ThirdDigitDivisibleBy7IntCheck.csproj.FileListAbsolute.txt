@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\04. ThirdDigitDivisibleBy7IntCheck\bin\Debug\_04.ThirdDigitDivisibleBy7IntCheck.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\04. ThirdDigitDivisibleBy7IntCheck\bin\Debug\_04.ThirdDigitDivisibleBy7IntCheck.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\04. ThirdDigitDivisibleBy7IntCheck\bin\Debug\_04.ThirdDigitDivisibleBy7IntCheck.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\04. ThirdDigitDivisibleBy7IntCheck\obj\Debug\_04.ThirdDigitDivisibleBy7IntCheck.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\04. ThirdDigitDivisibleBy7IntCheck\obj\Debug\_04.ThirdDigitDivisibleBy7IntCheck.pdb

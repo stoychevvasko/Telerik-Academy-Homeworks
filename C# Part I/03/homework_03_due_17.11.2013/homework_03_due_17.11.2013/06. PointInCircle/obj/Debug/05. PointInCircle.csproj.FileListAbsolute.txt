@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. PointInCircle\bin\Debug\_05.PointInCircle.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. PointInCircle\bin\Debug\_05.PointInCircle.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. PointInCircle\bin\Debug\_05.PointInCircle.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. PointInCircle\obj\Debug\_05.PointInCircle.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. PointInCircle\obj\Debug\_05.PointInCircle.pdb

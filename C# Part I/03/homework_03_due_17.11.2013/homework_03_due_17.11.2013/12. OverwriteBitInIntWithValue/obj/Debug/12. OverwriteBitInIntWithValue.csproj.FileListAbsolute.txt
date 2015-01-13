@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\12. OverwriteBitInIntWithValue\bin\Debug\_12.OverwriteBitInIntWithValue.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\12. OverwriteBitInIntWithValue\bin\Debug\_12.OverwriteBitInIntWithValue.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\12. OverwriteBitInIntWithValue\bin\Debug\_12.OverwriteBitInIntWithValue.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\12. OverwriteBitInIntWithValue\obj\Debug\12. OverwriteBitInIntWithValue.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\12. OverwriteBitInIntWithValue\obj\Debug\_12.OverwriteBitInIntWithValue.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\12. OverwriteBitInIntWithValue\obj\Debug\_12.OverwriteBitInIntWithValue.pdb

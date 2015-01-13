@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\08. QuotedStrings\bin\Debug\_08.QuotedStrings.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\08. QuotedStrings\bin\Debug\_08.QuotedStrings.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\08. QuotedStrings\bin\Debug\_08.QuotedStrings.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\08. QuotedStrings\obj\Debug\_08.QuotedStrings.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\08. QuotedStrings\obj\Debug\_08.QuotedStrings.pdb

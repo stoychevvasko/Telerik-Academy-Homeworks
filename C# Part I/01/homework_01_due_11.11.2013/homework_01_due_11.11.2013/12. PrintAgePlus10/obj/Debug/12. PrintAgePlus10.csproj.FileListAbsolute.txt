@@ -1,0 +1,10 @@
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\bin\Debug\_12.PrintAgePlus10.exe.config
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\bin\Debug\_12.PrintAgePlus10.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\bin\Debug\_12.PrintAgePlus10.pdb
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\obj\Debug\_12.PrintAgePlus10.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\obj\Debug\_12.PrintAgePlus10.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\bin\Debug\_12.PrintAgePlus10.exe.config
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\obj\Debug\_12.PrintAgePlus10.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\obj\Debug\_12.PrintAgePlus10.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\bin\Debug\_12.PrintAgePlus10.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\12. PrintAgePlus10\bin\Debug\_12.PrintAgePlus10.pdb

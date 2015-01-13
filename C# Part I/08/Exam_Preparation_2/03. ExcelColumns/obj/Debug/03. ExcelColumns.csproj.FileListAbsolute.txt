@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\03. ExcelColumns\bin\Debug\_03.ExcelColumns.exe.config
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\03. ExcelColumns\bin\Debug\_03.ExcelColumns.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\03. ExcelColumns\bin\Debug\_03.ExcelColumns.pdb
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\03. ExcelColumns\obj\Debug\_03.ExcelColumns.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\03. ExcelColumns\obj\Debug\_03.ExcelColumns.pdb

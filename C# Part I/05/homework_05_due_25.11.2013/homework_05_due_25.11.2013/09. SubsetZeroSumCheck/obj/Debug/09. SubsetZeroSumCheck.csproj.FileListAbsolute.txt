@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\09. SubsetZeroSumCheck\bin\Debug\_09.SubsetZeroSumCheck.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\09. SubsetZeroSumCheck\bin\Debug\_09.SubsetZeroSumCheck.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\09. SubsetZeroSumCheck\bin\Debug\_09.SubsetZeroSumCheck.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\09. SubsetZeroSumCheck\obj\Debug\_09.SubsetZeroSumCheck.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\09. SubsetZeroSumCheck\obj\Debug\_09.SubsetZeroSumCheck.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\09. SubsetZeroSumCheck\obj\Debug\09. SubsetZeroSumCheck.csprojResolveAssemblyReference.cache

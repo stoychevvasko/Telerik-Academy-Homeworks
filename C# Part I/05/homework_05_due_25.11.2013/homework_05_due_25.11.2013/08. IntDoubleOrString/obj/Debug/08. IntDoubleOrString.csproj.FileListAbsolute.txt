@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\08. IntDoubleOrString\obj\Debug\08. IntDoubleOrString.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\08. IntDoubleOrString\bin\Debug\_08.IntDoubleOrString.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\08. IntDoubleOrString\obj\Debug\_08.IntDoubleOrString.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\08. IntDoubleOrString\obj\Debug\_08.IntDoubleOrString.pdb

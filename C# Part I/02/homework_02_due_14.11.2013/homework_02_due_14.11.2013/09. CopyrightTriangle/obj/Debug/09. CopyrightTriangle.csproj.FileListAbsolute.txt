@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\09. CopyrightTriangle\bin\Debug\_09.CopyrightTriangle.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\09. CopyrightTriangle\bin\Debug\_09.CopyrightTriangle.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\09. CopyrightTriangle\bin\Debug\_09.CopyrightTriangle.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\09. CopyrightTriangle\obj\Debug\_09.CopyrightTriangle.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\09. CopyrightTriangle\obj\Debug\_09.CopyrightTriangle.pdb

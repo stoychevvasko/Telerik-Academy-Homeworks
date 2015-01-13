@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\05. NameOfDigit\bin\Debug\_05.NameOfDigit.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\05. NameOfDigit\obj\Debug\05. NameOfDigit.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\05. NameOfDigit\bin\Debug\_05.NameOfDigit.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\05. NameOfDigit\bin\Debug\_05.NameOfDigit.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\05. NameOfDigit\obj\Debug\_05.NameOfDigit.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\05. NameOfDigit\obj\Debug\_05.NameOfDigit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\13. Bit345Exchange\bin\Debug\_13.Bit345Exchange.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\13. Bit345Exchange\bin\Debug\_13.Bit345Exchange.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\13. Bit345Exchange\bin\Debug\_13.Bit345Exchange.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\13. Bit345Exchange\obj\Debug\_13.Bit345Exchange.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\13. Bit345Exchange\obj\Debug\_13.Bit345Exchange.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\13. Bit345Exchange\obj\Debug\13. Bit345Exchange.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe.config
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\bin\Debug\_02.HelloCSharp.pdb
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\obj\Debug\02. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\obj\Debug\_02.HelloCSharp.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\obj\Debug\_02.HelloCSharp.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe.config
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\obj\Debug\_02.HelloCSharp.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\obj\Debug\_02.HelloCSharp.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\bin\Debug\_02.HelloCSharp.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\02. HelloCSharp\obj\Debug\02. HelloCSharp.csprojResolveAssemblyReference.cache

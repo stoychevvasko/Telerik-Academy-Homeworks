@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\02. A-nacci\obj\Debug\02. A-nacci.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\02. A-nacci\bin\Debug\_02.A_nacci.exe.config
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\02. A-nacci\bin\Debug\_02.A_nacci.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\02. A-nacci\bin\Debug\_02.A_nacci.pdb
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\02. A-nacci\obj\Debug\_02.A_nacci.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\02. A-nacci\obj\Debug\_02.A_nacci.pdb

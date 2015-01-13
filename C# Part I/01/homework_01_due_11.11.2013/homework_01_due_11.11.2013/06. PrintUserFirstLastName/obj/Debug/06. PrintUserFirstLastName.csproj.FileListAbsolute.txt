@@ -1,0 +1,11 @@
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\bin\Debug\_06.PrintUserFirstLastName.exe.config
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\bin\Debug\_06.PrintUserFirstLastName.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\bin\Debug\_06.PrintUserFirstLastName.pdb
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\obj\Debug\_06.PrintUserFirstLastName.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\obj\Debug\_06.PrintUserFirstLastName.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\bin\Debug\_06.PrintUserFirstLastName.exe.config
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\obj\Debug\_06.PrintUserFirstLastName.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\obj\Debug\_06.PrintUserFirstLastName.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\bin\Debug\_06.PrintUserFirstLastName.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\bin\Debug\_06.PrintUserFirstLastName.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\06. PrintUserFirstLastName\obj\Debug\06. PrintUserFirstLastName.csprojResolveAssemblyReference.cache

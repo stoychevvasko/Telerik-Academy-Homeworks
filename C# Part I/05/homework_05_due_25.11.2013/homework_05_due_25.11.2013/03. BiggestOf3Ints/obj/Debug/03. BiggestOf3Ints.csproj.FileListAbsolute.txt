@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\03. BiggestOf3Ints\bin\Debug\_03.BiggestOf3Ints.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\03. BiggestOf3Ints\bin\Debug\_03.BiggestOf3Ints.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\03. BiggestOf3Ints\bin\Debug\_03.BiggestOf3Ints.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\03. BiggestOf3Ints\obj\Debug\03. BiggestOf3Ints.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\03. BiggestOf3Ints\obj\Debug\_03.BiggestOf3Ints.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\03. BiggestOf3Ints\obj\Debug\_03.BiggestOf3Ints.pdb

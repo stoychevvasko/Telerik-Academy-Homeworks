@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\03. CompanyRecords\bin\Debug\_03.CompanyRecords.exe.config
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\03. CompanyRecords\bin\Debug\_03.CompanyRecords.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\03. CompanyRecords\bin\Debug\_03.CompanyRecords.pdb
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\03. CompanyRecords\obj\Debug\03. CompanyRecords.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\03. CompanyRecords\obj\Debug\_03.CompanyRecords.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\03. CompanyRecords\obj\Debug\_03.CompanyRecords.pdb

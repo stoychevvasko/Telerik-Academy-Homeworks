@@ -1,0 +1,9 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\bin\Debug\_11.NumberAnnouncer.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\bin\Debug\_11.NumberAnnouncer.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\bin\Debug\_11.NumberAnnouncer.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\obj\Debug\11. NumberAnnouncer.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\obj\Debug\_11.NumberAnnouncer.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\obj\Debug\_11.NumberAnnouncer.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part I\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\bin\Debug\_11.NumberAnnouncer.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part I\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\obj\Debug\_11.NumberAnnouncer.exe
+C:\Users\Vase\Desktop\homeworks\C# Part I\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\11. NumberAnnouncer\obj\Debug\_11.NumberAnnouncer.pdb

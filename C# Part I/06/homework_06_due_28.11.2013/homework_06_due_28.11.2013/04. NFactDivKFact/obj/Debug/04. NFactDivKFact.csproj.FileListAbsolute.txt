@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\04. NFactDivKFact\bin\Debug\_04.NFactDivKFact.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\04. NFactDivKFact\bin\Debug\_04.NFactDivKFact.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\04. NFactDivKFact\bin\Debug\_04.NFactDivKFact.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\04. NFactDivKFact\obj\Debug\_04.NFactDivKFact.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\04. NFactDivKFact\obj\Debug\_04.NFactDivKFact.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\04. NFactDivKFact\obj\Debug\04. NFactDivKFact.csprojResolveAssemblyReference.cache

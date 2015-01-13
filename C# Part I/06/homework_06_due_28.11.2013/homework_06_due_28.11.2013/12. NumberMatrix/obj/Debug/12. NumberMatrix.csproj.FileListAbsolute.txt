@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\12. NumberMatrix\bin\Debug\_12.NumberMatrix.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\12. NumberMatrix\bin\Debug\_12.NumberMatrix.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\12. NumberMatrix\bin\Debug\_12.NumberMatrix.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\12. NumberMatrix\obj\Debug\_12.NumberMatrix.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\12. NumberMatrix\obj\Debug\_12.NumberMatrix.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\12. NumberMatrix\obj\Debug\12. NumberMatrix.csprojResolveAssemblyReference.cache

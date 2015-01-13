@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\14. BitpqkExchange\bin\Debug\_14.BitpqkExchange.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\14. BitpqkExchange\bin\Debug\_14.BitpqkExchange.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\14. BitpqkExchange\bin\Debug\_14.BitpqkExchange.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\14. BitpqkExchange\obj\Debug\14. BitpqkExchange.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\14. BitpqkExchange\obj\Debug\_14.BitpqkExchange.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\14. BitpqkExchange\obj\Debug\_14.BitpqkExchange.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\07. GreatestOf5\bin\Debug\_07.GreatestOf5.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\07. GreatestOf5\bin\Debug\_07.GreatestOf5.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\07. GreatestOf5\bin\Debug\_07.GreatestOf5.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\07. GreatestOf5\obj\Debug\_07.GreatestOf5.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\07. GreatestOf5\obj\Debug\_07.GreatestOf5.pdb

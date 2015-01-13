@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\03. CompareFloatingPointNumbers\bin\Debug\_03.CompareFloatingPointNumbers.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\03. CompareFloatingPointNumbers\bin\Debug\_03.CompareFloatingPointNumbers.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\03. CompareFloatingPointNumbers\bin\Debug\_03.CompareFloatingPointNumbers.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\03. CompareFloatingPointNumbers\obj\Debug\_03.CompareFloatingPointNumbers.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\03. CompareFloatingPointNumbers\obj\Debug\_03.CompareFloatingPointNumbers.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\03. CompareFloatingPointNumbers\obj\Debug\03. CompareFloatingPointNumbers.csprojResolveAssemblyReference.cache

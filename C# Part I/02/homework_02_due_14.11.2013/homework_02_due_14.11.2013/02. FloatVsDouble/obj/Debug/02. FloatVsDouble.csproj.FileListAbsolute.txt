@@ -1,0 +1,12 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\FloatVsDouble\bin\Debug\FloatVsDouble.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\FloatVsDouble\bin\Debug\FloatVsDouble.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\FloatVsDouble\bin\Debug\FloatVsDouble.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\FloatVsDouble\obj\Debug\02. FloatVsDouble.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\FloatVsDouble\obj\Debug\FloatVsDouble.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\FloatVsDouble\obj\Debug\FloatVsDouble.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\02. FloatVsDouble\bin\Debug\FloatVsDouble.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\02. FloatVsDouble\bin\Debug\FloatVsDouble.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\02. FloatVsDouble\bin\Debug\FloatVsDouble.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\02. FloatVsDouble\obj\Debug\02. FloatVsDouble.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\02. FloatVsDouble\obj\Debug\FloatVsDouble.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\02. FloatVsDouble\obj\Debug\FloatVsDouble.pdb

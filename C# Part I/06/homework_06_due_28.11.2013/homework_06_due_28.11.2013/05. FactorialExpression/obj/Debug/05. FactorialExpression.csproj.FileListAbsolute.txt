@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\05. FactorialExpression\bin\Debug\_05.FactorialExpression.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\05. FactorialExpression\obj\Debug\05. FactorialExpression.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\05. FactorialExpression\bin\Debug\_05.FactorialExpression.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\05. FactorialExpression\bin\Debug\_05.FactorialExpression.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\05. FactorialExpression\obj\Debug\_05.FactorialExpression.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\05. FactorialExpression\obj\Debug\_05.FactorialExpression.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\10. EmployeeRecords\bin\Debug\_10.EmployeeRecords.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\10. EmployeeRecords\bin\Debug\_10.EmployeeRecords.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\10. EmployeeRecords\bin\Debug\_10.EmployeeRecords.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\10. EmployeeRecords\obj\Debug\_10.EmployeeRecords.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\10. EmployeeRecords\obj\Debug\_10.EmployeeRecords.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\10. EmployeeRecords\obj\Debug\10. EmployeeRecords.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\01. Carpets\bin\Debug\_01.Carpets.exe.config
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\01. Carpets\bin\Debug\_01.Carpets.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\01. Carpets\bin\Debug\_01.Carpets.pdb
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\01. Carpets\obj\Debug\01. Carpets.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\01. Carpets\obj\Debug\_01.Carpets.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\01. Carpets\obj\Debug\_01.Carpets.pdb

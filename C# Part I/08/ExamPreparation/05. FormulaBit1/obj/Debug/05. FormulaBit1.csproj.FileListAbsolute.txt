@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\05. FormulaBit1\bin\Debug\_05.FormulaBit1.exe.config
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\05. FormulaBit1\obj\Debug\05. FormulaBit1.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\05. FormulaBit1\bin\Debug\_05.FormulaBit1.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\05. FormulaBit1\bin\Debug\_05.FormulaBit1.pdb
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\05. FormulaBit1\obj\Debug\_05.FormulaBit1.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\05. FormulaBit1\obj\Debug\_05.FormulaBit1.pdb

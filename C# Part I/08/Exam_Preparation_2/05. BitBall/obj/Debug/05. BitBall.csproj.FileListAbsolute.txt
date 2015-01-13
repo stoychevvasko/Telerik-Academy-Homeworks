@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\05. BitBall\bin\Debug\_05.BitBall.exe.config
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\05. BitBall\bin\Debug\_05.BitBall.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\05. BitBall\bin\Debug\_05.BitBall.pdb
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\05. BitBall\obj\Debug\05. BitBall.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\05. BitBall\obj\Debug\_05.BitBall.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\05. BitBall\obj\Debug\_05.BitBall.pdb

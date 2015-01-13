@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\11. ExtractBitNumberB\bin\Debug\_11.ExtractBitNumberB.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\11. ExtractBitNumberB\bin\Debug\_11.ExtractBitNumberB.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\11. ExtractBitNumberB\bin\Debug\_11.ExtractBitNumberB.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\11. ExtractBitNumberB\obj\Debug\_11.ExtractBitNumberB.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\11. ExtractBitNumberB\obj\Debug\_11.ExtractBitNumberB.pdb

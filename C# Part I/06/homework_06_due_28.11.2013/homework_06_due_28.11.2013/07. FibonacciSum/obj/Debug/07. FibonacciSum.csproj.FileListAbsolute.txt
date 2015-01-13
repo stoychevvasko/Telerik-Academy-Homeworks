@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\07. FibonacciSum\bin\Debug\_07.FibonacciSum.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\07. FibonacciSum\obj\Debug\07. FibonacciSum.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\07. FibonacciSum\bin\Debug\_07.FibonacciSum.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\07. FibonacciSum\bin\Debug\_07.FibonacciSum.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\07. FibonacciSum\obj\Debug\_07.FibonacciSum.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\07. FibonacciSum\obj\Debug\_07.FibonacciSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\02. DivisibleBy7And5IntCheck\bin\Debug\_02.DivisibleBy7And5IntCheck.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\02. DivisibleBy7And5IntCheck\bin\Debug\_02.DivisibleBy7And5IntCheck.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\02. DivisibleBy7And5IntCheck\bin\Debug\_02.DivisibleBy7And5IntCheck.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\02. DivisibleBy7And5IntCheck\obj\Debug\02. DivisibleBy7And5IntCheck.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\02. DivisibleBy7And5IntCheck\obj\Debug\_02.DivisibleBy7And5IntCheck.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\02. DivisibleBy7And5IntCheck\obj\Debug\_02.DivisibleBy7And5IntCheck.pdb

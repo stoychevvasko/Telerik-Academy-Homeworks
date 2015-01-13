@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\04. TelerikLogo\bin\Debug\_04.TelerikLogo.exe.config
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\04. TelerikLogo\bin\Debug\_04.TelerikLogo.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\04. TelerikLogo\bin\Debug\_04.TelerikLogo.pdb
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\04. TelerikLogo\obj\Debug\04. TelerikLogo.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\04. TelerikLogo\obj\Debug\_04.TelerikLogo.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\04. TelerikLogo\obj\Debug\_04.TelerikLogo.pdb

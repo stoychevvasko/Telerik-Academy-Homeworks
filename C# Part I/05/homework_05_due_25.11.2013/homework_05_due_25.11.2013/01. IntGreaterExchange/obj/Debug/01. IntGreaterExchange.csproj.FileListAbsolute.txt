@@ -1,0 +1,9 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\bin\Debug\_01.IntGreaterExchange.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\bin\Debug\_01.IntGreaterExchange.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\bin\Debug\_01.IntGreaterExchange.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\obj\Debug\01. IntGreaterExchange.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\obj\Debug\_01.IntGreaterExchange.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\obj\Debug\_01.IntGreaterExchange.pdb
+C:\Users\Vase\Desktop\homeworks\C# Part I\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\bin\Debug\_01.IntGreaterExchange.exe.config
+C:\Users\Vase\Desktop\homeworks\C# Part I\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\obj\Debug\_01.IntGreaterExchange.exe
+C:\Users\Vase\Desktop\homeworks\C# Part I\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\01. IntGreaterExchange\obj\Debug\_01.IntGreaterExchange.pdb

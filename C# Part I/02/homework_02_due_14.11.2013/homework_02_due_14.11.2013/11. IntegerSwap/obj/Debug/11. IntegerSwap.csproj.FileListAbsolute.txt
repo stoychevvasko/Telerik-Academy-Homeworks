@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\11. IntegerSwap\bin\Debug\_11.IntegerSwap.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\11. IntegerSwap\bin\Debug\_11.IntegerSwap.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\11. IntegerSwap\bin\Debug\_11.IntegerSwap.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\11. IntegerSwap\obj\Debug\_11.IntegerSwap.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\11. IntegerSwap\obj\Debug\_11.IntegerSwap.pdb

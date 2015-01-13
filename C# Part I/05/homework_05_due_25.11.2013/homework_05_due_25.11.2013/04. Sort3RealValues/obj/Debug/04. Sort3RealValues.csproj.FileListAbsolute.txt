@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\04. Sort3RealValues\bin\Debug\_04.Sort3RealValues.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\04. Sort3RealValues\bin\Debug\_04.Sort3RealValues.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\04. Sort3RealValues\bin\Debug\_04.Sort3RealValues.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\04. Sort3RealValues\obj\Debug\04. Sort3RealValues.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\04. Sort3RealValues\obj\Debug\_04.Sort3RealValues.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\04. Sort3RealValues\obj\Debug\_04.Sort3RealValues.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\01. PrintOneToN\bin\Debug\_01.PrintOneToN.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\01. PrintOneToN\bin\Debug\_01.PrintOneToN.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\01. PrintOneToN\bin\Debug\_01.PrintOneToN.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\01. PrintOneToN\obj\Debug\01. PrintOneToN.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\01. PrintOneToN\obj\Debug\_01.PrintOneToN.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\01. PrintOneToN\obj\Debug\_01.PrintOneToN.pdb

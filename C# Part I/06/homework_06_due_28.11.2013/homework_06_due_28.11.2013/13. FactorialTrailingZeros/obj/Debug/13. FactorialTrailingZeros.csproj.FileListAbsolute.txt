@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\13. FactorialTrailingZeros\bin\Debug\_13.FactorialTrailingZeros.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\13. FactorialTrailingZeros\bin\Debug\_13.FactorialTrailingZeros.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\13. FactorialTrailingZeros\bin\Debug\_13.FactorialTrailingZeros.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\13. FactorialTrailingZeros\obj\Debug\_13.FactorialTrailingZeros.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\13. FactorialTrailingZeros\obj\Debug\_13.FactorialTrailingZeros.pdb

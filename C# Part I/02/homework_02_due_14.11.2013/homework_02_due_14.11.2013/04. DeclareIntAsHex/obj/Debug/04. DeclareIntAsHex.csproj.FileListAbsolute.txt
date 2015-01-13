@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\04. DeclareIntAsHex\bin\Debug\_04.DeclareIntAsHex.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\04. DeclareIntAsHex\bin\Debug\_04.DeclareIntAsHex.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\04. DeclareIntAsHex\bin\Debug\_04.DeclareIntAsHex.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\04. DeclareIntAsHex\obj\Debug\_04.DeclareIntAsHex.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\04. DeclareIntAsHex\obj\Debug\_04.DeclareIntAsHex.pdb

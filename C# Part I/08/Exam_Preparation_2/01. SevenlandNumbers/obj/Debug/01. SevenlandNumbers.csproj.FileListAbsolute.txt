@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\01. SevenlandNumbers\bin\Debug\_01.SevenlandNumbers.exe.config
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\01. SevenlandNumbers\bin\Debug\_01.SevenlandNumbers.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\01. SevenlandNumbers\bin\Debug\_01.SevenlandNumbers.pdb
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\01. SevenlandNumbers\obj\Debug\01. SevenlandNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\01. SevenlandNumbers\obj\Debug\_01.SevenlandNumbers.exe
+C:\Users\Vase\Desktop\homeworks\08\Exam_Preparation_2\01. SevenlandNumbers\obj\Debug\_01.SevenlandNumbers.pdb

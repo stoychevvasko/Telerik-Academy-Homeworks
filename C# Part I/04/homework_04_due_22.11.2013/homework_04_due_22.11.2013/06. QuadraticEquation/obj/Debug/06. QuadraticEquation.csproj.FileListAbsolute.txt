@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\06. QuadraticEquation\obj\Debug\06. QuadraticEquation.csprojResolveAssemblyReference.cache

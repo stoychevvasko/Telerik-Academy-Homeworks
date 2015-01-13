@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\01. OddOrEvenIntCheck\bin\Debug\_01.OddOrEvenIntCheck.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\01. OddOrEvenIntCheck\bin\Debug\_01.OddOrEvenIntCheck.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\01. OddOrEvenIntCheck\bin\Debug\_01.OddOrEvenIntCheck.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\01. OddOrEvenIntCheck\obj\Debug\01. OddOrEvenIntCheck.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\01. OddOrEvenIntCheck\obj\Debug\_01.OddOrEvenIntCheck.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\01. OddOrEvenIntCheck\obj\Debug\_01.OddOrEvenIntCheck.pdb

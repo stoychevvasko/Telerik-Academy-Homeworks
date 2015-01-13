@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\03. CalcRectangleArea\bin\Debug\_03.CalcRectangleArea.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\03. CalcRectangleArea\bin\Debug\_03.CalcRectangleArea.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\03. CalcRectangleArea\bin\Debug\_03.CalcRectangleArea.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\03. CalcRectangleArea\obj\Debug\_03.CalcRectangleArea.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\03. CalcRectangleArea\obj\Debug\_03.CalcRectangleArea.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\03. CalcRectangleArea\obj\Debug\03. CalcRectangleArea.csprojResolveAssemblyReference.cache

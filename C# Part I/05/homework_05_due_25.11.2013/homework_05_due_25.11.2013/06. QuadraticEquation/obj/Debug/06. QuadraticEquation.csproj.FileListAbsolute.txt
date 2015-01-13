@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb

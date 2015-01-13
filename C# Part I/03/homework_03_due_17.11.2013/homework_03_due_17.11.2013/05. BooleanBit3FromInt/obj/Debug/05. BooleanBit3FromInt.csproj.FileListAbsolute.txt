@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. BooleanBit3FromInt\bin\Debug\_05.BooleanBit3FromInt.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. BooleanBit3FromInt\bin\Debug\_05.BooleanBit3FromInt.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. BooleanBit3FromInt\bin\Debug\_05.BooleanBit3FromInt.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. BooleanBit3FromInt\obj\Debug\_05.BooleanBit3FromInt.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. BooleanBit3FromInt\obj\Debug\_05.BooleanBit3FromInt.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\05. BooleanBit3FromInt\obj\Debug\05. BooleanBit3FromInt.csprojResolveAssemblyReference.cache

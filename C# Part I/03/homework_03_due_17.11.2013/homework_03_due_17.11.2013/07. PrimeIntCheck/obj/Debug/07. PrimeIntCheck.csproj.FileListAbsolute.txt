@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\07. PrimeIntCheck\bin\Debug\_07.PrimeIntCheck.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\07. PrimeIntCheck\bin\Debug\_07.PrimeIntCheck.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\07. PrimeIntCheck\bin\Debug\_07.PrimeIntCheck.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\07. PrimeIntCheck\obj\Debug\_07.PrimeIntCheck.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\07. PrimeIntCheck\obj\Debug\_07.PrimeIntCheck.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\07. PrimeIntCheck\obj\Debug\07. PrimeIntCheck.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\14. BankAccountRecords\bin\Debug\_14.BankAccountRecords.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\14. BankAccountRecords\obj\Debug\14. BankAccountRecords.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\14. BankAccountRecords\bin\Debug\_14.BankAccountRecords.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\14. BankAccountRecords\bin\Debug\_14.BankAccountRecords.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\14. BankAccountRecords\obj\Debug\_14.BankAccountRecords.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\14. BankAccountRecords\obj\Debug\_14.BankAccountRecords.pdb

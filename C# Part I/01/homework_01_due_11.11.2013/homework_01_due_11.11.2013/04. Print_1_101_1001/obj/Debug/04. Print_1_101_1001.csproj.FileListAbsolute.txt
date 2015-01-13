@@ -1,0 +1,11 @@
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\bin\Debug\_04.Print_1_101_1001.exe.config
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\bin\Debug\_04.Print_1_101_1001.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\bin\Debug\_04.Print_1_101_1001.pdb
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\obj\Debug\_04.Print_1_101_1001.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\obj\Debug\_04.Print_1_101_1001.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\bin\Debug\_04.Print_1_101_1001.exe.config
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\obj\Debug\_04.Print_1_101_1001.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\obj\Debug\_04.Print_1_101_1001.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\bin\Debug\_04.Print_1_101_1001.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\bin\Debug\_04.Print_1_101_1001.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\04. Print_1_101_1001\obj\Debug\04. Print_1_101_1001.csprojResolveAssemblyReference.cache

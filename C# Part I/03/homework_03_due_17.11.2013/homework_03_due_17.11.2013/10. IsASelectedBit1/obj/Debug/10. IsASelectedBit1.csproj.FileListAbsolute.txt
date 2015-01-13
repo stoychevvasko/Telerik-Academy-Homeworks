@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\10. IsASelectedBit1\bin\Debug\_10.IsASelectedBit1.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\10. IsASelectedBit1\bin\Debug\_10.IsASelectedBit1.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\10. IsASelectedBit1\bin\Debug\_10.IsASelectedBit1.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\10. IsASelectedBit1\obj\Debug\_10.IsASelectedBit1.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\10. IsASelectedBit1\obj\Debug\_10.IsASelectedBit1.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\10. IsASelectedBit1\obj\Debug\10. IsASelectedBit1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\01. Read3IntPrintSum\bin\Debug\_01.Read3IntPrintSum.exe.config
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\01. Read3IntPrintSum\bin\Debug\_01.Read3IntPrintSum.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\01. Read3IntPrintSum\bin\Debug\_01.Read3IntPrintSum.pdb
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\01. Read3IntPrintSum\obj\Debug\01. Read3IntPrintSum.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\01. Read3IntPrintSum\obj\Debug\_01.Read3IntPrintSum.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\01. Read3IntPrintSum\obj\Debug\_01.Read3IntPrintSum.pdb

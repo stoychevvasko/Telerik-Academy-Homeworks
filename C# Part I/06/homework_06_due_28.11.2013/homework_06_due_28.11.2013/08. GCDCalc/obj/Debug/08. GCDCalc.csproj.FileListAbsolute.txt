@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\08. GCDCalc\bin\Debug\_08.GCDCalc.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\08. GCDCalc\bin\Debug\_08.GCDCalc.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\08. GCDCalc\bin\Debug\_08.GCDCalc.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\08. GCDCalc\obj\Debug\08. GCDCalc.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\08. GCDCalc\obj\Debug\_08.GCDCalc.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\08. GCDCalc\obj\Debug\_08.GCDCalc.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\10. BonusScores\bin\Debug\_10.BonusScores.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\10. BonusScores\bin\Debug\_10.BonusScores.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\10. BonusScores\bin\Debug\_10.BonusScores.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\10. BonusScores\obj\Debug\_10.BonusScores.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\10. BonusScores\obj\Debug\_10.BonusScores.pdb

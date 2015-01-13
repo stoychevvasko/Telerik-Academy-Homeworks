@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\10. CatalanNumberN\bin\Debug\_10.CatalanNumberN.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\10. CatalanNumberN\bin\Debug\_10.CatalanNumberN.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\10. CatalanNumberN\bin\Debug\_10.CatalanNumberN.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\10. CatalanNumberN\obj\Debug\10. CatalanNumberN.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\10. CatalanNumberN\obj\Debug\_10.CatalanNumberN.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\10. CatalanNumberN\obj\Debug\_10.CatalanNumberN.pdb

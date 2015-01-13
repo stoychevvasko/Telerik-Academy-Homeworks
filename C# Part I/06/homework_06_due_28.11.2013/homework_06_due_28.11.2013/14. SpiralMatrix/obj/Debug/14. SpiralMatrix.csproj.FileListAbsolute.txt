@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\14. SpiralMatrix\bin\Debug\_14.SpiralMatrix.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\14. SpiralMatrix\bin\Debug\_14.SpiralMatrix.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\14. SpiralMatrix\bin\Debug\_14.SpiralMatrix.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\14. SpiralMatrix\obj\Debug\_14.SpiralMatrix.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\14. SpiralMatrix\obj\Debug\_14.SpiralMatrix.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\14. SpiralMatrix\obj\Debug\14. SpiralMatrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\07. SumUnlimited\bin\Debug\_07.SumUnlimited.exe.config
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\07. SumUnlimited\bin\Debug\_07.SumUnlimited.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\07. SumUnlimited\bin\Debug\_07.SumUnlimited.pdb
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\07. SumUnlimited\obj\Debug\07. SumUnlimited.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\07. SumUnlimited\obj\Debug\_07.SumUnlimited.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\07. SumUnlimited\obj\Debug\_07.SumUnlimited.pdb

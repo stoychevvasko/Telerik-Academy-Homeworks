@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\04. DivisibleBy5BetweenTwoInts\bin\Debug\_04.DivisibleBy5BetweenTwoInts.exe.config
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\04. DivisibleBy5BetweenTwoInts\bin\Debug\_04.DivisibleBy5BetweenTwoInts.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\04. DivisibleBy5BetweenTwoInts\bin\Debug\_04.DivisibleBy5BetweenTwoInts.pdb
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\04. DivisibleBy5BetweenTwoInts\obj\Debug\04. DivisibleBy5BetweenTwoInts.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\04. DivisibleBy5BetweenTwoInts\obj\Debug\_04.DivisibleBy5BetweenTwoInts.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\04. DivisibleBy5BetweenTwoInts\obj\Debug\_04.DivisibleBy5BetweenTwoInts.pdb

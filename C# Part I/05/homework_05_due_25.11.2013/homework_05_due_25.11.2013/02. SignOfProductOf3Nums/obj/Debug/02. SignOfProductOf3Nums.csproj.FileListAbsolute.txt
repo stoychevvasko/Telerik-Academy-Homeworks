@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\02. SignOfProductOf3Nums\bin\Debug\_02.SignOfProductOf3Nums.exe.config
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\02. SignOfProductOf3Nums\bin\Debug\_02.SignOfProductOf3Nums.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\02. SignOfProductOf3Nums\bin\Debug\_02.SignOfProductOf3Nums.pdb
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\02. SignOfProductOf3Nums\obj\Debug\02. SignOfProductOf3Nums.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\02. SignOfProductOf3Nums\obj\Debug\_02.SignOfProductOf3Nums.exe
+C:\Users\Vase\Desktop\homeworks\05\homework_05_due_25.11.2013\homework_05_due_25.11.2013\02. SignOfProductOf3Nums\obj\Debug\_02.SignOfProductOf3Nums.pdb

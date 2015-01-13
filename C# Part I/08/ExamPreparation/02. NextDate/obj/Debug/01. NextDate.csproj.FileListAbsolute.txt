@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. NextDate\bin\Debug\_02.NextDate.exe.config
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. NextDate\bin\Debug\_02.NextDate.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. NextDate\bin\Debug\_02.NextDate.pdb
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. NextDate\obj\Debug\_02.NextDate.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. NextDate\obj\Debug\_02.NextDate.pdb
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. NextDate\obj\Debug\01. NextDate.csprojResolveAssemblyReference.cache

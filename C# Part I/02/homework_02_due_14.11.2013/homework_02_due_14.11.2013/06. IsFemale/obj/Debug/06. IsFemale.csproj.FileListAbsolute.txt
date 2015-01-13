@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\06. IsFemale\bin\Debug\_06.IsFemale.exe.config
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\06. IsFemale\bin\Debug\_06.IsFemale.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\06. IsFemale\bin\Debug\_06.IsFemale.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\06. IsFemale\obj\Debug\_06.IsFemale.exe
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\06. IsFemale\obj\Debug\_06.IsFemale.pdb
+C:\Users\Vase\Desktop\homeworks\02\homework_02_due_14.11.2013\homework_02_due_14.11.2013\06. IsFemale\obj\Debug\06. IsFemale.csprojResolveAssemblyReference.cache

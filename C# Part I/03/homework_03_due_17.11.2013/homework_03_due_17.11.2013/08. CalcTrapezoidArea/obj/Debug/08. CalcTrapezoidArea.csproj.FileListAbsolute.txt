@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\08. CalcTrapezoidArea\bin\Debug\_08.CalcTrapezoidArea.exe.config
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\08. CalcTrapezoidArea\bin\Debug\_08.CalcTrapezoidArea.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\08. CalcTrapezoidArea\bin\Debug\_08.CalcTrapezoidArea.pdb
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\08. CalcTrapezoidArea\obj\Debug\08. CalcTrapezoidArea.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\08. CalcTrapezoidArea\obj\Debug\_08.CalcTrapezoidArea.exe
+C:\Users\Vase\Desktop\homeworks\03\homework_03_due_17.11.2013\homework_03_due_17.11.2013\08. CalcTrapezoidArea\obj\Debug\_08.CalcTrapezoidArea.pdb

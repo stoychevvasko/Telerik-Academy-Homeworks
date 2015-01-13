@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\02. CirclePerimeterArea\bin\Debug\_02.CirclePerimeterArea.exe.config
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\02. CirclePerimeterArea\bin\Debug\_02.CirclePerimeterArea.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\02. CirclePerimeterArea\bin\Debug\_02.CirclePerimeterArea.pdb
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\02. CirclePerimeterArea\obj\Debug\02. CirclePerimeterArea.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\02. CirclePerimeterArea\obj\Debug\_02.CirclePerimeterArea.exe
+C:\Users\Vase\Desktop\homeworks\04\homework_04_due_22.11.2013\homework_04_due_22.11.2013\02. CirclePerimeterArea\obj\Debug\_02.CirclePerimeterArea.pdb

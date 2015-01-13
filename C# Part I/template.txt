@@ -1,0 +1,26 @@
+using System;
+using System.Threading;
+using System.Globalization;
+using System.Text;
+
+class Application
+{
+    static void Main()
+    {
+        Console.OutputEncoding = Encoding.UTF8;
+        Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+        Console.SetWindowSize(83, 41);
+        Console.Title = "Application";
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.Clear();
+
+
+
+
+
+	Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.ReadKey();   
+    }
+}

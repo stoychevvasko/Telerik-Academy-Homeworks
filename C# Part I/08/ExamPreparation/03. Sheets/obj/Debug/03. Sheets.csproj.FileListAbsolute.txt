@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\03. Sheets\bin\Debug\_03.Sheets.exe.config
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\03. Sheets\bin\Debug\_03.Sheets.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\03. Sheets\bin\Debug\_03.Sheets.pdb
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\03. Sheets\obj\Debug\_03.Sheets.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\03. Sheets\obj\Debug\_03.Sheets.pdb
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\03. Sheets\obj\Debug\03. Sheets.csprojResolveAssemblyReference.cache

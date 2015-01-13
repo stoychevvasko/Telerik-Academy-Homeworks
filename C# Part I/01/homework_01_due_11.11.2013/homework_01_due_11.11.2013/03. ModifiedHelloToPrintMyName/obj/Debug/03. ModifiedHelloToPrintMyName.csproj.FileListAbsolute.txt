@@ -1,0 +1,11 @@
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\bin\Debug\_03.ModifiedHelloToPrintMyName.exe.config
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\bin\Debug\_03.ModifiedHelloToPrintMyName.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\bin\Debug\_03.ModifiedHelloToPrintMyName.pdb
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\obj\Debug\_03.ModifiedHelloToPrintMyName.exe
+C:\Users\Vase\Desktop\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\obj\Debug\_03.ModifiedHelloToPrintMyName.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\bin\Debug\_03.ModifiedHelloToPrintMyName.exe.config
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\obj\Debug\_03.ModifiedHelloToPrintMyName.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\obj\Debug\_03.ModifiedHelloToPrintMyName.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\bin\Debug\_03.ModifiedHelloToPrintMyName.exe
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\bin\Debug\_03.ModifiedHelloToPrintMyName.pdb
+C:\Users\Vase\Desktop\homeworks\01\homework_01_due_11.11.2013\homework_01_due_11.11.2013\03. ModifiedHelloToPrintMyName\obj\Debug\03. ModifiedHelloToPrintMyName.csprojResolveAssemblyReference.cache

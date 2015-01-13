@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. TribonacciTriangle\bin\Debug\_02.TribonacciTriangle.exe.config
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. TribonacciTriangle\bin\Debug\_02.TribonacciTriangle.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. TribonacciTriangle\bin\Debug\_02.TribonacciTriangle.pdb
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. TribonacciTriangle\obj\Debug\_02.TribonacciTriangle.exe
+C:\Users\Vase\Desktop\homeworks\08\ExamPreparation\02. TribonacciTriangle\obj\Debug\_02.TribonacciTriangle.pdb

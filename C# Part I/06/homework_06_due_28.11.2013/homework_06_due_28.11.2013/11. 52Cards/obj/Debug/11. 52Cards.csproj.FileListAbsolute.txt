@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\11. 52Cards\bin\Debug\11. 52Cards.exe.config
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\11. 52Cards\bin\Debug\11. 52Cards.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\11. 52Cards\bin\Debug\11. 52Cards.pdb
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\11. 52Cards\obj\Debug\11. 52Cards.exe
+C:\Users\Vase\Desktop\homeworks\06\homework_06_due_28.11.2013\homework_06_due_28.11.2013\11. 52Cards\obj\Debug\11. 52Cards.pdb
