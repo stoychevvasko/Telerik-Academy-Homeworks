@@ -1,0 +1,180 @@
+﻿@base-color: #111;
+@bgr-color: #222;
+@bgr-lighter: #333;
+@mid-tone: #444;
+@fgr-color: #666;
+@fgr-lighter: #999;
+@title-color: #ccff33;
+@title-highlight: #ebffd2;
+
+.gradient-simple (@color-1, @color-2)
+{
+    background: rgb(69,72,77);
+    background: -moz-linear-gradient(top, @color-1 0%, @color-2 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,@color-1), color-stop(100%,@color-2));
+    background: -webkit-linear-gradient(top, @color-1 0%,@color-2 100%);
+    background: -o-linear-gradient(top, @color-1 0%,@color-2 100%);
+    background: -ms-linear-gradient(top, @color-1 0%,@color-2 100%);
+    background: linear-gradient(to bottom, @color-1 0%,@color-2 100%);
+}
+
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    position: relative;
+    padding-top: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+    font-family: sans-serif;
+    height: 100%;
+    .gradient-simple (@mid-tone, @base-color);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    section
+    {
+        display: block;
+        position: relative;
+        border-radius: 13px;
+        .gradient-simple(@bgr-lighter,@bgr-color);
+        color: @fgr-lighter;
+        padding: 13px;
+
+        h1
+        {
+            color: @title-color;
+            font-size: 1.75em;
+            line-height: 3.25em;
+            padding-left: 1em;
+        }
+
+        h3
+        {
+            color: @title-color;
+            line-height: 2.7em;
+            padding-left: 3em;
+
+
+            strong
+            {
+                font-size: 1.35em;
+            }
+
+            em
+            {
+                font-family: serif;
+                color: @title-highlight;
+                font-size: 1.1em;
+            }
+        }
+
+        article
+        {
+            display: block;
+            border-radius: 13px;
+            .gradient-simple(@bgr-color, @mid-tone);
+            padding: 13px;
+            margin-top: 2.4em;
+            margin-bottom: 1em;
+
+            p
+            {
+                position: relative;
+                display: block;
+                border-radius: 2em;
+                line-height: 2.6em;
+                .gradient-simple(@mid-tone, @bgr-lighter);
+                margin: 1.5em 0.5em;
+                padding: 0 3em 2em 3em;
+                border: 1px solid @title-highlight;
+
+                span.ie:before, span.chrome:before, span.firefox:before, span.opera:before, span.safari:before {
+                    display: inline-block;
+                    position: relative;
+                    top: 24px;
+                    margin-left: 8px;
+                    margin-right: 8px;
+                }
+
+                .ie:before
+                {
+                    content: url(../../imgs/ie.png);                    
+                }
+
+                .chrome:before
+                {
+                    content: url(../../imgs/chrome.png);
+                }
+
+                .firefox:before
+                {
+                    content: url(../../imgs/firefox.png);
+                }
+
+                .opera:before
+                {
+                    content: url(../../imgs/opera.png);
+                }
+
+                .safari:before
+                {
+                    content: url(../../imgs/safari.png);
+                }
+            }
+
+            .div-table
+            {
+                display: table;
+                border: none;
+                width: 96%;
+                padding: 0px 25px 0px 25px;
+
+                .div-row
+                {
+                    display: table-row;
+                    border: none;
+
+                    
+
+                    .div-cell
+                    {
+                        display: table-cell;
+                        border: none;
+                        border-radius: 13px;
+                        padding: 8px;
+                        text-align: center;
+                        vertical-align: central;
+
+                        a
+                        {
+                            .gradient-simple(@fgr-lighter, @mid-tone);
+                            text-decoration: none;
+                            color: @title-color;
+                            font-weight: bold;
+                            font-size: 1.2em;
+                            display: block;
+                            border-radius: 8em;
+                            padding: 2em 0em;
+                        }
+
+                            a:hover
+                            {
+                                .gradient-simple(@mid-tone, @fgr-lighter);
+                                color: @title-highlight;
+                            }
+
+                            .back-button {
+                                width: 25%;                                
+                            }
+                    }
+                }
+            }
+        }
+    }
+}

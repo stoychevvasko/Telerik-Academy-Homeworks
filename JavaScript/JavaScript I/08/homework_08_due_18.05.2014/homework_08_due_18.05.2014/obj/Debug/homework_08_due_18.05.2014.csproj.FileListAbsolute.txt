@@ -1,0 +1,6 @@
+F:\VASKO\homeworks\JS\08\homework_08_due_18.05.2014\homework_08_due_18.05.2014\bin\homework_08_due_18.05.2014.dll.config
+F:\VASKO\homeworks\JS\08\homework_08_due_18.05.2014\homework_08_due_18.05.2014\bin\homework_08_due_18.05.2014.dll
+F:\VASKO\homeworks\JS\08\homework_08_due_18.05.2014\homework_08_due_18.05.2014\bin\homework_08_due_18.05.2014.pdb
+F:\VASKO\homeworks\JS\08\homework_08_due_18.05.2014\homework_08_due_18.05.2014\obj\Debug\homework_08_due_18.05.2014.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\JS\08\homework_08_due_18.05.2014\homework_08_due_18.05.2014\obj\Debug\homework_08_due_18.05.2014.dll
+F:\VASKO\homeworks\JS\08\homework_08_due_18.05.2014\homework_08_due_18.05.2014\obj\Debug\homework_08_due_18.05.2014.pdb

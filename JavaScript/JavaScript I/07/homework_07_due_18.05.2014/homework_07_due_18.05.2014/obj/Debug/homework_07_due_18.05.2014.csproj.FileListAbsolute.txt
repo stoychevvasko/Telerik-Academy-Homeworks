@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\HW_stoychev.vassil_Funkcii_2014-05-15_19-49\homework_07_due_18.05.2014\homework_07_due_18.05.2014\bin\homework_07_due_18.05.2014.dll
+C:\Users\student\Desktop\HW_stoychev.vassil_Funkcii_2014-05-15_19-49\homework_07_due_18.05.2014\homework_07_due_18.05.2014\bin\homework_07_due_18.05.2014.pdb
+C:\Users\student\Desktop\HW_stoychev.vassil_Funkcii_2014-05-15_19-49\homework_07_due_18.05.2014\homework_07_due_18.05.2014\obj\Debug\homework_07_due_18.05.2014.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\HW_stoychev.vassil_Funkcii_2014-05-15_19-49\homework_07_due_18.05.2014\homework_07_due_18.05.2014\obj\Debug\homework_07_due_18.05.2014.dll
+C:\Users\student\Desktop\HW_stoychev.vassil_Funkcii_2014-05-15_19-49\homework_07_due_18.05.2014\homework_07_due_18.05.2014\obj\Debug\homework_07_due_18.05.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\07\homework_07_due_18.05.2014\homework_07_due_18.05.2014\bin\homework_07_due_18.05.2014.dll.config
+C:\Users\Vase\Desktop\homeworks\JS\07\homework_07_due_18.05.2014\homework_07_due_18.05.2014\bin\homework_07_due_18.05.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\07\homework_07_due_18.05.2014\homework_07_due_18.05.2014\bin\homework_07_due_18.05.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\07\homework_07_due_18.05.2014\homework_07_due_18.05.2014\obj\Debug\homework_07_due_18.05.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\07\homework_07_due_18.05.2014\homework_07_due_18.05.2014\obj\Debug\homework_07_due_18.05.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\07\homework_07_due_18.05.2014\homework_07_due_18.05.2014\obj\Debug\homework_07_due_18.05.2014.pdb

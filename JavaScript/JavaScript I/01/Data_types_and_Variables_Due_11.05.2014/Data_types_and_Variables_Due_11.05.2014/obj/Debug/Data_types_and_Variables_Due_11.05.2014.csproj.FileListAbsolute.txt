@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\JS\01\Data_types_and_Variables_Due_11.05.2014\Data_types_and_Variables_Due_11.05.2014\bin\Data_types_and_Variables_Due_11.05.2014.dll.config
+C:\Users\Vase\Desktop\homeworks\JS\01\Data_types_and_Variables_Due_11.05.2014\Data_types_and_Variables_Due_11.05.2014\bin\Data_types_and_Variables_Due_11.05.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\01\Data_types_and_Variables_Due_11.05.2014\Data_types_and_Variables_Due_11.05.2014\bin\Data_types_and_Variables_Due_11.05.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\01\Data_types_and_Variables_Due_11.05.2014\Data_types_and_Variables_Due_11.05.2014\obj\Debug\Data_types_and_Variables_Due_11.05.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\01\Data_types_and_Variables_Due_11.05.2014\Data_types_and_Variables_Due_11.05.2014\obj\Debug\Data_types_and_Variables_Due_11.05.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\01\Data_types_and_Variables_Due_11.05.2014\Data_types_and_Variables_Due_11.05.2014\obj\Debug\Data_types_and_Variables_Due_11.05.2014.pdb

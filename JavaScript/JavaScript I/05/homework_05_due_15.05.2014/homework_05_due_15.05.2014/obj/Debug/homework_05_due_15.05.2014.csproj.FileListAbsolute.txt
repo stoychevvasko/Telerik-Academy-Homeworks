@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\JS\05\homework_05_due_15.05.2014\homework_05_due_15.05.2014\bin\homework_05_due_15.05.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\05\homework_05_due_15.05.2014\homework_05_due_15.05.2014\bin\homework_05_due_15.05.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\05\homework_05_due_15.05.2014\homework_05_due_15.05.2014\obj\Debug\homework_05_due_15.05.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\05\homework_05_due_15.05.2014\homework_05_due_15.05.2014\obj\Debug\homework_05_due_15.05.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\05\homework_05_due_15.05.2014\homework_05_due_15.05.2014\obj\Debug\homework_05_due_15.05.2014.pdb

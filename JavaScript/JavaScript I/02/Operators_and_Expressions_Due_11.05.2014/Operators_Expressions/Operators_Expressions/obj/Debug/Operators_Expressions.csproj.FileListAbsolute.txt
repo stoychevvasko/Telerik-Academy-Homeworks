@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\JS\02\Operators_and_Expressions_Due_11.05.2014\Operators_Expressions\Operators_Expressions\bin\Operators_Expressions.dll
+C:\Users\Vase\Desktop\homeworks\JS\02\Operators_and_Expressions_Due_11.05.2014\Operators_Expressions\Operators_Expressions\bin\Operators_Expressions.pdb
+C:\Users\Vase\Desktop\homeworks\JS\02\Operators_and_Expressions_Due_11.05.2014\Operators_Expressions\Operators_Expressions\obj\Debug\Operators_Expressions.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\02\Operators_and_Expressions_Due_11.05.2014\Operators_Expressions\Operators_Expressions\obj\Debug\Operators_Expressions.dll
+C:\Users\Vase\Desktop\homeworks\JS\02\Operators_and_Expressions_Due_11.05.2014\Operators_Expressions\Operators_Expressions\obj\Debug\Operators_Expressions.pdb
