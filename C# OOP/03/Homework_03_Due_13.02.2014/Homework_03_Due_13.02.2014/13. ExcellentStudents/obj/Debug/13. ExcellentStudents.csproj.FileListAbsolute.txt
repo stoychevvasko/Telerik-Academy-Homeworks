@@ -1,0 +1,8 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\13. ExcellentStudents\bin\Debug\_13.ExcellentStudents.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\13. ExcellentStudents\bin\Debug\_13.ExcellentStudents.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\13. ExcellentStudents\bin\Debug\_13.ExcellentStudents.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\13. ExcellentStudents\bin\Debug\_09.CompleteStudentClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\13. ExcellentStudents\bin\Debug\_09.CompleteStudentClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\13. ExcellentStudents\obj\Debug\13. ExcellentStudents.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\13. ExcellentStudents\obj\Debug\_13.ExcellentStudents.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\13. ExcellentStudents\obj\Debug\_13.ExcellentStudents.pdb

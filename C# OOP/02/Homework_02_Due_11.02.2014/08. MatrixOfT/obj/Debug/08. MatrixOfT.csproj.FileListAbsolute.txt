@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\08. MatrixOfT\bin\Debug\_08.MatrixOfT.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\08. MatrixOfT\bin\Debug\_08.MatrixOfT.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\08. MatrixOfT\bin\Debug\_08.MatrixOfT.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\08. MatrixOfT\obj\Debug\_08.MatrixOfT.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\08. MatrixOfT\obj\Debug\_08.MatrixOfT.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\08. MatrixOfT\obj\Debug\08. MatrixOfT.csprojResolveAssemblyReference.cache

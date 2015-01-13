@@ -1,0 +1,8 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\10. Group2WithExtMethods\bin\Debug\_10.Group2WithExtMethods.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\10. Group2WithExtMethods\obj\Debug\10. Group2WithExtMethods.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\10. Group2WithExtMethods\bin\Debug\_10.Group2WithExtMethods.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\10. Group2WithExtMethods\bin\Debug\_10.Group2WithExtMethods.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\10. Group2WithExtMethods\bin\Debug\_09.CompleteStudentClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\10. Group2WithExtMethods\bin\Debug\_09.CompleteStudentClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\10. Group2WithExtMethods\obj\Debug\_10.Group2WithExtMethods.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\10. Group2WithExtMethods\obj\Debug\_10.Group2WithExtMethods.pdb

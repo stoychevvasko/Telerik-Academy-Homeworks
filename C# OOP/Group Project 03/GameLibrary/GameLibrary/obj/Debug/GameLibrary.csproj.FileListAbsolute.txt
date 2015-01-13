@@ -1,0 +1,10 @@
+C:\Users\Nikki\Desktop\Telerik\Ilian\Git\KurtVonnegut\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nikki\Desktop\Telerik\Ilian\Git\KurtVonnegut\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Nikki\Desktop\Telerik\Ilian\Git\KurtVonnegut\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Nikki\Desktop\Telerik\Ilian\Git\KurtVonnegut\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Nikki\Desktop\Telerik\Ilian\Git\KurtVonnegut\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
+D:\Documents\GitHub\KurtVonnegut\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+D:\Documents\GitHub\KurtVonnegut\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+D:\Documents\GitHub\KurtVonnegut\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\KurtVonnegut\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+D:\Documents\GitHub\KurtVonnegut\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb

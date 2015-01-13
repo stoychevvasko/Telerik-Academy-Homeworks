@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\02. IEnumerableExtensions\bin\Debug\_02.IEnumerableExtensions.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\02. IEnumerableExtensions\bin\Debug\_02.IEnumerableExtensions.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\02. IEnumerableExtensions\bin\Debug\_02.IEnumerableExtensions.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\02. IEnumerableExtensions\obj\Debug\_02.IEnumerableExtensions.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\02. IEnumerableExtensions\obj\Debug\_02.IEnumerableExtensions.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\02. IEnumerableExtensions\obj\Debug\02. IEnumerableExtensions.csprojResolveAssemblyReference.cache

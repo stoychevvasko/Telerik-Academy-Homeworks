@@ -1,0 +1,75 @@
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.exe
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.pdb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\GameStateManagement.dll
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample (Windows).csprojResolveAssemblyReference.cache
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.exe
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.pdb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\endMenu.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\laser.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\mine.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\mineAnimation.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\player.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\shipAnimation.xnb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagementSample\bin\x86\Debug\Content\solid.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\endMenu.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\laser.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\mainMenu.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\mine.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\mineAnimation.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\player.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\shipAnimation.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\solid.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.exe
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.pdb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\GameStateManagement.dll
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample (Windows).csprojResolveAssemblyReference.cache
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.exe
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.pdb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\background.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\bgLayer1.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\bgLayer2.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\endMenu.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\explosion.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\laser.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\mainbackground.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\mainMenu.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\mine.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\mineAnimation.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\player.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\shipAnimation.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\solid.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\menufont.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\Content\gamefont.xnb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.exe
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\GameStateManagementSample.pdb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\GameStateManagement.dll
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\bin\x86\Debug\GameStateManagement.pdb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample (Windows).csprojResolveAssemblyReference.cache
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.exe
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagementSample\obj\x86\Debug\GameStateManagementSample.pdb

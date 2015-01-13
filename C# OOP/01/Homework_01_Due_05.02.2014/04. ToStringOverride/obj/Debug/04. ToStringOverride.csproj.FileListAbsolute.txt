@@ -1,0 +1,10 @@
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\04. ToStringOverride\bin\Debug\_04.ToStringOverride.exe.config
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\04. ToStringOverride\bin\Debug\_04.ToStringOverride.exe
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\04. ToStringOverride\bin\Debug\_04.ToStringOverride.pdb
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\04. ToStringOverride\obj\Debug\_04.ToStringOverride.exe
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\04. ToStringOverride\obj\Debug\_04.ToStringOverride.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\04. ToStringOverride\bin\Debug\_04.ToStringOverride.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\04. ToStringOverride\obj\Debug\_04.ToStringOverride.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\04. ToStringOverride\obj\Debug\_04.ToStringOverride.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\04. ToStringOverride\bin\Debug\_04.ToStringOverride.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\04. ToStringOverride\bin\Debug\_04.ToStringOverride.pdb

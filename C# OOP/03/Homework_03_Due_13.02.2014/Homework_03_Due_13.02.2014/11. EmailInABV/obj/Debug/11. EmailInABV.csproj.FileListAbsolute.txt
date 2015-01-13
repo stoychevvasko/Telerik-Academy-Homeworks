@@ -1,0 +1,8 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\11. EmailInABV\bin\Debug\_11.EmailInABV.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\11. EmailInABV\bin\Debug\_11.EmailInABV.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\11. EmailInABV\bin\Debug\_11.EmailInABV.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\11. EmailInABV\bin\Debug\_09.CompleteStudentClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\11. EmailInABV\bin\Debug\_09.CompleteStudentClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\11. EmailInABV\obj\Debug\11. EmailInABV.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\11. EmailInABV\obj\Debug\_11.EmailInABV.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\11. EmailInABV\obj\Debug\_11.EmailInABV.pdb

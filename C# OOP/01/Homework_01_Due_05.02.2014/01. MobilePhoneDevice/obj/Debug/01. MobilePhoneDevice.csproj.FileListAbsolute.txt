@@ -1,0 +1,12 @@
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\bin\Debug\_01.MobilePhoneDevice.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\bin\Debug\_01.MobilePhoneDevice.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\bin\Debug\_01.MobilePhoneDevice.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\obj\Debug\01. MobilePhoneDevice.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\obj\Debug\_01.MobilePhoneDevice.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\obj\Debug\_01.MobilePhoneDevice.pdb
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\bin\Debug\_01.MobilePhoneDevice.exe.config
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\obj\Debug\_01.MobilePhoneDevice.exe
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\obj\Debug\_01.MobilePhoneDevice.pdb
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\bin\Debug\_01.MobilePhoneDevice.exe
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\bin\Debug\_01.MobilePhoneDevice.pdb
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\01. MobilePhoneDevice\obj\Debug\01. MobilePhoneDevice.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\01. StructurePoint3D\bin\Debug\_01.StructurePoint3D.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\01. StructurePoint3D\bin\Debug\_01.StructurePoint3D.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\01. StructurePoint3D\bin\Debug\_01.StructurePoint3D.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\01. StructurePoint3D\obj\Debug\01. StructurePoint3D.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\01. StructurePoint3D\obj\Debug\_01.StructurePoint3D.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\01. StructurePoint3D\obj\Debug\_01.StructurePoint3D.pdb
+C:\Users\student\Desktop\vsvsvs\Homework_02_Due_11.02.2014\01. StructurePoint3D\bin\Debug\_01.StructurePoint3D.exe.config
+C:\Users\student\Desktop\vsvsvs\Homework_02_Due_11.02.2014\01. StructurePoint3D\obj\Debug\_01.StructurePoint3D.exe
+C:\Users\student\Desktop\vsvsvs\Homework_02_Due_11.02.2014\01. StructurePoint3D\obj\Debug\_01.StructurePoint3D.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\01. StructurePoint3D\bin\Debug\_01.StructurePoint3D.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\01. StructurePoint3D\obj\Debug\_01.StructurePoint3D.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\01. StructurePoint3D\obj\Debug\_01.StructurePoint3D.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\01. StructurePoint3D\bin\Debug\_01.StructurePoint3D.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\01. StructurePoint3D\bin\Debug\_01.StructurePoint3D.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\01. StructurePoint3D\obj\Debug\01. StructurePoint3D.csprojResolveAssemblyReference.cache

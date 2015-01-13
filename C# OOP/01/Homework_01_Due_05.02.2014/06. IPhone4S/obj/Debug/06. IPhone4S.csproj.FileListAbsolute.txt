@@ -1,0 +1,10 @@
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\06. IPhone4S\bin\Debug\_06.IPhone4S.exe.config
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\06. IPhone4S\bin\Debug\_06.IPhone4S.exe
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\06. IPhone4S\bin\Debug\_06.IPhone4S.pdb
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\06. IPhone4S\obj\Debug\_06.IPhone4S.exe
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\06. IPhone4S\obj\Debug\_06.IPhone4S.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\06. IPhone4S\bin\Debug\_06.IPhone4S.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\06. IPhone4S\obj\Debug\_06.IPhone4S.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\06. IPhone4S\obj\Debug\_06.IPhone4S.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\06. IPhone4S\bin\Debug\_06.IPhone4S.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\06. IPhone4S\bin\Debug\_06.IPhone4S.pdb

@@ -1,0 +1,12 @@
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\bin\Debug\_01.SchoolModel.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\bin\Debug\_01.SchoolModel.exe
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\bin\Debug\_01.SchoolModel.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\obj\Debug\01. SchoolModel.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\obj\Debug\_01.SchoolModel.exe
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\obj\Debug\_01.SchoolModel.pdb
+D:\___For_exam\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\bin\Debug\_01.SchoolModel.exe.config
+D:\___For_exam\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\obj\Debug\_01.SchoolModel.exe
+D:\___For_exam\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\obj\Debug\_01.SchoolModel.pdb
+D:\___For_exam\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\bin\Debug\_01.SchoolModel.exe
+D:\___For_exam\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\bin\Debug\_01.SchoolModel.pdb
+D:\___For_exam\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\01. SchoolModel\obj\Debug\01. SchoolModel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\05. Encapsulation\bin\Debug\_05.Encapsulation.exe.config
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\05. Encapsulation\bin\Debug\_05.Encapsulation.exe
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\05. Encapsulation\bin\Debug\_05.Encapsulation.pdb
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\05. Encapsulation\obj\Debug\_05.Encapsulation.exe
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\05. Encapsulation\obj\Debug\_05.Encapsulation.pdb
+F:\VASKO\homeworks\OOP\Homework_01_Due_05.02.2014\05. Encapsulation\obj\Debug\05. Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\05. Encapsulation\bin\Debug\_05.Encapsulation.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\05. Encapsulation\obj\Debug\_05.Encapsulation.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\05. Encapsulation\obj\Debug\_05.Encapsulation.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\05. Encapsulation\bin\Debug\_05.Encapsulation.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\05. Encapsulation\bin\Debug\_05.Encapsulation.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\05. Encapsulation\obj\Debug\05. Encapsulation.csprojResolveAssemblyReference.cache

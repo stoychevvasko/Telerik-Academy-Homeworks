@@ -1,0 +1,16 @@
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_02.StartOfCoordSys.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_02.StartOfCoordSys.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_02.StartOfCoordSys.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\02. StartOfCoordSys\obj\Debug\02. StartOfCoordSys.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\02. StartOfCoordSys\obj\Debug\_02.StartOfCoordSys.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\02. StartOfCoordSys\obj\Debug\_02.StartOfCoordSys.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_01.StructurePoint3D.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_01.StructurePoint3D.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_02.StartOfCoordSys.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_02.StartOfCoordSys.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_02.StartOfCoordSys.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_01.StructurePoint3D.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\02. StartOfCoordSys\bin\Debug\_01.StructurePoint3D.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\02. StartOfCoordSys\obj\Debug\02. StartOfCoordSys.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\02. StartOfCoordSys\obj\Debug\_02.StartOfCoordSys.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\02. StartOfCoordSys\obj\Debug\_02.StartOfCoordSys.pdb

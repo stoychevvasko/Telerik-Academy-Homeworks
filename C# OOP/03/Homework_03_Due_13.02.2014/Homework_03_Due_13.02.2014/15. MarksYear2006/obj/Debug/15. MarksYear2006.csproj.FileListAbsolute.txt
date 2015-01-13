@@ -1,0 +1,8 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\15. MarksYear2006\bin\Debug\_15.MarksYear2006.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\15. MarksYear2006\bin\Debug\_15.MarksYear2006.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\15. MarksYear2006\bin\Debug\_15.MarksYear2006.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\15. MarksYear2006\obj\Debug\_15.MarksYear2006.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\15. MarksYear2006\obj\Debug\_15.MarksYear2006.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\15. MarksYear2006\bin\Debug\_09.CompleteStudentClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\15. MarksYear2006\bin\Debug\_09.CompleteStudentClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\15. MarksYear2006\obj\Debug\15. MarksYear2006.csprojResolveAssemblyReference.cache

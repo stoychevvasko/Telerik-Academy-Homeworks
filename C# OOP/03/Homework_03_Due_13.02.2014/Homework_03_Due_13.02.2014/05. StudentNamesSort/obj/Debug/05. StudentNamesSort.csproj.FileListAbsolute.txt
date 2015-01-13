@@ -1,0 +1,8 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\05. StudentNamesSort\bin\Debug\_05.StudentNamesSort.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\05. StudentNamesSort\bin\Debug\_05.StudentNamesSort.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\05. StudentNamesSort\bin\Debug\_05.StudentNamesSort.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\05. StudentNamesSort\bin\Debug\_03.StudentsFirstBeforeLastName.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\05. StudentNamesSort\bin\Debug\_03.StudentsFirstBeforeLastName.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\05. StudentNamesSort\obj\Debug\05. StudentNamesSort.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\05. StudentNamesSort\obj\Debug\_05.StudentNamesSort.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\05. StudentNamesSort\obj\Debug\_05.StudentNamesSort.pdb

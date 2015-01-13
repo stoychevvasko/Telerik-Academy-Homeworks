@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\OOP\05\Homework_05_Due_20.02.2014\Homework_05_Due_20.02.2014\03. Problem03\bin\Debug\_03.Problem03.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\05\Homework_05_Due_20.02.2014\Homework_05_Due_20.02.2014\03. Problem03\bin\Debug\_03.Problem03.exe
+C:\Users\Vase\Desktop\homeworks\OOP\05\Homework_05_Due_20.02.2014\Homework_05_Due_20.02.2014\03. Problem03\bin\Debug\_03.Problem03.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\05\Homework_05_Due_20.02.2014\Homework_05_Due_20.02.2014\03. Problem03\obj\Debug\03. Problem03.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\05\Homework_05_Due_20.02.2014\Homework_05_Due_20.02.2014\03. Problem03\obj\Debug\_03.Problem03.exe
+C:\Users\Vase\Desktop\homeworks\OOP\05\Homework_05_Due_20.02.2014\Homework_05_Due_20.02.2014\03. Problem03\obj\Debug\_03.Problem03.pdb

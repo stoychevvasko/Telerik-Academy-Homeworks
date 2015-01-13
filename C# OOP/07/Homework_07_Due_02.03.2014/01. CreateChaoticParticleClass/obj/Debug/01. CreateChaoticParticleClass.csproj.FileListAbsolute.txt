@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\bin\Debug\_01.CreateChaoticParticleClass.exe.config
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\bin\Debug\_01.CreateChaoticParticleClass.exe
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\bin\Debug\_01.CreateChaoticParticleClass.pdb
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\obj\Debug\01. CreateChaoticParticleClass.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\obj\Debug\_01.CreateChaoticParticleClass.exe
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\obj\Debug\_01.CreateChaoticParticleClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\bin\Debug\_01.CreateChaoticParticleClass.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\obj\Debug\_01.CreateChaoticParticleClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\obj\Debug\_01.CreateChaoticParticleClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\bin\Debug\_01.CreateChaoticParticleClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\bin\Debug\_01.CreateChaoticParticleClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\obj\Debug\01. CreateChaoticParticleClass.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\bin\Debug\ParticleSystem.exe
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\01. CreateChaoticParticleClass\bin\Debug\ParticleSystem.pdb

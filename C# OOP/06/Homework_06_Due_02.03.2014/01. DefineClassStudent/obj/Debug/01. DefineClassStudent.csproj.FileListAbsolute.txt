@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\01. DefineClassStudent\bin\Debug\_01.DefineClassStudent.exe.config
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\01. DefineClassStudent\bin\Debug\_01.DefineClassStudent.exe
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\01. DefineClassStudent\bin\Debug\_01.DefineClassStudent.pdb
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\01. DefineClassStudent\obj\Debug\01. DefineClassStudent.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\01. DefineClassStudent\obj\Debug\_01.DefineClassStudent.exe
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\01. DefineClassStudent\obj\Debug\_01.DefineClassStudent.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\01. DefineClassStudent\bin\Debug\_01.DefineClassStudent.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\01. DefineClassStudent\obj\Debug\_01.DefineClassStudent.exe
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\01. DefineClassStudent\obj\Debug\_01.DefineClassStudent.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\01. DefineClassStudent\bin\Debug\_01.DefineClassStudent.exe
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\01. DefineClassStudent\bin\Debug\_01.DefineClassStudent.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\01. DefineClassStudent\obj\Debug\01. DefineClassStudent.csprojResolveAssemblyReference.cache

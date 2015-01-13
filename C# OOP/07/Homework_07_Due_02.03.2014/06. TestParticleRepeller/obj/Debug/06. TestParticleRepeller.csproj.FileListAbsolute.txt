@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\06. TestParticleRepeller\bin\Debug\_06.TestParticleRepeller.exe.config
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\06. TestParticleRepeller\bin\Debug\_06.TestParticleRepeller.exe
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\06. TestParticleRepeller\bin\Debug\_06.TestParticleRepeller.pdb
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\06. TestParticleRepeller\obj\Debug\_06.TestParticleRepeller.exe
+C:\Users\student\Desktop\vs\Homework_07_Due_02.03.2014\06. TestParticleRepeller\obj\Debug\_06.TestParticleRepeller.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\06. TestParticleRepeller\bin\Debug\_06.TestParticleRepeller.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\06. TestParticleRepeller\obj\Debug\_06.TestParticleRepeller.exe
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\06. TestParticleRepeller\obj\Debug\_06.TestParticleRepeller.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\06. TestParticleRepeller\bin\Debug\_06.TestParticleRepeller.exe
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\06. TestParticleRepeller\bin\Debug\_06.TestParticleRepeller.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\06. TestParticleRepeller\bin\Debug\ParticleSystem.exe
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\06. TestParticleRepeller\bin\Debug\ParticleSystem.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\07\Homework_07_Due_02.03.2014\06. TestParticleRepeller\obj\Debug\06. TestParticleRepeller.csprojResolveAssemblyReference.cache

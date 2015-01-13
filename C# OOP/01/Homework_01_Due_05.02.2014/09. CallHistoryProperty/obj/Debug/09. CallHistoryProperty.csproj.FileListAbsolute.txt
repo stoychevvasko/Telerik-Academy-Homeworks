@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\09. CallHistoryProperty\bin\Debug\_09.CallHistoryProperty.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\09. CallHistoryProperty\bin\Debug\_09.CallHistoryProperty.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\09. CallHistoryProperty\bin\Debug\_09.CallHistoryProperty.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\09. CallHistoryProperty\obj\Debug\_09.CallHistoryProperty.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\09. CallHistoryProperty\obj\Debug\_09.CallHistoryProperty.pdb

@@ -1,0 +1,18 @@
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+C:\Users\Nikki\Desktop\GameStateManagementSample\GameStateManagement\obj\x86\Debug\GameStateManagement (Windows).csprojResolveAssemblyReference.cache
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagement\obj\x86\Debug\GameStateManagement (Windows).csprojResolveAssemblyReference.cache
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+C:\Users\Vase\Documents\GitHub\KurtVonnegut\KurtVonnegut\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagement\obj\x86\Debug\GameStateManagement (Windows).csprojResolveAssemblyReference.cache
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+G:\___For_exam\homeworks\OOP\Group Project 03\to_dismantle\KurtVonnegut\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb

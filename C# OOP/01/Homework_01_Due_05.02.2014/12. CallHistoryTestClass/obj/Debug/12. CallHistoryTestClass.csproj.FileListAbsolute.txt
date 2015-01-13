@@ -1,0 +1,8 @@
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\12. CallHistoryTestClass\bin\Debug\_12.CallHistoryTestClass.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\12. CallHistoryTestClass\bin\Debug\_12.CallHistoryTestClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\12. CallHistoryTestClass\bin\Debug\_12.CallHistoryTestClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\12. CallHistoryTestClass\bin\Debug\_11.CallsPriceMethod.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\12. CallHistoryTestClass\bin\Debug\_11.CallsPriceMethod.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\12. CallHistoryTestClass\obj\Debug\12. CallHistoryTestClass.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\12. CallHistoryTestClass\obj\Debug\_12.CallHistoryTestClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\12. CallHistoryTestClass\obj\Debug\_12.CallHistoryTestClass.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\OOP\09\Homework_09_Due_04.03.2014\01. DocSys\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\09\Homework_09_Due_04.03.2014\01. DocSys\bin\Debug\DocumentSystem.exe
+C:\Users\Vase\Desktop\homeworks\OOP\09\Homework_09_Due_04.03.2014\01. DocSys\bin\Debug\DocumentSystem.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\09\Homework_09_Due_04.03.2014\01. DocSys\obj\Debug\DocumentSystem.exe
+C:\Users\Vase\Desktop\homeworks\OOP\09\Homework_09_Due_04.03.2014\01. DocSys\obj\Debug\DocumentSystem.pdb

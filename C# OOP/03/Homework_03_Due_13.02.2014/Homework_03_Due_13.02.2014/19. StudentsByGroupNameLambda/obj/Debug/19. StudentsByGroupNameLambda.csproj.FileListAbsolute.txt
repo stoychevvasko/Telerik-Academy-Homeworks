@@ -1,0 +1,10 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\bin\Debug\_19.StudentsByGroupNameLambda.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\bin\Debug\_19.StudentsByGroupNameLambda.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\bin\Debug\_19.StudentsByGroupNameLambda.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\obj\Debug\19. StudentsByGroupNameLambda.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\obj\Debug\_19.StudentsByGroupNameLambda.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\obj\Debug\_19.StudentsByGroupNameLambda.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\bin\Debug\_09.CompleteStudentClass.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\bin\Debug\_18.StudentsByGroupName.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\bin\Debug\_09.CompleteStudentClass.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\19. StudentsByGroupNameLambda\bin\Debug\_18.StudentsByGroupName.pdb

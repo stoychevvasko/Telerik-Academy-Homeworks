@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\02. ImplementICloneable\bin\Debug\_02.ImplementICloneable.exe.config
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\02. ImplementICloneable\bin\Debug\_02.ImplementICloneable.exe
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\02. ImplementICloneable\bin\Debug\_02.ImplementICloneable.pdb
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\02. ImplementICloneable\obj\Debug\_02.ImplementICloneable.exe
+C:\Users\student\Desktop\vs\Homework_06_Due_02.03.2014\02. ImplementICloneable\obj\Debug\_02.ImplementICloneable.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\02. ImplementICloneable\bin\Debug\_02.ImplementICloneable.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\02. ImplementICloneable\obj\Debug\_02.ImplementICloneable.exe
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\02. ImplementICloneable\obj\Debug\_02.ImplementICloneable.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\02. ImplementICloneable\bin\Debug\_02.ImplementICloneable.exe
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\02. ImplementICloneable\bin\Debug\_02.ImplementICloneable.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\06\Homework_06_Due_02.03.2014\02. ImplementICloneable\obj\Debug\02. ImplementICloneable.csprojResolveAssemblyReference.cache

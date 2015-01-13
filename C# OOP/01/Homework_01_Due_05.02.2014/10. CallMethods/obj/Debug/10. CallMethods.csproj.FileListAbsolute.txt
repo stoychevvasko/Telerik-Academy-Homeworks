@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\10. CallMethods\bin\Debug\_10.CallMethods.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\10. CallMethods\bin\Debug\_10.CallMethods.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\10. CallMethods\bin\Debug\_10.CallMethods.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\10. CallMethods\obj\Debug\_10.CallMethods.exe
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\10. CallMethods\obj\Debug\_10.CallMethods.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\01\Homework_01_Due_05.02.2014\10. CallMethods\obj\Debug\10. CallMethods.csprojResolveAssemblyReference.cache

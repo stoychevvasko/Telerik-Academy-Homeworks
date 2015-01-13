@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\02. StudentsAndWorkers\bin\Debug\_02.StudentsAndWorkers.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\02. StudentsAndWorkers\bin\Debug\_02.StudentsAndWorkers.exe
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\02. StudentsAndWorkers\bin\Debug\_02.StudentsAndWorkers.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\02. StudentsAndWorkers\obj\Debug\02. StudentsAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\02. StudentsAndWorkers\obj\Debug\_02.StudentsAndWorkers.exe
+C:\Users\Vase\Desktop\homeworks\OOP\04\Homework_04_Due_18.02.2014\Homework_04_Due_18.02.2014\02. StudentsAndWorkers\obj\Debug\_02.StudentsAndWorkers.pdb

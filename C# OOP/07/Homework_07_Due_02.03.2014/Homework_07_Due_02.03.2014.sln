@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. CreateChaoticParticleClass", "01. CreateChaoticParticleClass\01. CreateChaoticParticleClass.csproj", "{E67517B4-FB94-40D8-8C7F-0E1B66A71B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. TestChaoticParticle", "02. TestChaoticParticle\02. TestChaoticParticle.csproj", "{FC3E1DF8-192D-4DB2-967C-70C921BE47AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. CreateChickenParticleClass", "03. CreateChickenParticleClass\03. CreateChickenParticleClass.csproj", "{9B47837B-B534-46AE-BCCF-9450D4B88408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. TestChickenParticle", "04. TestChickenParticle\04. TestChickenParticle.csproj", "{F47612CC-A8BB-498F-8DC2-3C7DF1F9942E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. CreateParticleRepellerClass", "05. CreateParticleRepellerClass\05. CreateParticleRepellerClass.csproj", "{E26BB099-7EFF-47F8-AF4E-87CF78E39AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. TestParticleRepeller", "06. TestParticleRepeller\06. TestParticleRepeller.csproj", "{A931FF47-B4F1-4C64-99B2-3883026A3B6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSystem", "ParticleSystem\ParticleSystem\ParticleSystem.csproj", "{E33B48A2-0340-4BD2-B1D5-D3A9FAAA2EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E67517B4-FB94-40D8-8C7F-0E1B66A71B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67517B4-FB94-40D8-8C7F-0E1B66A71B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67517B4-FB94-40D8-8C7F-0E1B66A71B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67517B4-FB94-40D8-8C7F-0E1B66A71B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3E1DF8-192D-4DB2-967C-70C921BE47AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3E1DF8-192D-4DB2-967C-70C921BE47AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3E1DF8-192D-4DB2-967C-70C921BE47AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3E1DF8-192D-4DB2-967C-70C921BE47AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B47837B-B534-46AE-BCCF-9450D4B88408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B47837B-B534-46AE-BCCF-9450D4B88408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B47837B-B534-46AE-BCCF-9450D4B88408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B47837B-B534-46AE-BCCF-9450D4B88408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47612CC-A8BB-498F-8DC2-3C7DF1F9942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47612CC-A8BB-498F-8DC2-3C7DF1F9942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47612CC-A8BB-498F-8DC2-3C7DF1F9942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47612CC-A8BB-498F-8DC2-3C7DF1F9942E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26BB099-7EFF-47F8-AF4E-87CF78E39AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26BB099-7EFF-47F8-AF4E-87CF78E39AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26BB099-7EFF-47F8-AF4E-87CF78E39AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26BB099-7EFF-47F8-AF4E-87CF78E39AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A931FF47-B4F1-4C64-99B2-3883026A3B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A931FF47-B4F1-4C64-99B2-3883026A3B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A931FF47-B4F1-4C64-99B2-3883026A3B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A931FF47-B4F1-4C64-99B2-3883026A3B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33B48A2-0340-4BD2-B1D5-D3A9FAAA2EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33B48A2-0340-4BD2-B1D5-D3A9FAAA2EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33B48A2-0340-4BD2-B1D5-D3A9FAAA2EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33B48A2-0340-4BD2-B1D5-D3A9FAAA2EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

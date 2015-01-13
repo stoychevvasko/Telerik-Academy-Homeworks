@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\08. TimerWithEvents\bin\Debug\_08.TimerWithEvents.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\08. TimerWithEvents\bin\Debug\_08.TimerWithEvents.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\08. TimerWithEvents\bin\Debug\_08.TimerWithEvents.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\08. TimerWithEvents\obj\Debug\_08.TimerWithEvents.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\08. TimerWithEvents\obj\Debug\_08.TimerWithEvents.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\08. TimerWithEvents\obj\Debug\08. TimerWithEvents.csprojResolveAssemblyReference.cache

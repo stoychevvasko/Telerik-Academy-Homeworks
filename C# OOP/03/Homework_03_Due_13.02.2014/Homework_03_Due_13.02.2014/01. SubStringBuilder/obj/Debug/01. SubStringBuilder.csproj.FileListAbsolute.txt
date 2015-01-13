@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\01. SubStringBuilder\bin\Debug\_01.SubStringBuilder.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\01. SubStringBuilder\bin\Debug\_01.SubStringBuilder.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\01. SubStringBuilder\bin\Debug\_01.SubStringBuilder.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\01. SubStringBuilder\obj\Debug\01. SubStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\01. SubStringBuilder\obj\Debug\_01.SubStringBuilder.exe
+C:\Users\Vase\Desktop\homeworks\OOP\03\Homework_03_Due_13.02.2014\Homework_03_Due_13.02.2014\01. SubStringBuilder\obj\Debug\_01.SubStringBuilder.pdb

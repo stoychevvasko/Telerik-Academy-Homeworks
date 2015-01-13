@@ -1,0 +1,8 @@
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\10. OperatorsOverload\bin\Debug\_10.OperatorsOverload.exe.config
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\10. OperatorsOverload\bin\Debug\_10.OperatorsOverload.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\10. OperatorsOverload\bin\Debug\_10.OperatorsOverload.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\10. OperatorsOverload\obj\Debug\_10.OperatorsOverload.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\10. OperatorsOverload\obj\Debug\_10.OperatorsOverload.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\10. OperatorsOverload\bin\Debug\_08.MatrixOfT.exe
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\10. OperatorsOverload\bin\Debug\_08.MatrixOfT.pdb
+C:\Users\Vase\Desktop\homeworks\OOP\02\Homework_02_Due_11.02.2014\10. OperatorsOverload\obj\Debug\10. OperatorsOverload.csprojResolveAssemblyReference.cache

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. DefineClassStudent", "01. DefineClassStudent\01. DefineClassStudent.csproj", "{9285DBED-3A4E-444F-8629-5FA2860D4318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. ImplementICloneable", "02. ImplementICloneable\02. ImplementICloneable.csproj", "{D61B447E-3EB6-4013-9DA8-5F4C2E0B8DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ImplementIComparable", "03. ImplementIComparable\03. ImplementIComparable.csproj", "{B2C0A9BD-F9D9-42AE-9C33-DE9EF9F49955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. CreateClassPerson", "04. CreateClassPerson\04. CreateClassPerson.csproj", "{62F4BB0C-7CD9-46C2-BA97-986B07714FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. DefineClassBitArray64", "05. DefineClassBitArray64\05. DefineClassBitArray64.csproj", "{57683CD2-4A68-4D22-9556-D3B59AB366AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. DefineBinarySearchTree", "06. DefineBinarySearchTree\06. DefineBinarySearchTree.csproj", "{274F384E-AB39-4688-A51E-55B5F9BE10BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9285DBED-3A4E-444F-8629-5FA2860D4318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9285DBED-3A4E-444F-8629-5FA2860D4318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9285DBED-3A4E-444F-8629-5FA2860D4318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9285DBED-3A4E-444F-8629-5FA2860D4318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61B447E-3EB6-4013-9DA8-5F4C2E0B8DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61B447E-3EB6-4013-9DA8-5F4C2E0B8DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61B447E-3EB6-4013-9DA8-5F4C2E0B8DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61B447E-3EB6-4013-9DA8-5F4C2E0B8DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C0A9BD-F9D9-42AE-9C33-DE9EF9F49955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C0A9BD-F9D9-42AE-9C33-DE9EF9F49955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C0A9BD-F9D9-42AE-9C33-DE9EF9F49955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C0A9BD-F9D9-42AE-9C33-DE9EF9F49955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F4BB0C-7CD9-46C2-BA97-986B07714FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F4BB0C-7CD9-46C2-BA97-986B07714FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F4BB0C-7CD9-46C2-BA97-986B07714FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F4BB0C-7CD9-46C2-BA97-986B07714FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57683CD2-4A68-4D22-9556-D3B59AB366AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57683CD2-4A68-4D22-9556-D3B59AB366AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57683CD2-4A68-4D22-9556-D3B59AB366AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57683CD2-4A68-4D22-9556-D3B59AB366AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274F384E-AB39-4688-A51E-55B5F9BE10BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274F384E-AB39-4688-A51E-55B5F9BE10BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274F384E-AB39-4688-A51E-55B5F9BE10BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274F384E-AB39-4688-A51E-55B5F9BE10BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
