@@ -1,0 +1,25 @@
+C:\Users\Vase\Desktop\homeworks\templates\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.dll
+C:\Users\Vase\Desktop\homeworks\templates\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.pdb
+C:\Users\Vase\Desktop\homeworks\templates\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\templates\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.dll
+C:\Users\Vase\Desktop\homeworks\templates\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.pdb
+F:\VASKO\homeworks\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.dll
+F:\VASKO\homeworks\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.pdb
+F:\VASKO\homeworks\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.dll
+F:\VASKO\homeworks\JavaScript OOP Homework Template\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.pdb
+C:\Users\Vase\Desktop\homeworks\templates\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.dll
+C:\Users\Vase\Desktop\homeworks\templates\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.pdb
+C:\Users\Vase\Desktop\homeworks\templates\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\templates\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.dll
+C:\Users\Vase\Desktop\homeworks\templates\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.pdb
+C:\Users\Vase\Documents\GitHub\vaskosJSOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.dll
+C:\Users\Vase\Documents\GitHub\vaskosJSOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.pdb
+C:\Users\Vase\Documents\GitHub\vaskosJSOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Documents\GitHub\vaskosJSOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.dll
+C:\Users\Vase\Documents\GitHub\vaskosJSOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\02 - Classic OOP in JavaScript\Homework_Classic_Js_OOP\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\02 - Classic OOP in JavaScript\Homework_Classic_Js_OOP\JavaScriptOOPHomeworkTemplate\bin\JavaScriptOOPHomeworkTemplate.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\02 - Classic OOP in JavaScript\Homework_Classic_Js_OOP\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\02 - Classic OOP in JavaScript\Homework_Classic_Js_OOP\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\02 - Classic OOP in JavaScript\Homework_Classic_Js_OOP\JavaScriptOOPHomeworkTemplate\obj\Debug\JavaScriptOOPHomeworkTemplate.pdb
