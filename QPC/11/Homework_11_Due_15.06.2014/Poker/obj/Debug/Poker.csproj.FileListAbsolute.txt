@@ -1,0 +1,10 @@
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\bin\Debug\Poker.exe
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\bin\Debug\Poker.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\obj\Debug\Poker.exe
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\obj\Debug\Poker.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker\obj\Debug\Poker.exe
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker\obj\Debug\Poker.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker\bin\Debug\Poker.exe
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker\bin\Debug\Poker.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache

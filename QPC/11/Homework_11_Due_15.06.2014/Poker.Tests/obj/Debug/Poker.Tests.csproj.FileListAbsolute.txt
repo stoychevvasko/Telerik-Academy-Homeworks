@@ -1,0 +1,14 @@
+C:\Users\Vase\Desktop\homeworks\QPC\11\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\Vase\Desktop\homeworks\QPC\11\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\Vase\Desktop\homeworks\QPC\11\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\11\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\Vase\Desktop\homeworks\QPC\11\Poker.Tests\obj\Debug\Poker.Tests.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\Vase\Desktop\homeworks\QPC\11\Homework_11_Due_15.06.2014\Poker.Tests\obj\Debug\Poker.Tests.pdb
