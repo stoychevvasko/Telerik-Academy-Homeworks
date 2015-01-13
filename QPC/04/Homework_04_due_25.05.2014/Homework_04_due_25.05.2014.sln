@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{20E15537-F659-4547-BDBE-F31A43FDE267}"
+	ProjectSection(SolutionItems) = preProject
+		GetRotatedSize.cs = GetRotatedSize.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{2EA8A49D-B814-4992-8EA0-4906DDF68DF1}"
+	ProjectSection(SolutionItems) = preProject
+		PrintStatistics.cs = PrintStatistics.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
