@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\CSS\01\CSS_Homework_01_due_06.04.2014\CSS_Homework_01_due_06.04.2014\bin\CSS_Homework_01_due_06.04.2014.dll.config
+C:\Users\Vase\Desktop\homeworks\CSS\01\CSS_Homework_01_due_06.04.2014\CSS_Homework_01_due_06.04.2014\bin\CSS_Homework_01_due_06.04.2014.dll
+C:\Users\Vase\Desktop\homeworks\CSS\01\CSS_Homework_01_due_06.04.2014\CSS_Homework_01_due_06.04.2014\bin\CSS_Homework_01_due_06.04.2014.pdb
+C:\Users\Vase\Desktop\homeworks\CSS\01\CSS_Homework_01_due_06.04.2014\CSS_Homework_01_due_06.04.2014\obj\Debug\CSS_Homework_01_due_06.04.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\CSS\01\CSS_Homework_01_due_06.04.2014\CSS_Homework_01_due_06.04.2014\obj\Debug\CSS_Homework_01_due_06.04.2014.dll
+C:\Users\Vase\Desktop\homeworks\CSS\01\CSS_Homework_01_due_06.04.2014\CSS_Homework_01_due_06.04.2014\obj\Debug\CSS_Homework_01_due_06.04.2014.pdb

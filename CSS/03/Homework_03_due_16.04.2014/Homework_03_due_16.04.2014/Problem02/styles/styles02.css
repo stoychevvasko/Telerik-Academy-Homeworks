@@ -1,0 +1,65 @@
+﻿section {
+    background-color: #eeeeee;
+    border: none;
+    border-radius: 10px;
+    width: 550px;    
+    padding: 10px;
+    top: 300px;
+}
+
+article {    
+    border: 1px solid #a6a6a6;    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+    position: static;
+    text-wrap:normal;    
+    height: 120px;
+    background-color: #fff;
+}
+
+h1 {
+    font-family: 'Franklin Gothic', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.button-long {    
+    position: relative;
+    top: -82px;
+    left: 210px;
+}
+
+.text-button-long {    
+    color: #fff;    
+    position: relative;
+    left: 235px;
+    top: -110px;
+}
+
+.button-short {
+    position: relative;
+    top: -132px;
+    left: 295px;
+}
+
+.text-button-short {    
+    color: #fff;    
+    position: relative;
+    left: 320px;
+    top: -160px;
+}
+
+a {
+    font-family: 'Franklin Gothic', sans-serif;
+    text-decoration: none;
+    display: inline;
+}
+
+article span {    
+    position: relative;    
+    display: block;
+    width: 50%;
+    top: -100px;
+    left: 175px;
+}

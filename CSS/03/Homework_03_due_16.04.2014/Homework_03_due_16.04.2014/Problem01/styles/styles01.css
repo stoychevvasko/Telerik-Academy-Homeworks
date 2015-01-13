@@ -1,0 +1,21 @@
+﻿li {    
+    list-style:none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li > ul {
+    color: #9C9C9C;
+    display: none;
+}
+
+ul > li:hover > ul {
+    display: block;
+}

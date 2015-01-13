@@ -1,0 +1,51 @@
+﻿body {
+    background-color: #a9a9a9;
+    font-size: 20px;
+    font-family: serif;
+}
+
+.pale-yellow-title {
+    color: #fafad2;
+}
+
+.top-title {
+    font-size: 2.4em;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.white-text {
+    color: #ffffff;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.invisilink {
+    color: #000000;
+}
+
+.footer-minitext {
+    font-size: 0.8em;
+}
+
+.current {
+    background-color: #d3d3d3;
+} 
+
+a:hover {
+    text-decoration: underline;    
+}

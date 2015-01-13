@@ -1,0 +1,65 @@
+﻿body {
+    background-color: #595959;
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    padding: 5px;
+    vertical-align: top;    
+}
+
+td {
+    padding-bottom: 15px;    
+    width: 50px;       
+    /* please share your ideas on how to make Chrome respect this width attribute =) */
+}
+
+div {
+    padding-bottom: 0px;
+}
+
+th {    
+    font-size: 1.2em;
+    font-weight: normal;    
+    color: #ababab;
+    padding-bottom: 20px;    
+    text-align: left;
+    /* IE's layout engine skips inheriting the text-align attribute from <body> for some reason, thus the redundancy here... */
+
+}
+
+.white-italics {
+    font-style: italic;
+    font-size: 0.75em;    
+    color: #ffffff;
+    vertical-align: text-top;
+}
+
+.greys {
+    font-size: 0.8em;
+    color: #ababab;    
+}
+
+.light-yellow-text {
+    font-size: 0.75em;    
+    color: #e4dc9c;
+}
+
+.green-dot:before {
+    content: url(../imgs/dot.png);
+    color: #71b47a;
+}
+
+.red-text {
+    color: #ff0000;    
+    font-size: 0.8em;    
+    font-weight: bold;
+}
+
+.orange-text {
+    color: #ff6a00;
+    font-size: 0.8em;    
+}
+
+a {
+    text-decoration: none;    
+}

@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Problem 04</title>
+    <link href="styles/styles04.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="calc-outer-container">
+        <div class="calc-title">Calculator</div>
+        <div class="calc-inner-container">
+            <div class="menu-bar">
+                <span class="menu-item">View</span>
+                <span class="menu-item">Edit</span>
+                <span class="menu-item">Help</span>
+            </div>
+            <div class="output-text">
+                <div id="result-entry">8854455</div>
+            </div>
+            <div class="binary-box">
+                <div>
+                    <div>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry-last">0000</span>
+                    </div>
+                    <div>
+                        <span class="binary-pos" id="pos-63">63</span>
+                        <span class="binary-pos" id="pos-47">47</span>
+                        <span class="binary-pos-last" id="pos-32">32</span>
+                    </div>
+                    <div>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry">0000</span>
+                        <span class="binary-entry">1000</span>
+                        <span class="binary-entry">0111</span>
+                        <span class="binary-entry">0001</span>
+                        <span class="binary-entry">1011</span>
+                        <span class="binary-entry">1011</span>
+                        <span class="binary-entry-last">0111</span>
+                    </div>
+                    <div>
+                        <span class="binary-pos" id="pos-31">31</span>
+                        <span class="binary-pos" id="pos-15">15</span>
+                        <span class="binary-pos-last" id="pos-0">0</span>
+                    </div>
+                </div>
+            </div>
+            <div class="numeral-system">
+                <input type="radio" name="numeral" />Hex<br />
+                <input type="radio" name="numeral" checked="checked" />Dec<br />
+                <input type="radio" name="numeral" />Oct<br />
+                <input type="radio" name="numeral" />Bin
+            </div>
+            <div class="byte-allocation">
+                <input type="radio" name="byte-allocation" checked="checked"/>Qword<br />
+                <input type="radio" name="byte-allocation" />Dword<br />
+                <input type="radio" name="byte-allocation" />Word<br />
+                <input type="radio" name="byte-allocation" />Byte<br />
+            </div>
+            <div class="button-area">
+                <div class="button-row">
+                    <input type="button" class="button-cell disabled-button" value="" disabled="disabled" />
+                    <input type="button" class="button-cell secondary-button" value="Mod"/>
+                    <input type="button" class="button-cell disabled-button" value="A" disabled="disabled" />
+                    <input type="button" class="button-cell secondary-button" value="MC" />
+                    <input type="button" class="button-cell secondary-button" value="MR" />
+                    <input type="button" class="button-cell secondary-button" value="MS" />
+                    <input type="button" class="button-cell secondary-button" value="M+" />
+                    <input type="button" class="button-cell secondary-button" value="M-" />
+                </div>
+                <div class="button-row">
+                    <input type="button" class="button-cell secondary-button" value="(" />
+                    <input type="button" class="button-cell secondary-button" value=")" />
+                    <input type="button" class="button-cell disabled-button" value="B" disabled="disabled" />
+                    <input type="button" class="button-cell secondary-button" value="←" />
+                    <input type="button" class="button-cell secondary-button" value="CE" />
+                    <input type="button" class="button-cell secondary-button" value="C" />
+                    <input type="button" class="button-cell secondary-button" value="+-" />
+                    <input type="button" class="button-cell disabled-button" value="√" disabled="disabled" />                    
+                </div>
+                <div class="button-row">
+                    <input type="button" class="button-cell secondary-button" value="RoL" />
+                    <input type="button" class="button-cell secondary-button" value="RoR" />
+                    <input type="button" class="button-cell disabled-button" value="C" disabled="disabled" />
+                    <input type="button" class="button-cell primary-button" value="7" />
+                    <input type="button" class="button-cell primary-button" value="8" />
+                    <input type="button" class="button-cell primary-button" value="9" />
+                    <input type="button" class="button-cell secondary-button" value="/" />
+                    <input type="button" class="button-cell disabled-button" value="%" disabled="disabled" />
+                </div>
+                <div class="button-row">
+                    <input type="button" class="button-cell secondary-button" value="Or" />
+                    <input type="button" class="button-cell secondary-button" value="Xor" />
+                    <input type="button" class="button-cell disabled-button" value="D" disabled="disabled" />
+                    <input type="button" class="button-cell primary-button" value="4" />
+                    <input type="button" class="button-cell primary-button" value="5" />
+                    <input type="button" class="button-cell primary-button" value="6" />
+                    <input type="button" class="button-cell secondary-button" value="*" />
+                    <input type="button" class="button-cell disabled-button" value="1/x" disabled="disabled" />
+                </div>
+                <div class="button-row">
+                    <input type="button" class="button-cell secondary-button" value="Lsh" />
+                    <input type="button" class="button-cell secondary-button" value="Rsh" />
+                    <input type="button" class="button-cell disabled-button" value="E" disabled="disabled" />
+                    <input type="button" class="button-cell primary-button" value="1" />
+                    <input type="button" class="button-cell primary-button" value="2" />
+                    <input type="button" class="button-cell primary-button" value="3" />
+                    <input type="button" class="button-cell secondary-button" value="-" />
+                    
+                </div>
+                <div class="button-row">
+                    <input type="button" class="button-cell secondary-button" value="Not" />
+                    <input type="button" class="button-cell secondary-button" value="And" />
+                    <input type="button" class="button-cell disabled-button" value="F" disabled="disabled" />
+                    <input type="button" class="button-cell primary-button" id="zero-button" value="0" />
+                    <input type="button" class="button-cell disabled-button" value="," disabled="disabled" />
+                    <input type="button" class="button-cell secondary-button" value="+" />
+                    <input type="button" class="button-cell secondary-button" id="equals-button" value="=" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div id="example">
+        <img src="imgs/calc.png" />;
+    </div>
+</body>
+</html>

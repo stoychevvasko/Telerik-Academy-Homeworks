@@ -1,0 +1,314 @@
+@gradient-background-color: #d593ff;
+@gradient-color: #d593ff;
+@gradient-color-1: #d593ff;
+@gradient-color-2: #9215f2;
+@border-color-1: #603382;
+@border-color-2: #000;
+@link-color-1: #d08cf7;
+@link-color-2: #fff;
+@link-color-2-hover: #a8a8a8;
+@text-color-1: #fff;
+@semi-transparent-menu-color: rgba(179, 94, 243, 0.9);
+@background-color-1: #b35ef3;
+@background-color-2: #8949b9;
+@aside-link-color: #aaaaaa;
+@aside-strong-em-color: #cccccc;
+@base-font-size: 14px;
+
+//mixin
+.create-gradient {
+    background: @gradient-background-color; /* Old browsers */
+    background: -moz-linear-gradient(top, @gradient-color 0%, @gradient-color-1 5%, @gradient-color-2 20%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, @gradient-color), color-stop(5%, @gradient-color-1), color-stop(20%,@gradient-color-2)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, @gradient-color 0%,@gradient-color-1 5%,@gradient-color-2 20%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, @gradient-color 0%,@gradient-color-1 5%,@gradient-color-2 20%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, @gradient-color 0%,@gradient-color-1 5%,@gradient-color-2 20%); /* IE10+ */
+    background: linear-gradient(to bottom, @gradient-color 0%,@gradient-color-1 5%,@gradient-color-2 20%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d593ff', endColorstr='#9215f2',GradientType=0 ); /* IE6-9 */
+    background-repeat:round;
+    background-attachment: fixed;
+}
+
+
+.clearfix, body header div#header-container, body header nav, body header nav ul, body header nav ul li ul.sub-nav-list, body section, body aside {
+    zoom: 1;
+}
+
+    .clearfix:after, body header div#header-container:after, body header nav:after, body header nav ul:after, body header nav ul li ul.sub-nav-list:after, body section:after, body aside:after, .clearfix:before, body header div#header-container:before, body header nav:before, body header nav ul:before, body header nav ul li ul.sub-nav-list:before, body section:before, body aside:before {
+        content: "\0020";
+        display: block;
+        height: 0;
+        overflow: hidden;
+    }
+
+    .clearfix:after, body header div#header-container:after, body header nav:after, body header nav ul:after, body header nav ul li ul.sub-nav-list:after, body section:after, body aside:after {
+        clear: both;
+    }
+
+body, header, section, footer, article, h1, h2, h3, h4, h5, h6, input, button, label, p, fieldset, nav, ul, li, a, span, strong, em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+div, h1, h3, h4, h5, h6, header, footer, body, section, nav, article, aside {
+    display: block;
+}
+
+body {
+    font: @base-font-size normal Arial;
+    color: @text-color-1;
+    height: 100%;
+    margin: 0;  
+    //mixin call  
+   .create-gradient;
+}
+
+    body header {
+        padding-top: 25px;
+        padding-bottom: 5px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+        body header div#header-container div#logo-container {
+            float: left;
+            position: relative;
+        }
+
+        body header div#header-container div#reg-form-container {
+            float: right;
+            position: relative;
+            right: 5%;
+            top: 50%;
+        }
+
+            body header div#header-container div#reg-form-container div {
+                text-align: right;
+            }
+
+                body header div#header-container div#reg-form-container div label {
+                    width: 50px;
+                    margin: 5px;
+                }
+
+                body header div#header-container div#reg-form-container div input {
+                    width: 130px;
+                    border: 1px solid @border-color-1;
+                    border-radius: 10px;
+                    padding: 2px 5px;
+                    margin: 5px;
+                    background-color: @background-color-1;
+                }
+
+            body header div#header-container div#reg-form-container button {
+                margin-left: auto;
+                margin-right: auto;
+                font-weight: bold;
+                border: 1px solid @border-color-1;
+                border-style: outset;
+                border-radius: 10px;
+                padding: 5px 8px;
+                background-color: @background-color-1;
+                color: @text-color-1;
+            }
+
+                body header div#header-container div#reg-form-container button:hover {
+                    background-color: @background-color-2;
+                    border-style: inset;
+                }
+
+        body header nav {
+            display: inline-block;
+            width: 75%;
+            margin: 20px 20px 20px 20px;
+            padding: 12px;
+            border: 1px solid @border-color-2;
+            border-radius: 15px;
+        }
+
+            body header nav ul.nav-list {
+                list-style-type: none;
+            }
+
+            body header nav ul li {
+                float: left;
+                margin: 0;
+            }
+
+                body header nav ul li a {
+                    text-decoration: none;
+                    padding: 0 10px 0 10px;
+                    color: @link-color-2;
+                    font: 1.4em normal Arial;
+                }
+
+                    body header nav ul li a.selected {
+                        font-weight: bold;
+                    }
+
+                body header nav ul li:hover > a {
+                    text-decoration: underline;
+                    color: @link-color-2-hover;
+                }
+
+                    body header nav ul li:hover > a + ul {
+                        display: block;
+                    }
+
+                body header nav ul li ul.sub-nav-list {
+                    position: absolute;
+                    display: none;
+                    background-color: @semi-transparent-menu-color;
+                    border-radius: 5px;
+                }
+
+                body header nav ul li ul li {
+                    float: none;
+                    margin: 0 15px;
+                    padding: 10px 0;
+                    border-bottom: 1px solid @border-color-2;
+                }
+
+                    body header nav ul li ul li:last-of-type {
+                        border-bottom: none;
+                    }
+
+                    body header nav ul li ul li > a {
+                        font-size: 1.2em;
+                        color: @text-color-1;
+                    }
+
+    body section {
+        width: 75%;
+        float: left;
+        color: @text-color-1;
+    }
+
+        body section a {
+            color: @link-color-1;
+            text-decoration: none;
+        }
+
+        body section article {
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid @border-color-2;
+            border-radius: 15px;
+        }
+
+            body section article header {
+                background: none;
+                padding: 5px;
+            }
+
+                body section article header h1 {
+                    font-size: 1.4em;
+                    padding: 0;
+                }
+
+            body section article footer {
+                padding: 5px;
+            }
+
+                body section article footer p {
+                    font-size: 1.2em;
+                    text-align: right;
+                    font-weight: normal;
+                }
+
+                    body section article footer p time {
+                        font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+                    }
+
+                    body section article footer p a {
+                        text-decoration: none;
+                    }
+
+                        body section article footer p a:hover {
+                            text-decoration: underline;
+                        }
+
+    body aside {
+        float: left;
+        width: 20%;
+        margin: 20px;
+    }
+
+        body aside > ul {
+            list-style-type: none;
+        }
+
+            body aside > ul > li {
+                margin: 15px 0;
+                padding: 15px;
+                border: 1px solid black;
+                border-radius: 5px;
+            }
+
+                body aside > ul > li h2 {
+                    font-size: 1.1em;
+                    font-weight: bold;
+                }
+
+                body aside > ul > li p {
+                    margin-top: 10px;
+                    margin-right: 5px;
+                    margin-bottom: 10px;
+                    margin-left: 5px;
+                    font-size: 14px;
+                }
+
+                    body aside > ul > li p a {
+                        color: @aside-link-color;
+                        text-decoration: none;
+                    }
+
+                    body aside > ul > li p strong {
+                        color: @aside-strong-em-color;
+                        font-weight: bold;
+                        font-style: normal;
+                    }
+
+                    body aside > ul > li p em {
+                        color: @aside-strong-em-color;
+                        font-weight: normal;
+                        font-style: italic;
+                    }
+
+                body aside > ul > li ul {
+                    list-style-type: none;
+                    margin-top: 10px;
+                    margin-right: 0;
+                    margin-bottom: 10px;
+                    margin-left: 0px;
+                }
+
+                    body aside > ul > li ul li {
+                        margin-top: 5px;
+                        margin-left: 10px;
+                        margin-bottom: 0px;
+                        margin-right: 0px;
+                        background: url(../../imgs/li-dot.png) no-repeat;
+                        background-position: 0 50%;
+                        padding-left: 25px;
+                    }
+
+                        body aside > ul > li > ul > li::before {
+                            content: url(../../../imgs/li-dot.png);
+                            text-align: left;
+                        }
+
+    body footer {
+        clear: both;
+        padding-top: 15px;
+        padding-bottom: 25px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+        body footer p {
+            font-size: 1.2em;
+            font-weight: bold;
+            text-align: center;
+        }

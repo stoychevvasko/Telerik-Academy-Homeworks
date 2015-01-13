@@ -1,0 +1,10 @@
+﻿div {
+    border: 1px solid red;
+    background-color: black;
+    border-radius: 1000px;
+    width: 97%;        
+}
+
+#innermost {
+    height: 1px;
+}

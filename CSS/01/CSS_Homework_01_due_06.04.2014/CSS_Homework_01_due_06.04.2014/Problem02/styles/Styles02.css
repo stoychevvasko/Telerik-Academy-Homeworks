@@ -1,0 +1,91 @@
+﻿body {
+    background-color: #808080;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
+
+table {
+    border-spacing: 10px;
+}
+
+.my-table {
+    border-spacing: 0px 0px;    
+}
+
+
+#contact-name {
+    width: 230px;
+    text-align: left;
+    /* same deal - IE does not inherit text-align from <body> */
+}
+
+#city {
+    width: 175px;
+    text-align: left;
+}
+
+#country {
+    width: 200px;
+    text-align: left;
+}
+
+#is-promoted {
+    width: 130px;
+    text-align: left;
+}
+
+tr:nth-child(2n+1) {
+    background-color: #ffffff;
+}
+
+tr:nth-child(2n) {
+    background-color: #ececd8;
+}
+
+thead {    
+    font-size: 1em;
+    color: #ffffff;
+    border-spacing: 0px;
+}
+
+th {
+    background-color: #57ba06;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: normal;
+    border: solid;
+    border-width: 2px;
+    border-left-color: #2a7a05;
+    border-bottom-color: #2a7a05;
+    border-right-color: #83de3a;
+    border-top-color: #83de3a;
+}
+
+td {
+    padding: 10px;
+    border-color: #c5c3ab;
+    border-style: solid;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    vertical-align: central;
+}
+
+.germany:before {
+    content: url(../imgs/german_flag.png);
+    padding: 5px;
+}
+
+.mexico:before {
+    content: url(../imgs/mexican_flag.png);
+    padding: 5px;
+}
+
+.uk:before {
+    content: url(../imgs/uk_flag.png);
+    padding: 5px;
+}

@@ -1,0 +1,34 @@
+body ul {
+  list-style-type: none;
+  position: static;
+  margin: 50px;
+}
+body ul li {
+  display: inline;
+}
+body ul li img {
+  margin: -120px;
+  transform: scale(0.5);
+  -ms-transform: scale(0.5);
+  /* IE 9 */
+  -moz-transform: scale(0.5);
+  /* Firefox */
+  -webkit-transform: scale(0.5);
+  /* Safari and Chrome */
+  -o-transform: scale(0.5);
+  /* Opera */
+}
+body ul li img:active {
+  transform: scale(1);
+  -ms-transform: scale(1);
+  /* IE 9 */
+  -moz-transform: scale(1);
+  /* Firefox */
+  -webkit-transform: scale(1);
+  /* Safari and Chrome */
+  -o-transform: scale(1);
+  /* Opera */
+  position: absolute;
+  left: 222px;
+  top: 350px;
+}

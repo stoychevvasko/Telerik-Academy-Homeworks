@@ -1,0 +1,42 @@
+﻿@small-scale: 0.5;
+@large-scale: 1.0;
+
+//you gotta hold the mouse button down for this one to work, I couldn't get active state to persist after mouse release
+//pls share any other ideas you might have =)
+
+body
+{
+    ul
+    {
+        list-style-type: none;
+        position: static;
+        margin: 50px;
+
+        li
+        {
+            display: inline;
+
+            img
+            {
+                margin: -120px;
+                transform: scale(@small-scale);
+                -ms-transform: scale(@small-scale); /* IE 9 */
+                -moz-transform: scale(@small-scale); /* Firefox */
+                -webkit-transform: scale(@small-scale); /* Safari and Chrome */
+                -o-transform: scale(@small-scale); /* Opera */
+            }
+
+                img:active
+                {
+                    transform: scale(@large-scale);
+                    -ms-transform: scale(@large-scale); /* IE 9 */
+                    -moz-transform: scale(@large-scale); /* Firefox */
+                    -webkit-transform: scale(@large-scale); /* Safari and Chrome */
+                    -o-transform: scale(@large-scale); /* Opera */
+                    position: absolute;
+                    left: 222px;
+                    top: 350px;
+                }
+        }
+    }
+}

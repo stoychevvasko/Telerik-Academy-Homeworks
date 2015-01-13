@@ -1,0 +1,41 @@
+﻿.container {
+    margin: 10px;
+    height: 662px;    
+    background-image: url("../imgs/bgr.png");    
+    background-repeat: no-repeat;    
+}
+
+.computer, .members-login, .input-name, .input-email, .button {
+    vertical-align: middle;
+    margin: 10px;
+}
+
+section {    
+    padding: 10px;
+}
+
+.members-login {
+    font-family: serif;
+    font-size: 20px;
+    color: #fff;
+    margin: 10px;
+}
+
+h1 {
+    font-family: serif;
+    font-size: 24px;
+    color: #fdd416;    
+}
+
+section > article > p, a {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    color: #9f9f9f;
+    width: 600px;
+}
+
+section > article > p > strong {
+    color: #fff;
+    font-weight: normal;
+}

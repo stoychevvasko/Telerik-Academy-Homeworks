@@ -1,0 +1,22 @@
+using System;
+using System.Threading;
+using System.Globalization;
+using System.Text;
+
+class Title
+{
+    static void Main()
+    {
+        Console.OutputEncoding = Encoding.UTF8;
+        Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+        Console.Title = "Title";
+		Console.SetWindowSize(50, 20);
+		Console.BufferWidth = Console.WindowWidth = 50;
+		Console.BufferHeight = Console.WindowHeight = 20;            
+		
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.ReadKey();
+    }
+}
