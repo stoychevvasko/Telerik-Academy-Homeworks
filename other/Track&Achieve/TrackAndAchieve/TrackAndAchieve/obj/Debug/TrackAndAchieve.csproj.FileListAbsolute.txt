@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\other\Track&Achieve\TrackAndAchieve\TrackAndAchieve\bin\Debug\TrackAndAchieve.exe.config
+C:\Users\Vase\Desktop\homeworks\other\Track&Achieve\TrackAndAchieve\TrackAndAchieve\bin\Debug\TrackAndAchieve.exe
+C:\Users\Vase\Desktop\homeworks\other\Track&Achieve\TrackAndAchieve\TrackAndAchieve\bin\Debug\TrackAndAchieve.pdb
+C:\Users\Vase\Desktop\homeworks\other\Track&Achieve\TrackAndAchieve\TrackAndAchieve\obj\Debug\TrackAndAchieve.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\other\Track&Achieve\TrackAndAchieve\TrackAndAchieve\obj\Debug\TrackAndAchieve.exe
+C:\Users\Vase\Desktop\homeworks\other\Track&Achieve\TrackAndAchieve\TrackAndAchieve\obj\Debug\TrackAndAchieve.pdb
