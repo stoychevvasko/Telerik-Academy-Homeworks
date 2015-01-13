@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\04\AMDAndRequireJSHomeworkDue07.06.2014\AMDAndRequireJSHomeworkDue07.06.2014\bin\AMDAndRequireJSHomeworkDue07.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\04\AMDAndRequireJSHomeworkDue07.06.2014\AMDAndRequireJSHomeworkDue07.06.2014\bin\AMDAndRequireJSHomeworkDue07.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\04\AMDAndRequireJSHomeworkDue07.06.2014\AMDAndRequireJSHomeworkDue07.06.2014\obj\Debug\AMDAndRequireJSHomeworkDue07.06.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\04\AMDAndRequireJSHomeworkDue07.06.2014\AMDAndRequireJSHomeworkDue07.06.2014\obj\Debug\AMDAndRequireJSHomeworkDue07.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\04\AMDAndRequireJSHomeworkDue07.06.2014\AMDAndRequireJSHomeworkDue07.06.2014\obj\Debug\AMDAndRequireJSHomeworkDue07.06.2014.pdb

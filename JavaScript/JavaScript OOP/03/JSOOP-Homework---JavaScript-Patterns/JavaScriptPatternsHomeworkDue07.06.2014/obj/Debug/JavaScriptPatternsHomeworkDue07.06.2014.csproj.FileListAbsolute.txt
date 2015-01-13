@@ -1,0 +1,17 @@
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JavaScriptPatternsHomeworkDue07.06.2014\bin\JavaScriptPatternsHomeworkDue07.06.2014.dll.config
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JavaScriptPatternsHomeworkDue07.06.2014\bin\JavaScriptPatternsHomeworkDue07.06.2014.dll
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JavaScriptPatternsHomeworkDue07.06.2014\bin\JavaScriptPatternsHomeworkDue07.06.2014.pdb
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.dll
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.pdb
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\bin\JavaScriptPatternsHomeworkDue07.06.2014.dll.config
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\bin\JavaScriptPatternsHomeworkDue07.06.2014.dll
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\bin\JavaScriptPatternsHomeworkDue07.06.2014.pdb
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.csprojResolveAssemblyReference.cache
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.dll
+F:\VASKO\homeworks\JS\JSOOP\JavaScriptPatternsHomeworkDue07.06.2014\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\03\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\bin\JavaScriptPatternsHomeworkDue07.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\03\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\bin\JavaScriptPatternsHomeworkDue07.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\03\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\03\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript OOP\03\JSOOP-Homework---JavaScript-Patterns\JavaScriptPatternsHomeworkDue07.06.2014\obj\Debug\JavaScriptPatternsHomeworkDue07.06.2014.pdb

@@ -1,0 +1,325 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  left: 0px;
+  top: 0px;
+  display: block;
+  position: relative;
+}
+body {
+  background-color: #000000;
+  font-family: sans-serif;
+  color: #dddddd;
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: url('../../images/background.jpg') repeat center center fixed;
+  /*-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+}
+body header {
+  display: block;
+  position: absolute;
+  width: 33%;
+  height: 600px;
+  text-align: center;
+  top: 55%;
+  left: 33%;
+}
+body header img {
+  position: relative;
+  border-radius: 10px;
+  border: 2px solid #a2e0ff;
+  left: -172px;
+  top: 75px;
+}
+body header h1 {
+  padding: 10px 0px;
+  border: 2px solid #a2e0ff;
+  border-radius: 10px;
+  color: #fff876;
+  font-size: 36px;
+  font-style: italic;
+  margin-left: -172px;
+  margin-top: -355px;
+  width: 689px;
+}
+body header h1:hover {
+  cursor: pointer;
+}
+body header h1#task-title {
+  margin-top: 10px;
+}
+body header p {
+  width: 689px;
+  margin-top: 365px;
+  margin-left: -172px;
+  padding: 10px 0px;
+  border: 2px solid #a2e0ff;
+  border-radius: 10px;
+  color: #a2e0ff;
+  font-size: 17px;
+}
+body header p em {
+  color: #66ccff;
+}
+body header p strong {
+  color: #fff876;
+}
+body header p:hover,
+body header p:hover strong,
+body header p:hover em {
+  cursor: pointer;
+  color: #000000;
+}
+body nav {
+  position: absolute;
+  width: 660px;
+  height: 25px;
+  text-align: center;
+  top: 510px;
+  left: 33%;
+  display: block;
+  margin-left: -155px;
+  border: 2px solid #a2e0ff;
+  border-radius: 10px;
+  color: #a2e0ff;
+  font-size: 17px;
+}
+body nav div#tasks-navigation-entries {
+  position: relative;
+}
+body nav div#tasks-navigation-entries span {
+  display: inline-block;
+  position: relative;
+  margin: 5px 0px;
+  border: 1px solid #a2e0ff;
+}
+body section {
+  position: absolute;
+  width: 650px;
+  height: 250px;
+  text-align: left;
+  top: 545px;
+  left: 33%;
+  margin-left: -150px;
+  display: block;
+  border: 1px solid #a2e0ff;
+  border-radius: 10px;
+  color: #a2e0ff;
+  font-size: 17px;
+  overflow: hidden;
+}
+body section article {
+  width: 625px;
+  display: block;
+  padding: 15px;
+}
+body section article p {
+  width: 600px;
+  display: block;
+}
+body section article p .ie:before,
+body section article p .firefox:before,
+body section article p .chrome:before,
+body section article p .opera:before,
+body section article p .safari:before {
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+body section article p .ie:before {
+  content: url(../../images/ie.png);
+}
+body section article p .firefox:before {
+  content: url(../../images/firefox.png);
+}
+body section article p .chrome:before {
+  content: url(../../images/chrome.png);
+}
+body section article p .opera:before {
+  content: url(../../images/opera.png);
+}
+body section article p .safari:before {
+  content: url(../../images/safari.png);
+}
+body section article p div ul {
+  margin: 5px;
+}
+body section article p div ul li {
+  margin-left: 30px;
+}
+body aside {
+  position: relative;
+}
+body footer {
+  display: block;
+  position: relative;
+  width: 440px;
+  height: 25px;
+  top: 805px;
+  left: 33%;
+  text-align: center;
+  margin-left: -50px;
+  border: 2px solid #a2e0ff;
+  border-radius: 10px;
+  color: #a2e0ff;
+  font-size: 17px;
+  padding-top: 5px;
+}
+body footer:hover {
+  cursor: pointer;
+}
+.hoverable:hover,
+a:hover {
+  background: #a2e0ff;
+  background: -moz-linear-gradient(left, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #66ccff), color-stop(50%, #a2e0ff), color-stop(100%, #66ccff));
+  background: -webkit-linear-gradient(left, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  background: -o-linear-gradient(left, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  background: -ms-linear-gradient(left, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  background: linear-gradient(to right, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1);
+  color: #000000;
+  border-color: #66ccff;
+}
+h1.hoverable:hover {
+  background: #fff876;
+  background: -moz-linear-gradient(left, #ffff00 0%, #fff876 50%, #ffff00 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #ffff00), color-stop(50%, #fff876), color-stop(100%, #ffff00));
+  background: -webkit-linear-gradient(left, #ffff00 0%, #fff876 50%, #ffff00 100%);
+  background: -o-linear-gradient(left, #ffff00 0%, #fff876 50%, #ffff00 100%);
+  background: -ms-linear-gradient(left, #ffff00 0%, #fff876 50%, #ffff00 100%);
+  background: linear-gradient(to right, #ffff00 0%, #fff876 50%, #ffff00 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1);
+  border-color: #ffff00;
+}
+a {
+  display: inline-block;
+  position: relative;
+  top: -11px;
+  color: #a2e0ff;
+  margin: 10px;
+  line-height: 17px;
+  border-radius: 10px;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+.bgr-monocolor {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.transparent {
+  border: 0px solid rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+}
+form input[type=submit] {
+  position: relative;
+  text-align: center;
+  display: block;
+  left: 50%;
+  margin-left: -25px;
+  border: 2px solid #a2e0ff;
+  border-radius: 10px;
+  color: #a2e0ff;
+  font-size: 17px;
+  padding: 5px 10px;
+}
+#startButton {
+  position: relative;
+  text-align: center;
+  display: block;
+  left: 50%;
+  margin-left: -25px;
+  border: 2px solid #a2e0ff;
+  border-radius: 10px;
+  color: #a2e0ff;
+  font-size: 17px;
+  padding: 5px 10px;
+}
+#startButton:hover {
+  background: #a2e0ff;
+  background: -moz-linear-gradient(left, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #66ccff), color-stop(50%, #a2e0ff), color-stop(100%, #66ccff));
+  background: -webkit-linear-gradient(left, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  background: -o-linear-gradient(left, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  background: -ms-linear-gradient(left, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  background: linear-gradient(to right, #66ccff 0%, #a2e0ff 50%, #66ccff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1);
+  color: #000000;
+  border-color: #66ccff;
+}
+#wrapper {
+  display: block;
+  position: absolute;
+  width: 659px;
+  height: 395px;
+  left: 33%;
+  margin-left: -172px;
+  margin-top: 105px;
+  border: 1px solid #a2e0ff;
+  border-radius: 5px;
+  padding: 15px;
+}
+#wrapper ul {
+  margin: 5px;
+}
+#wrapper ul li {
+  margin-left: 30px;
+}
+input[type=button] {
+  text-align: center;
+  border: 2px solid #a2e0ff;
+  border-radius: 10px;
+  color: #a2e0ff;
+  font-size: 17px;
+  padding: 5px 10px;
+  margin: 10px;
+}
+div.gameWrapper {
+  width: 800px;
+  margin: auto;
+}
+canvas#snakeGame {
+  border: 1px solid #a2e0ff;
+  border-radius: 5px;
+  background: url('../../images/background.png');
+}
+div#hiScores {
+  float: right;
+  width: 196px;
+}
+#hiScores {
+  position: absolute;
+  left: 103%;
+  top: 0px;
+  width: 50px;
+  height: 395px;
+  border: 1px solid #a2e0ff;
+  border-radius: 5px;
+  font-family: sans-serif;
+  color: #a2e0ff;
+  padding: 15px;
+}
+#startButton {
+  position: absolute;
+  left: 90%;
+  top: 0px;
+  padding: 5px;
+  margin: 10px;
+}
+#score {
+  position: absolute;
+  left: 90%;
+  top: 50px;
+  padding: 5px;
+  margin: 10px;
+  font-family: sans-serif;
+  color: #a2e0ff;
+}
