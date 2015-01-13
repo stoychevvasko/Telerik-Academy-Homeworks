@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\08 - JS Events\Events_Homework_due_15.06.2014\Events_Homework_due_15.06.2014\bin\Events_Homework_due_15.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\08 - JS Events\Events_Homework_due_15.06.2014\Events_Homework_due_15.06.2014\bin\Events_Homework_due_15.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\08 - JS Events\Events_Homework_due_15.06.2014\Events_Homework_due_15.06.2014\obj\Debug\Events_Homework_due_15.06.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\08 - JS Events\Events_Homework_due_15.06.2014\Events_Homework_due_15.06.2014\obj\Debug\Events_Homework_due_15.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\08 - JS Events\Events_Homework_due_15.06.2014\Events_Homework_due_15.06.2014\obj\Debug\Events_Homework_due_15.06.2014.pdb

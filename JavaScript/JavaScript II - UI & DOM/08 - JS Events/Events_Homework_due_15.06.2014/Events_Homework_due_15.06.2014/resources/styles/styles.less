@@ -1,0 +1,295 @@
+﻿@background-color-shadows: #222;
+@background-color-mid-tones: #303030;
+@background-color-highlights: #444;
+
+@foreground-color-shadows: #777;
+@foreground-color-mid-tones: #bbb;
+@foreground-color-highlights: #ddd;
+
+@shadow-color-thin: rgba(0,0,0,0.3);
+@shadow-color-medium: rgba(0,0,0,0.5);
+@shadow-color-thick: rgba(0,0,0,0.8);
+
+@color-selected: #baffba;
+
+@border-radius-narrow: 3px;
+@border-radius-medium: 8px;
+@border-radius-wide: 13px;
+
+@margin-padding-narrow: 5px;
+@margin-padding-medium: 13px;
+@margin-padding-wide: 21px;
+
+@font-family-primary: sans-serif;
+@font-family-secondary: serif;
+@font-size-h3: 17px;
+
+@font-size-h1: 21px;
+@font-size-content: 13px;
+
+.box-shadow(@color, @distance1, @distance2, @distance3)
+{
+    box-shadow: @distance1 @distance2 @distance3 @color;
+}
+
+.gradient-horizontal-aba(@color-sides, @color-middle)
+{
+    background: @color-middle;
+    background: -moz-linear-gradient(left, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, @color-sides), color-stop(50%, @color-middle), color-stop(100%, @color-sides));
+    background: -webkit-linear-gradient(left, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    background: -o-linear-gradient(left, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    background: -ms-linear-gradient(left, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    background: linear-gradient(to right, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=1 );
+}
+
+.gradient-vertical-aba(@color-top-bottom, @color-middle)
+{
+    background: @color-middle;
+    background: -moz-linear-gradient(top, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, @color-top-bottom), color-stop(50%, @color-middle), color-stop(100%, @color-top-bottom));
+    background: -webkit-linear-gradient(top, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    background: -o-linear-gradient(top, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    background: -ms-linear-gradient(top, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    background: linear-gradient(to bottom, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+}
+
+.gradient-radial-ab(@color-outer, @color-inner)
+{
+    background: @color-inner;
+    background: -moz-radial-gradient(center, ellipse cover, @color-inner 0%, @color-outer 66%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,@color-inner), color-stop(66%,@color-outer));
+    background: -webkit-radial-gradient(center, ellipse cover, @color-inner 0%,@color-outer 66%);
+    background: -o-radial-gradient(center, ellipse cover, @color-inner 0%,@color-outer 66%);
+    background: -ms-radial-gradient(center, ellipse cover, @color-inner 0%,@color-outer 66%);
+    background: radial-gradient(ellipse at center, @color-inner 0%,@color-outer 66%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=@color-outer, endColorstr=@color-inner,GradientType=1 );
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.centered
+{
+    text-align: center;
+}
+
+html
+{
+    height: 100%;
+
+    body
+    {
+        .gradient-radial-ab(@background-color-shadows, @background-color-mid-tones);
+        background-repeat: round;
+        font-family: @font-family-primary;
+        color: @foreground-color-mid-tones;
+
+        section
+        {
+            display: block;
+            width: 610px;
+            position: relative;
+            margin: @margin-padding-wide;
+            padding: @margin-padding-wide;
+            border: 1px solid @foreground-color-shadows;
+            border-radius: @border-radius-wide;
+            .gradient-horizontal-aba(@background-color-mid-tones, @background-color-highlights);
+            background-repeat: round;
+            .box-shadow(rgba(0,0,0,0.3), @margin-padding-wide, @margin-padding-wide, @margin-padding-medium);
+
+            h1
+            {
+                font-size: @font-size-h1;
+                line-height: @font-size-h1 * 2;
+                font-style: italic;
+                text-shadow: @margin-padding-narrow @margin-padding-narrow @margin-padding-narrow @shadow-color-medium;
+            }
+
+            h3, .h3-ul, .h3-li
+            {
+                font-size: @font-size-h3;
+                line-height: @font-size-h3 * 2;
+                font-style: italic;
+                text-align: right;
+                text-shadow: @margin-padding-narrow @margin-padding-narrow @margin-padding-narrow @shadow-color-thin;
+
+                em
+                {
+                    font-family: @font-family-secondary;
+                    color: @color-selected;
+                    text-shadow: @margin-padding-narrow @margin-padding-narrow @margin-padding-narrow @shadow-color-medium;
+                    margin: 0 @margin-padding-medium 0 @margin-padding-medium;
+                }
+
+                strong
+                {
+                    text-shadow: @margin-padding-narrow @margin-padding-narrow @margin-padding-narrow @shadow-color-medium;
+                }
+            }
+
+
+            input[type="text"], input:not([type]), textarea, textarea:disabled
+            {
+                border: 1px solid @foreground-color-shadows;
+                border-radius: @border-radius-narrow;
+                margin: @margin-padding-narrow;
+                padding: @margin-padding-narrow;
+                font-size: @font-size-content;
+                .gradient-vertical-aba(@foreground-color-shadows, @background-color-highlights);
+                color: @foreground-color-highlights;
+            }
+
+            textarea
+            {
+                position: relative;
+                top: @margin-padding-wide;
+                width: @margin-padding-wide * 18;
+                height: @margin-padding-wide * 6;
+            }
+
+            #submit-button, #delete-item, #show-item, #hide-item, #submit-item, #search-case-sensitive, #search-case-insensitive
+            {
+                color: @foreground-color-highlights;
+                font-style: italic;
+                background-color: @background-color-highlights;
+                .box-shadow(@shadow-color-medium, @margin-padding-medium, @margin-padding-medium, @margin-padding-medium);
+                border: 1px solid @foreground-color-shadows;
+                border-radius: @border-radius-medium;
+                margin: @margin-padding-medium;
+                padding: @margin-padding-medium @margin-padding-wide;
+            }
+
+                #submit-button:hover, #search-case-sensitive:hover, #search-case-insensitive:hover
+                {
+                    color: @color-selected;
+                    .box-shadow(@shadow-color-thin, @margin-padding-narrow, @margin-padding-narrow, @margin-padding-narrow);
+                }
+
+            article
+            {
+                p
+                {
+                    display: block;
+                    border: 1px solid @foreground-color-shadows;
+                    border-radius: @border-radius-medium;
+                    margin: @margin-padding-wide;
+                    padding: @margin-padding-medium;
+                    font-size: @font-size-content;
+                    text-shadow: @margin-padding-narrow @margin-padding-narrow @margin-padding-narrow @shadow-color-thin;
+                    font-family: @font-family-primary;
+                    line-height: @font-size-content * 3;
+                    .box-shadow(@shadow-color-medium, @margin-padding-medium, @margin-padding-medium, @margin-padding-medium);
+
+
+                    .ie:before, .firefox:before, .chrome:before, .opera:before, .safari:before
+                    {
+                        display: inline-block;
+                        position: relative;
+                        top: @margin-padding-medium;
+                        margin-left: @margin-padding-narrow;
+                        margin-right: @margin-padding-narrow;
+                    }
+
+
+                    .ie:before
+                    {
+                        content: url(../../imgs/ie.png);
+                    }
+
+                    .firefox:before
+                    {
+                        content: url(../../imgs/firefox.png);
+                    }
+
+                    .chrome:before
+                    {
+                        content: url(../../imgs/chrome.png);
+                    }
+
+                    .opera:before
+                    {
+                        content: url(../../imgs/opera.png);
+                    }
+
+                    .safari:before
+                    {
+                        content: url(../../imgs/safari.png);
+                    }
+                }
+
+                .div-table
+                {
+                    display: table;
+                    width: 100%;
+                    margin: @margin-padding-wide;
+                    margin-bottom: 0;
+
+                    .div-row
+                    {
+                        display: table-row;
+                        margin: @margin-padding-medium;
+
+                        .div-cell
+                        {
+                            display: table-cell;
+                            margin: @margin-padding-narrow;
+
+                            a
+                            {
+                                color: @foreground-color-highlights;
+                                text-decoration: none;
+                                font-size: @font-size-content;
+                                font-style: italic;
+                                line-height: @font-size-h3 * 5;
+                                .box-shadow(@shadow-color-medium, @margin-padding-medium, @margin-padding-medium, @margin-padding-medium);
+                                border: 1px solid @foreground-color-shadows;
+                                border-radius: @border-radius-medium;
+                                padding: @margin-padding-medium @margin-padding-wide;
+                            }
+
+                                a:hover
+                                {
+                                    color: @color-selected;
+                                    .box-shadow(@shadow-color-thin, @margin-padding-narrow, @margin-padding-narrow, @margin-padding-narrow);
+                                }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.link
+{
+    font-family: @font-family-secondary;
+    color: @color-selected;
+    font-style: italic;
+    text-decoration: none;
+    text-shadow: @margin-padding-narrow @margin-padding-narrow @margin-padding-narrow @shadow-color-medium;
+    margin: 0 @margin-padding-medium 0 @margin-padding-medium;
+}
+
+    .link:hover
+    {
+        text-decoration: underline;
+        .box-shadow(@shadow-color-thin, @margin-padding-narrow, @margin-padding-narrow, @margin-padding-narrow);
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    li{
+        list-style: none;
+    }
+
+    #result-div{        
+        padding-left: 50px;
+    }

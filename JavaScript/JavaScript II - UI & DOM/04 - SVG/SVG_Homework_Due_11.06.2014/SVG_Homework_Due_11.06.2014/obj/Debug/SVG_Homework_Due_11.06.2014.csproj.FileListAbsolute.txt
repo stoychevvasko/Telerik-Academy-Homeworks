@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\04 - SVG\SVG_Homework_Due_11.06.2014\SVG_Homework_Due_11.06.2014\bin\SVG_Homework_Due_11.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\04 - SVG\SVG_Homework_Due_11.06.2014\SVG_Homework_Due_11.06.2014\bin\SVG_Homework_Due_11.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\04 - SVG\SVG_Homework_Due_11.06.2014\SVG_Homework_Due_11.06.2014\obj\Debug\SVG_Homework_Due_11.06.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\04 - SVG\SVG_Homework_Due_11.06.2014\SVG_Homework_Due_11.06.2014\obj\Debug\SVG_Homework_Due_11.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\04 - SVG\SVG_Homework_Due_11.06.2014\SVG_Homework_Due_11.06.2014\obj\Debug\SVG_Homework_Due_11.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\04 - SVG\SVG_Homework_Due_11.06.2014\SVG_Homework_Due_11.06.2014\bin\SVG_Homework_Due_11.06.2014.dll.config

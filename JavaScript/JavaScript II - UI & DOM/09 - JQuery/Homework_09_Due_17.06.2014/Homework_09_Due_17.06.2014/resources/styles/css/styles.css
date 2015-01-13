@@ -1,0 +1,231 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.centered {
+  text-align: center;
+}
+html {
+  height: 100%;
+}
+html body {
+  background-color: #222222;
+  font-family: sans-serif;
+  color: #bbbbbb;
+}
+html body section {
+  display: block;
+  width: 610px;
+  position: relative;
+  margin: 21px;
+  padding: 21px;
+  border: 1px solid #777777;
+  border-radius: 13px;
+  background: #444444;
+  background: -moz-linear-gradient(left, #303030 0%, #444444 50%, #303030 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #303030), color-stop(50%, #444444), color-stop(100%, #303030));
+  background: -webkit-linear-gradient(left, #303030 0%, #444444 50%, #303030 100%);
+  background: -o-linear-gradient(left, #303030 0%, #444444 50%, #303030 100%);
+  background: -ms-linear-gradient(left, #303030 0%, #444444 50%, #303030 100%);
+  background: linear-gradient(to right, #303030 0%, #444444 50%, #303030 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1);
+  background-repeat: round;
+  box-shadow: 21px 21px 13px rgba(0, 0, 0, 0.3);
+}
+html body section ul {
+  padding-left: 42px;
+}
+html body section h1 {
+  font-size: 21px;
+  line-height: 42px;
+  font-style: italic;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+html body section h3,
+html body section .h3-ul,
+html body section .h3-li {
+  font-size: 17px;
+  line-height: 34px;
+  font-style: italic;
+  text-align: right;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+html body section h3 em,
+html body section .h3-ul em,
+html body section .h3-li em {
+  font-family: serif;
+  color: #baffba;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  margin: 0 13px 0 13px;
+}
+html body section h3 strong,
+html body section .h3-ul strong,
+html body section .h3-li strong {
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+html body section input[type="text"],
+html body section input:not([type]),
+html body section textarea,
+html body section textarea:disabled {
+  border: 1px solid #777777;
+  border-radius: 3px;
+  margin: 5px;
+  padding: 5px;
+  font-size: 13px;
+  background: #444444;
+  background: -moz-linear-gradient(top, #777777 0%, #444444 50%, #777777 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #777777), color-stop(50%, #444444), color-stop(100%, #777777));
+  background: -webkit-linear-gradient(top, #777777 0%, #444444 50%, #777777 100%);
+  background: -o-linear-gradient(top, #777777 0%, #444444 50%, #777777 100%);
+  background: -ms-linear-gradient(top, #777777 0%, #444444 50%, #777777 100%);
+  background: linear-gradient(to bottom, #777777 0%, #444444 50%, #777777 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff', GradientType=0);
+  color: #dddddd;
+}
+html body section textarea {
+  position: relative;
+  top: 21px;
+  width: 378px;
+  height: 126px;
+}
+html body section #submit-button,
+html body section #search-case-sensitive,
+html body section #search-case-insensitive,
+html body section #prev-button,
+html body section #next-button {
+  color: #dddddd;
+  font-style: italic;
+  background-color: #444444;
+  box-shadow: 13px 13px 13px rgba(0, 0, 0, 0.5);
+  border: 1px solid #777777;
+  border-radius: 8px;
+  margin: 13px;
+  padding: 13px 21px;
+}
+html body section #submit-button:hover,
+html body section #search-case-sensitive:hover,
+html body section #search-case-insensitive:hover,
+html body section #prev-button:hover,
+html body section #next-button:hover {
+  color: #baffba;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+html body section article p {
+  display: block;
+  border: 1px solid #777777;
+  border-radius: 8px;
+  margin: 21px;
+  padding: 13px;
+  font-size: 13px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+  font-family: sans-serif;
+  line-height: 39px;
+  box-shadow: 13px 13px 13px rgba(0, 0, 0, 0.5);
+}
+html body section article p .ie:before,
+html body section article p .firefox:before,
+html body section article p .chrome:before,
+html body section article p .opera:before,
+html body section article p .safari:before {
+  display: inline-block;
+  position: relative;
+  top: 13px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+html body section article p .ie:before {
+  content: url(../../imgs/ie.png);
+}
+html body section article p .firefox:before {
+  content: url(../../imgs/firefox.png);
+}
+html body section article p .chrome:before {
+  content: url(../../imgs/chrome.png);
+}
+html body section article p .opera:before {
+  content: url(../../imgs/opera.png);
+}
+html body section article p .safari:before {
+  content: url(../../imgs/safari.png);
+}
+html body section article .div-table {
+  display: table;
+  width: 100%;
+  margin: 21px;
+  margin-bottom: 0;
+}
+html body section article .div-table .div-row {
+  display: table-row;
+  margin: 13px;
+}
+html body section article .div-table .div-row .div-cell {
+  display: table-cell;
+  margin: 5px;
+}
+html body section article .div-table .div-row .div-cell a {
+  color: #dddddd;
+  text-decoration: none;
+  font-size: 13px;
+  font-style: italic;
+  line-height: 85px;
+  box-shadow: 13px 13px 13px rgba(0, 0, 0, 0.5);
+  border: 1px solid #777777;
+  border-radius: 8px;
+  padding: 13px 21px;
+}
+html body section article .div-table .div-row .div-cell a:hover {
+  color: #baffba;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.link {
+  font-family: serif;
+  color: #baffba;
+  font-style: italic;
+  text-decoration: none;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  margin: 0 13px 0 13px;
+}
+.link:hover {
+  text-decoration: underline;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+#slider {
+  width: 90%;
+  height: 400px;
+  text-align: center;
+  display: block;
+  border: 1px solid #777777;
+  border-radius: 8px;
+  margin: 21px;
+  padding: 13px;
+  font-size: 13px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+  font-family: sans-serif;
+  line-height: 39px;
+  box-shadow: 13px 13px 13px rgba(0, 0, 0, 0.5);
+}
+#current-slide {
+  margin: 0 auto;
+  margin-top: 10px;
+  width: 95%;
+  height: 100%;
+}
+table {
+  width: 90%;
+  height: 200px;
+  text-align: center;
+  display: block;
+  border: 1px solid #777777;
+  border-radius: 8px;
+  margin: 21px;
+  padding: 13px;
+  font-size: 13px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+  font-family: sans-serif;
+  line-height: 39px;
+  box-shadow: 13px 13px 13px rgba(0, 0, 0, 0.5);
+}
+table th,
+table td {
+  padding: 0px 21px;
+}

@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\06 - Canvas SVG Animation\Homework_06_due_13.06.2014\Homework_06_due_13.06.2014\bin\Homework_06_due_13.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\06 - Canvas SVG Animation\Homework_06_due_13.06.2014\Homework_06_due_13.06.2014\bin\Homework_06_due_13.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\06 - Canvas SVG Animation\Homework_06_due_13.06.2014\Homework_06_due_13.06.2014\obj\Debug\Homework_06_due_13.06.2014.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\06 - Canvas SVG Animation\Homework_06_due_13.06.2014\Homework_06_due_13.06.2014\obj\Debug\Homework_06_due_13.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\06 - Canvas SVG Animation\Homework_06_due_13.06.2014\Homework_06_due_13.06.2014\obj\Debug\Homework_06_due_13.06.2014.pdb

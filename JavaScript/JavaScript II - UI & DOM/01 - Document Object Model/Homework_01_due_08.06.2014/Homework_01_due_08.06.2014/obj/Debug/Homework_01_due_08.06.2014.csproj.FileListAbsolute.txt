@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\01 - Document Object Model\Homework_01_due_08.06.2014\Homework_01_due_08.06.2014\bin\Homework_01_due_08.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\01 - Document Object Model\Homework_01_due_08.06.2014\Homework_01_due_08.06.2014\bin\Homework_01_due_08.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\01 - Document Object Model\Homework_01_due_08.06.2014\Homework_01_due_08.06.2014\obj\Debug\Homework_01_due_08.06.2014.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\01 - Document Object Model\Homework_01_due_08.06.2014\Homework_01_due_08.06.2014\obj\Debug\Homework_01_due_08.06.2014.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript II - UI & DOM\01 - Document Object Model\Homework_01_due_08.06.2014\Homework_01_due_08.06.2014\obj\Debug\Homework_01_due_08.06.2014.csprojResolveAssemblyReference.cache

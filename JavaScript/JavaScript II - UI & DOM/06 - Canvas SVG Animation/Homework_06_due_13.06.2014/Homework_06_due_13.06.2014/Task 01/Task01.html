@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Task 01</title>
+    <link href="../resources/styles/css/styles.min.css" rel="stylesheet" />
+</head>
+<body>
+    <section>
+        <h1>Task 01
+        </h1>
+        <br />
+        <h3>Create a walking Super Mario
+        </h3>
+        <br />
+        <ul>
+            <li>Super Mario must be walking indefinitely from left to right on the screen</li>
+            <li>The background must be created using SVG</li>
+            <li>Additional requirements:
+                <ul>
+                    <li>Use Canvas for Super Mario</li>
+                    <li>Use SVG for the background</li>
+                    <li>You can use Raphael and/or KineticJS, or native Canvas/SVG APIs</li>
+                </ul>
+            </li>
+        </ul>
+        <br />
+        <br />
+        <article>
+            <div id="container"></div>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="574" height="250">
+                <image x="0" y="0" width="574" height="250" xlink:href="../resources/imgs/overworldBackground.png">
+                    <animateTransform attributeName="transform" begin="0s" dur="20s" type="translate" from="574 0" to="0 0" repeatCount="indefinite" />
+                </image>
+                <image x="0" y="0" width="574" height="250" xlink:href="../resources/imgs/overworldBackground.png">
+                    <animateTransform attributeName="transform" begin="0s" dur="20s" type="translate" from="0 0" to="-574 0" repeatCount="indefinite" />
+                </image>
+                <image x="574" y="0" width="574" height="250" xlink:href="../resources/imgs/overworldBackground.png">
+                    <animateTransform attributeName="transform" begin="0s" dur="20s" type="translate" from="1148 0" to="574 0" repeatCount="indefinite" />
+                </image>
+                <image x="574" y="0" width="574" height="250" xlink:href="../resources/imgs/overworldBackground.png">
+                    <animateTransform attributeName="transform" begin="0s" dur="20s" type="translate" from="574 0" to="0 0" repeatCount="indefinite" />
+                </image>
+            </svg>
+            <p>
+                Some tasks may require console. To open the console when viewing this page in <span class="ie">Internet Explorer</span>, <span class="firefox">Mozilla Firefox</span>, <span class="chrome">Chrome</span> or <span class="opera">Opera</span> right-click inside the browser body and choose Inspect element > Console.
+            </p>
+            <p>
+                In <span class="safari">Safari</span> go to Cog-Wheel > Prefences > Advanced > Show Develop menu in menu bar. This will enable right-click > Inspect element.
+            </p>
+            <div class="div-table">
+                <div class="div-row">
+                    <div class="div-cell">
+                        <a href="../index.html">back</a>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+</body>
+<script src="../resources/libs/kinetic-v5.1.0.min.js"></script>
+<script src="superMario.js"></script>
+</html>
+
+
