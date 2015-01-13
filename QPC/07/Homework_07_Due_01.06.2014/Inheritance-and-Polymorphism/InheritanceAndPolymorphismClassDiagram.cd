@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InheritanceAndPolymorphism.Course">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAAAAEAAAQAQAAAAGAAAAABAAAAACAAA=</HashCode>
+      <FileName>Classes\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceAndPolymorphism.LocalCourse">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\LocalCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceAndPolymorphism.OffsiteCourse">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAIEAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\OffsiteCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceAndPolymorphism.CoursesExamples" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CoursesExamples.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

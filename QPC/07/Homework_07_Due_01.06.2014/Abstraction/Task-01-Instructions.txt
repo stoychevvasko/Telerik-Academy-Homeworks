@@ -1,0 +1,14 @@
+﻿---------------------------------------------------------------------------------
+Task 01
+---------------------------------------------------------------------------------
+
+Take the VS solution "Abstraction" and refactor its code to provide
+good abstraction. 
+
+Move the properties and methods from the class Figure to their correct place. 
+
+Move the common methods to the base class's interface. 
+
+Remove all duplicated code (properties / methods / other code).
+
+---------------------------------------------------------------------------------

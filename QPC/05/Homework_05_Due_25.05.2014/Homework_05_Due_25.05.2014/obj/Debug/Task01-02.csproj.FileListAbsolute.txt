@@ -1,0 +1,6 @@
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Homework_05_Due_25.05.2014\bin\Debug\Homework_05_Due_25.05.2014.exe.config
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Homework_05_Due_25.05.2014\bin\Debug\Homework_05_Due_25.05.2014.exe
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Homework_05_Due_25.05.2014\bin\Debug\Homework_05_Due_25.05.2014.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Homework_05_Due_25.05.2014\obj\Debug\Task01-02.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Homework_05_Due_25.05.2014\obj\Debug\Homework_05_Due_25.05.2014.exe
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Homework_05_Due_25.05.2014\obj\Debug\Homework_05_Due_25.05.2014.pdb

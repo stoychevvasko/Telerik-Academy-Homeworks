@@ -1,0 +1,10 @@
+﻿---------------------------------------------------------------------------------
+Task 02
+---------------------------------------------------------------------------------
+
+Establish good encapsulation in the classes from the VS solution "Abstraction". 
+
+Ensure that incorrect values cannot be assigned in the internal state 
+of the classes.
+
+---------------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CohesionAndCoupling.Geometry2D" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Classes\Geometry2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CohesionAndCoupling.Geometry3D" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Classes\Geometry3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CohesionAndCoupling.StringProcessor" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAE=</HashCode>
+      <FileName>Classes\StringProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CohesionAndCoupling.MethodDemo" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MethodDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

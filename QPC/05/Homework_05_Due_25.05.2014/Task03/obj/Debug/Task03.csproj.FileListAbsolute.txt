@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Task03\bin\Debug\Task03.exe.config
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Task03\bin\Debug\Task03.exe
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Task03\bin\Debug\Task03.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Task03\obj\Debug\Task03.exe
+C:\Users\Vase\Desktop\homeworks\QPC\05\Homework_05_Due_25.05.2014\Task03\obj\Debug\Task03.pdb

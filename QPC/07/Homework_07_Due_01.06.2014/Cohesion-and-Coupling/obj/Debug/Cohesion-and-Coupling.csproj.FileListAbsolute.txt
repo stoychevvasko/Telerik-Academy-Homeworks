@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

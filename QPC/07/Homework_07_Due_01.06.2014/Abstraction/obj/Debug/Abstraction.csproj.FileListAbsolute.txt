@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Vase\Desktop\homeworks\QPC\07\Homework_07_Due_01.06.2014\Abstraction\obj\Debug\Abstraction.pdb
