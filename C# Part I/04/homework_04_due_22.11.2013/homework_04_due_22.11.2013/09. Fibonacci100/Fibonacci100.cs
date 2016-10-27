@@ -20,10 +20,10 @@ class Fibonacci100
         Console.WriteLine();
 
         
-        decimal[] number = new decimal[100];  //the only type I could get to print properly
-        number[0] = 1;                        //formatting strings rounded off floats and doubles
-        number[1] = 1;                        //even though their respective ranges suffice theoretically
-                                              //do let me know if you managed to make it print without decimal type
+        decimal[] number = new decimal[100];
+        number[0] = 1;
+        number[1] = 1;
+
         for (int i = 2; i <= 99; i++)
         {
             number[i] = number[i - 1] + number[i - 2];
