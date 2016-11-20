@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Consuming Remote Data</title>
+</head>
+<body id="background" style="background-color: #000">
+    <header>
+        <img src="resources/images/keyboard-glow.jpg" alt="a pretty image" id="dashboard-pic" />                
+        <audio id="buzz">
+            <source src="resources/sound/buzz.mp3" type="audio/mp3" />
+            <source src="resources/sound/buzz.wav" type="audio/vnd.wave" />
+        </audio>
+        <h1 class="hoverable bgr-monocolor" id="homework-title">Consuming Remote Data</h1>
+        <p class="hoverable bgr-monocolor" id="additional-info">a <em>JavaScript Applications</em> homework due <strong>July 28, 2014</strong></p>
+    </header>
+    <nav class="bgr-monocolor" id="navigation">
+        <script id="task-navigation-template" type="text/x-handlebars-template">
+            {{#each allHomeworkTasks}}
+            <span class='task-navigation-entry' id="{{this.number}}">
+                <a href="{{this.link}}">task {{this.number}}</a>
+            </span>
+            {{/each}}
+        </script>
+        <div id="task-navigation-entries"></div>
+    </nav>
+    <section id="task-descriptions" class="bgr-monocolor">
+        <article>
+            <p></p>
+        </article>
+    </section>
+    <aside></aside>
+    <footer class="hoverable bgr-monocolor" id="footer">Thanks for checking my homework!</footer>
+    <script src="libraries/handlebars-v1.3.0.js"></script>
+    <script src="libraries/jquery-1.11.1.min.js"></script>
+    <script src="scripts/globalVariables.js"></script>
+    <script src="scripts/generateLandingPage.js"></script>
+    <link href="resources/less/css/styles.min.css" rel="stylesheet" />
+</body>
+</html>

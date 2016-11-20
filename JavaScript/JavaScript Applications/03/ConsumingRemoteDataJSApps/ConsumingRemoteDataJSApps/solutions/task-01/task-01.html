@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Task 01</title>
+</head>
+<body id="background" style="background-color: #000">
+    <header>
+        <h1 class="hoverable bgr-monocolor" id="task-title">Task 01</h1>
+        <audio id="buzz2">
+            <source src="../../resources/sound/buzz.mp3" type="audio/mp3" />
+            <source src="../../resources/sound/buzz.wav" type="audio/vnd.wave" />
+        </audio>
+    </header>
+    <div id="wrapper" class="bgr-monocolor">        
+        <div id="http-response"></div>
+    </div>
+    <section class="bgr-monocolor" id="default-instructions">
+        <article>
+            <p>Make sure to run the demo server with Node.js! Server folder is not part of the VS project but is included in the archive.</p>    
+            <br />        
+            <p>
+                Some tasks may require console. To open the console when viewing this page in <span class="ie">Internet Explorer</span>, <span class="firefox">Mozilla Firefox</span>, <span class="chrome">Chrome</span> or <span class="opera">Opera</span> right-click inside the browser body and choose Inspect element > Console. 
+            </p>
+            <p>
+                In <span class="safari">Safari</span> go to Cog-Wheel > Prefences > Advanced > Show Develop menu in menu bar. This will enable right-click > Inspect element.
+            </p>
+        </article>
+    </section>
+    <footer class="transparent">
+        <form action="../../Index.html">
+            <input type="submit" value="back" class="bgr-monocolor hoverable" id="back-button">
+        </form>
+    </footer>
+    <link href="../../resources/less/css/styles.min.css" rel="stylesheet" />
+    <script src="../../libraries/jquery-1.11.1.min.js"></script>
+    <script src="../../libraries/handlebars-v1.3.0.js"></script>
+    <script src="../../scripts/globalVariables.js"></script>
+    <script src="../../scripts/generateTaskPage.js"></script>
+    <script src="../../libraries/q.min.js"></script>
+    <script src="../../libraries/require.js"></script>
+    <script src="task-01-solution.js"></script>
+</body>
+</html>

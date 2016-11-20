@@ -1,0 +1,578 @@
+﻿@background-color-shadows: #000;
+@background-color-mid-tones: #222;
+@background-color-highlights: #303030;
+
+@foreground-color-shadows: #777;
+@foreground-color-mid-tones: #bbb;
+@foreground-color-highlights: #ddd;
+
+@shadow-color-thin: rgba(0,0,0,0.3);
+@shadow-color-medium: rgba(0,0,0,0.5);
+@shadow-color-thick: rgba(0,0,0,0.8);
+
+@main-color-undertone: #66ccff;
+@main-color: #a2e0ff;
+@main-color-highlight: #d0f2ff;
+
+@border-radius-narrow: 5px;
+@border-radius-medium: 10px;
+@border-radius-wide: 15px;
+
+@margin-padding-narrow: 5px;
+@margin-padding-medium: 10px;
+@margin-padding-wide: 15px;
+
+@font-family-primary: sans-serif;
+@font-family-secondary: serif;
+
+@color-h1: #fff876;
+@color-h1-undertone: #ffff00;
+
+@font-size-h1: 36px;
+@font-size-h2: 17px;
+@font-size-content: 13px;
+
+.box-shadow(@color, @distance1, @distance2, @distance3)
+{
+    box-shadow: @distance1 @distance2 @distance3 @color;
+}
+
+.gradient-horizontal-aba(@color-sides, @color-middle)
+{
+    background: @color-middle;
+    background: -moz-linear-gradient(left, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, @color-sides), color-stop(50%, @color-middle), color-stop(100%, @color-sides));
+    background: -webkit-linear-gradient(left, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    background: -o-linear-gradient(left, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    background: -ms-linear-gradient(left, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    background: linear-gradient(to right, @color-sides 0%, @color-middle 50%, @color-sides 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=1 );
+}
+
+.gradient-vertical-aba(@color-top-bottom, @color-middle)
+{
+    background: @color-middle;
+    background: -moz-linear-gradient(top, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, @color-top-bottom), color-stop(50%, @color-middle), color-stop(100%, @color-top-bottom));
+    background: -webkit-linear-gradient(top, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    background: -o-linear-gradient(top, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    background: -ms-linear-gradient(top, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    background: linear-gradient(to bottom, @color-top-bottom 0%, @color-middle 50%, @color-top-bottom 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+}
+
+.gradient-radial-ab(@color-outer, @color-inner)
+{
+    background: @color-inner;
+    background: -moz-radial-gradient(center, ellipse cover, @color-inner 0%, @color-outer 66%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,@color-inner), color-stop(66%,@color-outer));
+    background: -webkit-radial-gradient(center, ellipse cover, @color-inner 0%,@color-outer 66%);
+    background: -o-radial-gradient(center, ellipse cover, @color-inner 0%,@color-outer 66%);
+    background: -ms-radial-gradient(center, ellipse cover, @color-inner 0%,@color-outer 66%);
+    background: radial-gradient(ellipse at center, @color-inner 0%,@color-outer 66%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=@color-inner, endColorstr=@color-outer,GradientType=1 );
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    left: 0px;
+    top: 0px;
+    display: block;
+    position: relative;
+}
+
+body
+{
+    background-color: @background-color-shadows;
+    font-family: @font-family-primary;
+    color: @foreground-color-highlights;
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url('../../images/background.jpg') repeat center center fixed;
+    /*-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+    header
+    {
+        display: block;
+        position: absolute;
+        width: 33%;
+        height: 600px;
+        text-align: center;
+        top: 55%;
+        left: 33%;
+        ///border: 2px solid red;
+        img
+        {
+            position: relative;
+            border-radius: @border-radius-medium;
+            border: 2px solid @main-color;
+            left: -172px;
+            top: 75px;
+        }
+
+        h1
+        {
+            //width: 680px;
+            padding: @margin-padding-medium 0px;
+            border: 2px solid @main-color;
+            border-radius: @border-radius-medium;
+            color: @color-h1;
+            font-size: @font-size-h1;
+            font-style: italic;
+            margin-left: -172px;
+            margin-top: -355px;
+            width: 689px;
+        }
+
+            h1:hover
+            {
+                cursor: pointer;
+            }
+
+            h1#task-title
+            {
+                margin-top: @margin-padding-medium;
+            }
+
+        p
+        {
+            width: 689px;
+            margin-top: 365px;
+            margin-left: -172px;
+            padding: @margin-padding-medium 0px;
+            border: 2px solid @main-color;
+            border-radius: @border-radius-medium;
+            color: @main-color;
+            font-size: @font-size-h2;
+
+            em
+            {
+                color: @main-color-undertone;
+            }
+
+            strong
+            {
+                color: @color-h1;
+            }
+        }
+
+            p:hover, p:hover strong, p:hover em
+            {
+                cursor: pointer;
+                color: @background-color-shadows;
+            }
+    }
+
+    nav
+    {
+        position: absolute;
+        width: 660px;
+        height: 25px;
+        text-align: center;
+        top: 510px;
+        left: 33%;
+        display: block;
+        margin-left: -155px;
+        border: 2px solid @main-color;
+        border-radius: @border-radius-medium;
+        color: @main-color;
+        font-size: @font-size-h2;
+
+        div#tasks-navigation-entries
+        {
+            position: relative;
+
+            span
+            {
+                display: inline-block;
+                position: relative;
+                margin: @margin-padding-narrow;
+                border: 2px solid @main-color;
+            }
+        }
+    }
+
+    section
+    {
+        position: absolute;
+        width: 650px;
+        height: 250px;
+        text-align: left;
+        top: 545px;
+        left: 33%;
+        margin-left: -150px;
+        display: block;
+        border: 1px solid @main-color;
+        border-radius: @border-radius-medium;
+        color: @main-color;
+        font-size: @font-size-h2;
+        overflow: hidden;
+
+        article
+        {
+            width: 625px;
+            display: block;
+            padding: @margin-padding-wide;
+
+            .pattern
+            {
+                width: 166px;
+                height: 186px;
+                display: inline-block;
+                border: 1px solid @main-color;
+                border-radius: @border-radius-medium;
+                padding: @margin-padding-narrow;
+                margin: @margin-padding-medium;
+
+                div
+                {
+                    font-weight: bold;
+                    line-height: 1em;
+                    text-align: center;
+                }
+
+                img
+                {
+                    border-radius: @border-radius-narrow @border-radius-narrow @border-radius-medium @border-radius-medium;
+                }
+            }
+
+            p
+            {
+                width: 600px;
+                display: block;
+
+                .ie:before, .firefox:before, .chrome:before, .opera:before, .safari:before
+                {
+                    display: inline-block;
+                    position: relative;
+                    top: @margin-padding-medium;
+                    margin-left: @margin-padding-narrow;
+                    margin-right: @margin-padding-narrow;
+                }
+
+
+                .ie:before
+                {
+                    content: url(../../images/ie.png);
+                }
+
+                .firefox:before
+                {
+                    content: url(../../images/firefox.png);
+                }
+
+                .chrome:before
+                {
+                    content: url(../../images/chrome.png);
+                }
+
+                .opera:before
+                {
+                    content: url(../../images/opera.png);
+                }
+
+                .safari:before
+                {
+                    content: url(../../images/safari.png);
+                }
+
+                div
+                {
+                    ul
+                    {
+                        margin: @margin-padding-narrow;
+
+                        li
+                        {
+                            margin-left: @margin-padding-wide * 2;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    aside
+    {
+        position: relative;
+    }
+
+    footer
+    {
+        display: block;
+        position: relative;
+        width: 440px;
+        height: 25px;
+        text-align: center;
+        top: 805px;
+        left: 33%;
+        text-align: center;
+        margin-left: -50px;
+        border: 2px solid @main-color;
+        border-radius: @border-radius-medium;
+        color: @main-color;
+        font-size: @font-size-h2;
+        padding-top: @margin-padding-narrow;
+    }
+
+        footer:hover
+        {
+            cursor: pointer;
+        }
+}
+
+.hoverable:hover, a:hover
+{
+    .gradient-horizontal-aba(@main-color-undertone, @main-color);
+    color: @background-color-shadows;
+    border-color: @main-color-undertone;
+    cursor: pointer;
+}
+
+h1.hoverable:hover
+{
+    .gradient-horizontal-aba(@color-h1-undertone, @color-h1);
+    border-color: @color-h1-undertone;
+}
+
+a
+{
+    display: inline-block;
+    position: relative;
+    top: -11px;
+    color: @main-color;
+    margin: @margin-padding-medium;
+    line-height: @font-size-h2;
+    border-radius: @border-radius-medium;
+    padding: @margin-padding-narrow @margin-padding-medium;
+    text-decoration: none;
+}
+
+.bgr-monocolor
+{
+    background-color: @shadow-color-medium;
+}
+
+.transparent
+{
+    border: 0px solid rgba(0,0,0,0);
+    background-color: rgba(0,0,0,0);
+}
+
+form
+{
+    input[type=submit]
+    {
+        position: relative;
+        text-align: center;
+        display: block;
+        left: 50%;
+        margin-left: -25px;
+        border: 2px solid @main-color;
+        border-radius: @border-radius-medium;
+        color: @main-color;
+        font-size: @font-size-h2;
+        padding: @margin-padding-narrow @margin-padding-medium;
+    }
+}
+
+#wrapper
+{
+    display: block;
+    position: absolute;
+    width: 659px;
+    height: 395px;
+    left: 33%;
+    margin-left: -172px;
+    margin-top: 105px;
+    border: 1px solid @main-color;
+    border-radius: @border-radius-narrow;
+    padding: @margin-padding-wide;
+    color: @main-color;
+    font-size: @font-size-content;
+    overflow: scroll;
+
+    h3
+    {
+        color: @color-h1-undertone;
+        font-size: @font-size-h1 / 2;
+    }
+
+    strong
+    {
+        color: @color-h1;
+    }
+
+    em
+    {
+        color: @main-color-highlight;
+        font-weight: bold;
+    }
+
+    ul
+    {
+        margin: @margin-padding-narrow;
+
+        li
+        {
+            margin-left: @margin-padding-wide * 2;
+        }
+    }
+
+    #observer-diagram, #builder-diagram, #parcer-diagram
+    {
+        border-radius: @border-radius-medium;
+        border: 1px solid @main-color-undertone;
+        display: block;
+        position: absolute;
+        left: 700px;
+        top: 0px;
+    }
+
+    body
+    {
+        font-family: 'Calibri', 'Sans Serif';
+    }
+
+    h2
+    {
+        clear: both;
+        padding-left: 40px;
+    }
+
+    p, a
+    {
+        font-size: 9pt;
+        margin: 10px 0 0 0;
+        color: #3d3d3d;
+    }
+
+        a, a:visited
+        {
+            color: #427fed;
+        }
+
+            a:hover
+            {
+                color: #82afff;
+            }
+
+    ul li
+    {
+        list-style: none;
+        overflow: hidden;
+        border: 1px solid @main-color;
+        margin: 5px;
+        padding: 5px;
+    }
+
+        ul li:hover
+        {
+            background-color: @background-color-mid-tones;
+        }
+
+    .user, .tweet, .timePosted
+    {
+        float: left;
+    }
+
+    .user
+    {
+        width: 25%;
+    }
+
+    .tweet
+    {
+        width: 50%;
+    }
+
+    .timePosted
+    {
+        width: 15%;
+    }
+
+    .user
+    {
+        clear: left;
+    }
+
+        .user a
+        {
+            width: 100px;
+        }
+
+        .user span span
+        {
+            width: 100px;
+            display: block;
+            margin-top: 10px;
+        }
+
+        .user img, .user a > span
+        {
+            float: left;
+        }
+
+    .interact
+    {
+        float: left;
+        width: 10%;
+        margin-top: -7px;
+    }
+
+        .interact a
+        {
+            margin-left: 5px;
+            float: left;
+        }
+
+    .user a > span
+    {
+        margin-left: 10px;
+    }
+
+    #linkage
+    {
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        background-color: #3d3d3d;
+        color: #ffffff;
+        text-decoration: none;
+        padding: 5px;
+        width: 10%;
+        font-family: arial;
+    }
+}
+
+input[type=button]
+{
+    text-align: center;
+    border: 2px solid @main-color;
+    border-radius: @border-radius-medium;
+    color: @main-color;
+    font-size: @font-size-h2;
+    padding: @margin-padding-narrow @margin-padding-medium;
+    margin: @margin-padding-medium;
+}
+
+ul
+{
+    margin: @margin-padding-narrow;
+
+    li
+    {
+        margin-left: @margin-padding-wide * 2;
+    }
+}

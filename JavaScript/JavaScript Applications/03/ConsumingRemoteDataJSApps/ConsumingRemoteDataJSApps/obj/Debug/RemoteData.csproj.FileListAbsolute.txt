@@ -1,0 +1,5 @@
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript Applications\03\Consuming_Remote_Data\ConsumingRemoteDataJSApps\ConsumingRemoteDataJSApps\bin\ConsumingRemoteDataJSApps.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript Applications\03\Consuming_Remote_Data\ConsumingRemoteDataJSApps\ConsumingRemoteDataJSApps\bin\ConsumingRemoteDataJSApps.pdb
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript Applications\03\Consuming_Remote_Data\ConsumingRemoteDataJSApps\ConsumingRemoteDataJSApps\obj\Debug\RemoteData.csprojResolveAssemblyReference.cache
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript Applications\03\Consuming_Remote_Data\ConsumingRemoteDataJSApps\ConsumingRemoteDataJSApps\obj\Debug\ConsumingRemoteDataJSApps.dll
+C:\Users\Vase\Desktop\homeworks\JS\JavaScript Applications\03\Consuming_Remote_Data\ConsumingRemoteDataJSApps\ConsumingRemoteDataJSApps\obj\Debug\ConsumingRemoteDataJSApps.pdb
